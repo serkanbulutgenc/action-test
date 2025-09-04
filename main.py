@@ -2,6 +2,9 @@ import asyncio
 from typing import Sequence
 import datetime
 
+def auth(*args, **kwargs)->None:
+    print("Auth fn install script")
+
 
 def f(x):
     '''

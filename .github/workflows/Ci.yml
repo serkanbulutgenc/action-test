@@ -23,4 +23,4 @@ jobs:
       - name : Linter 
         run : |
           uvx ruff check --fix
-          uvx ruff format
+          uvx ruff format . 

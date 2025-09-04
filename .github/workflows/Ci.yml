@@ -21,4 +21,4 @@ jobs:
       - name: Linter
         uses: astral-sh/ruff-action@v3
         with:
-          args: "format --check --fix"
+          args: "format --check -- --fix"

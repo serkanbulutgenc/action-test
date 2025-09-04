@@ -11,8 +11,19 @@ jobs:
       BAR: Baz value 
 
     steps:
-      - name: Clonning repo
+      - name: Clone repo
         uses: actions/checkout@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with : 
+          python-version-file: .python-version
+
+      - name: Setup uv 
+        uses: astral-sh/setup-uv@v6
 
       - name : Run Test 
         run : "echo  running test.. $(date) ${{env.FOO}}"
+
+      - name: Run Code
+        run: python main.py

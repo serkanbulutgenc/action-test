@@ -12,7 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     env: 
       FOO: Foo value
-      BAR: Baz value 
+      BAR: Baz value
+      RUFF_OUTPUT_FORMAT: github
 
     steps:
       - name: Clone repo

@@ -18,15 +18,7 @@ jobs:
 
     steps:
       - name: Clone repo
-        uses: actions/checkout@v5
-
-      - name: Setup uv 
-        uses: astral-sh/setup-uv@v6
-
-      - name: Crate file
-        run : echo "$(date) - ${{github.sha}}" >> commit_log.txt
+        uses: actions/checkout@v4
 
       - name : Linter 
-        run : |
-          uvx ruff check --fix
-          uvx ruff format . 
+        uses: astral-sh/ruff-action@v3

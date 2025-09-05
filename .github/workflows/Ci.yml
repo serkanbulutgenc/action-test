@@ -22,5 +22,7 @@ jobs:
 
       - name : Linter 
         uses: astral-sh/ruff-action@v3
-        with:
-          args: check --fix --output-format=github .
+      
+      - run: ruff check --fix
+      - run: ruff format
+        

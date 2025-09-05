@@ -23,6 +23,9 @@ jobs:
       - name: Setup uv 
         uses: astral-sh/setup-uv@v6
 
+      - name: Crate file
+        run : echo "$(date) - ${{github.sha}}" >> commit_log.txt
+
       - name : Linter 
         run : |
           uvx ruff check --fix

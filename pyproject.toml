@@ -33,3 +33,8 @@ quote-style = "single"
 indent-style = "space"
 docstring-code-format = true
 docstring-code-line-length = 20
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.2",
+]

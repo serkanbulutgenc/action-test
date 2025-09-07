@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "asynchttp>=0.0.4",
+    "fastapi[standard]>=0.116.1",
 ]
 
 [tool.ruff.lint]
@@ -36,5 +37,6 @@ docstring-code-line-length = 20
 
 [dependency-groups]
 dev = [
+    "httpx>=0.28.1",
     "pytest>=8.4.2",
 ]

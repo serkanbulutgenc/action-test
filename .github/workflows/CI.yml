@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  pull_request:
+    branches: ["main"]
+  push:
+    branches: ["main"]
+
+jobs:
+  linter:
+    strategy:
+      matrix:
+        python-versions: ["3.11", "3.12", "3.13"]
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{matrix.python-versions}}
+
+      - name: Pre-commit
+        uses: pre-commit/action@v3.0.1

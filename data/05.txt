@@ -1,0 +1,448 @@
+{
+  "position_number": "05",
+  "item_definition": "Tarifenin Başka Yerinde Belirtilmeyen Veya Yer Almayan Hayvansal Menşeli Ürünler",
+  "id": 5000,
+  "children": [
+    {
+      "position_number": "050100000000",
+      "level": 0,
+      "item_definition": "İnsan saçı (işlenmemiş, yıkanmış veya yağı alınmış olsun olmasın) ; insan saçı döküntüleri",
+      "id": 17585669150791,
+      "parent_id": 5000
+    },
+    {
+      "position_number": "0502",
+      "level": 0,
+      "item_definition": "Evcil domuz veya yaban domuzu kılları; porsuk kılları veya fırça imali için diğer kıllar; bu kılların döküntüleri:",
+      "id": 17585669150802,
+      "parent_id": 5000,
+      "children": [
+        {
+          "position_number": "050210",
+          "level": 1,
+          "item_definition": "EvciI domuz veya yaban domuzu kılları ve bunların döküntüleri:",
+          "id": 17585669150803,
+          "parent_id": 17585669150802,
+          "children": [
+            {
+              "position_number": "050210001000",
+              "level": 2,
+              "item_definition": "Domuz kılı",
+              "id": 17585669150804,
+              "parent_id": 17585669150803
+            },
+            {
+              "position_number": "050210009000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 17585669150805,
+              "parent_id": 17585669150803
+            }
+          ]
+        },
+        {
+          "position_number": "050290000000",
+          "level": 1,
+          "item_definition": "Diğerleri",
+          "id": 17585669150806,
+          "parent_id": 17585669150802
+        }
+      ]
+    },
+    {
+      "position_number": "050400",
+      "level": 0,
+      "item_definition": "Tam veya parça halinde hayvan bağırsakları, mesaneleri ve mideleri (balıklara ait olanlar hariç) (taze, soğutulmuş, dondurul muş, tuzlanmış, salamura edilmiş, kurutulmuş veya tütsülenmiş) :",
+      "id": 17585669150807,
+      "parent_id": 5000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Kurutulmuş şirdenler",
+          "id": 17585669150808,
+          "parent_id": 17585669150807,
+          "children": [
+            {
+              "position_number": "050400001011",
+              "level": 2,
+              "item_definition": "Kuru buzağı şirdeni",
+              "id": 17585669150809,
+              "parent_id": 17585669150808
+            },
+            {
+              "position_number": "050400001019",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175856691508010,
+              "parent_id": 17585669150808
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Diğerleri",
+          "id": 175856691508011,
+          "parent_id": 17585669150807,
+          "children": [
+            {
+              "position_number": "050400009010",
+              "level": 2,
+              "item_definition": "Bağırsaklar",
+              "id": 175856691508012,
+              "parent_id": 175856691508011
+            },
+            {
+              "position_number": "050400009030",
+              "level": 2,
+              "item_definition": "Kurutulmamış şirdenler",
+              "id": 175856691508013,
+              "parent_id": 175856691508011
+            },
+            {
+              "position_number": "050400009090",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175856691508014,
+              "parent_id": 175856691508011
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0505",
+      "level": 0,
+      "item_definition": "Kuşların tüylü veya ince tüylü deri ve diğer kısımları, tüyler ve tüy parçaları (kenarları kırpılmış olsun olmasın) ve ince tüyler (muhafaza amacıyla işleme, temizleme veya dezenfekte etmeden başka bir işleme tabi tutulmamış); tüy veya tüy parça larının  toz ve döküntüleri:",
+      "id": 175856691508115,
+      "parent_id": 5000,
+      "children": [
+        {
+          "position_number": "050510",
+          "level": 1,
+          "item_definition": "Doldurmada kullanılan tüyler; ince tüyler:",
+          "id": 175856691508116,
+          "parent_id": 175856691508115,
+          "children": [
+            {
+              "position_number": "050510100000",
+              "level": 2,
+              "item_definition": "İşlenmemiş",
+              "id": 175856691508117,
+              "parent_id": 175856691508116
+            },
+            {
+              "position_number": "050510900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175856691508118,
+              "parent_id": 175856691508116
+            }
+          ]
+        },
+        {
+          "position_number": "050590000000",
+          "level": 1,
+          "item_definition": "Diğerleri",
+          "id": 175856691508119,
+          "parent_id": 175856691508115
+        }
+      ]
+    },
+    {
+      "position_number": "0506",
+      "level": 0,
+      "item_definition": "Kemikler ve boynuz içi kemikleri (işlenmemiş, yağı alınmış, basit bir şekilde hazırlanmış fakat şekil verilerek kesilmemiş, asitle işlem görmüş veya jelatini alınmış); bunların toz ve döküntüleri:",
+      "id": 175856691508120,
+      "parent_id": 5000,
+      "children": [
+        {
+          "position_number": "050610000000",
+          "level": 1,
+          "item_definition": "Asitle işlem görmüş kemik ve kıkırdaklar",
+          "id": 175856691508121,
+          "parent_id": 175856691508120
+        },
+        {
+          "position_number": "050690000000",
+          "level": 1,
+          "item_definition": "Diğerleri",
+          "id": 175856691508122,
+          "parent_id": 175856691508120
+        }
+      ]
+    },
+    {
+      "position_number": "0507",
+      "level": 0,
+      "item_definition": "Fildişi, kaplumbağa kabuğu, balina dişi ve balina dişinin kılları, boynuzlar,geyik boynuzları,toynaklar,tırnaklar, pençeler ve gagalar (işlenmemiş veya basit bir şekilde hazırlanmış, fakat şekil verilerek kesilmemiş); bunların toz ve döküntüleri:",
+      "id": 175856691508123,
+      "parent_id": 5000,
+      "children": [
+        {
+          "position_number": "050710000000",
+          "level": 1,
+          "item_definition": "Fildişi ; fildişi tozu ve döküntüleri",
+          "id": 175856691508124,
+          "parent_id": 175856691508123
+        },
+        {
+          "position_number": "050790",
+          "level": 1,
+          "item_definition": "Diğerleri",
+          "id": 175856691508125,
+          "parent_id": 175856691508123,
+          "children": [
+            {
+              "position_number": "050790000011",
+              "level": 2,
+              "item_definition": "Boynuzlar",
+              "id": 175856691508126,
+              "parent_id": 175856691508125
+            },
+            {
+              "position_number": "050790000012",
+              "level": 2,
+              "item_definition": "Tırnaklar",
+              "id": 175856691508127,
+              "parent_id": 175856691508125
+            },
+            {
+              "position_number": "050790000019",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175856691508128,
+              "parent_id": 175856691508125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "050800",
+      "level": 0,
+      "item_definition": "Mercan ve benzeri maddeler(işlenmemiş veya basit bir şekilde hazırlanmış,fakat başka bir işlem görmemiş); yumuşakça, kabuklu hayvan veya kabuğu dikenli hayvanların kabukları ve mürekkep balığı kemiği (işlenmemiş veya basit bir şekilde hazırlanmış, fakat şekil verilerek kesilmemiş); bunların toz ve döküntüleri:",
+      "id": 175856691508129,
+      "parent_id": 5000,
+      "children": [
+        {
+          "position_number": "050800100000",
+          "level": 1,
+          "item_definition": "Kırmızı Mercan (Corallium rubrum)",
+          "id": 175856691508130,
+          "parent_id": 175856691508129
+        },
+        {
+          "position_number": "050800900000",
+          "level": 1,
+          "item_definition": "Diğerleri",
+          "id": 175856691508131,
+          "parent_id": 175856691508129
+        }
+      ]
+    },
+    {
+      "position_number": "051000",
+      "level": 0,
+      "item_definition": "Akamber, kunduz hayası (kastoreum), kedi miski (sivet) ve misk; kuduz böceği (kantarit) ve safra (kurutulmuş olsun olmasın); eczacılık ürünlerinin hazırlanmasında kullanılan guddeler ve diğer hayvansal maddeler (taze, soğutulmuş, dondurulmuş veya geçici olarak diğer şekillerde konserve edilmiş) :",
+      "id": 175856691508132,
+      "parent_id": 5000,
+      "children": [
+        {
+          "position_number": "051000001000",
+          "level": 1,
+          "item_definition": "Kantarit",
+          "id": 175856691508133,
+          "parent_id": 175856691508132
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Diğerleri",
+          "id": 175856691508134,
+          "parent_id": 175856691508132,
+          "children": [
+            {
+              "position_number": "051000009011",
+              "level": 2,
+              "item_definition": "Safra (kurutulmuş olsun olmasın )",
+              "id": 175856691508135,
+              "parent_id": 175856691508134
+            },
+            {
+              "position_number": "051000009019",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175856691508136,
+              "parent_id": 175856691508134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0511",
+      "level": 0,
+      "item_definition": "Tarifenin başka yerinde belirtilmeyen veya yer almayan hayvansal menşeli ürünler; insanların yemesine elverişli  olmayan 1. veya 3. fasıllarda yer alan cansız hayvanlar:",
+      "id": 175856691508137,
+      "parent_id": 5000,
+      "children": [
+        {
+          "position_number": "051110000000",
+          "level": 1,
+          "item_definition": "Sığır spermleri",
+          "id": 175856691508138,
+          "parent_id": 175856691508137
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Diğerleri:",
+          "id": 175856691508139,
+          "parent_id": 175856691508137,
+          "children": [
+            {
+              "position_number": "051191",
+              "level": 2,
+              "item_definition": "Balık,kabuklu hayvan,yumuşakça veya diğer su omurgasızlarının ürünleri; 3.fasılda yer alan cansız hayvanlar:",
+              "id": 175856691508140,
+              "parent_id": 175856691508139,
+              "children": [
+                {
+                  "position_number": "051191100000",
+                  "level": 3,
+                  "item_definition": "Balık döküntüleri",
+                  "id": 175856691508141,
+                  "parent_id": 175856691508140
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175856691508142,
+                  "parent_id": 175856691508140,
+                  "children": [
+                    {
+                      "position_number": "051191900011",
+                      "level": 4,
+                      "item_definition": "Alabalık yumurtası",
+                      "id": 175856691508143,
+                      "parent_id": 175856691508142
+                    },
+                    {
+                      "position_number": "051191900019",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 175856691508144,
+                      "parent_id": 175856691508142
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "position_number": "051199",
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 175856691508145,
+              "parent_id": 175856691508139,
+              "children": [
+                {
+                  "position_number": "051199100000",
+                  "level": 3,
+                  "item_definition": "Veterler ve tendonlar; dabaklanmamış derilerin kırpıntı ve benzeri döküntüleri",
+                  "id": 175856691508146,
+                  "parent_id": 175856691508145
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Hayvansal menşeli tabii süngerler:",
+                  "id": 175856691508147,
+                  "parent_id": 175856691508145,
+                  "children": [
+                    {
+                      "position_number": "051199310000",
+                      "level": 4,
+                      "item_definition": "İşlenmemiş",
+                      "id": 175856691508148,
+                      "parent_id": 175856691508147
+                    },
+                    {
+                      "position_number": "051199390000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 175856691508149,
+                      "parent_id": 175856691508147
+                    }
+                  ]
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri:",
+                  "id": 175856691508150,
+                  "parent_id": 175856691508145,
+                  "children": [
+                    {
+                      "position_number": "051199851000",
+                      "level": 4,
+                      "item_definition": "İpek böceği yumurtaları",
+                      "id": 175856691508151,
+                      "parent_id": 175856691508150
+                    },
+                    {
+                      "position_number": "051199852000",
+                      "level": 4,
+                      "item_definition": "At kılı ve at kılı döküntüleri (başka  maddelerin yardımıyla veya müstakilen tabakalar halinde olsun olmasın)",
+                      "id": 175856691508152,
+                      "parent_id": 175856691508150
+                    },
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 175856691508153,
+                      "parent_id": 175856691508150,
+                      "children": [
+                        {
+                          "position_number": "051199859011",
+                          "level": 5,
+                          "item_definition": "Hayvan kanı (kurutulmuş olsun olmasın)",
+                          "id": 175856691508154,
+                          "parent_id": 175856691508153
+                        },
+                        {
+                          "position_number": "051199859012",
+                          "level": 5,
+                          "item_definition": "Kırmız böceği (ochenille) ve benzeri böcekler",
+                          "id": 175856691508155,
+                          "parent_id": 175856691508153
+                        },
+                        {
+                          "position_number": "051199859013",
+                          "level": 5,
+                          "item_definition": "Hayvan yemi yapımında kullanılacak sakatatlar",
+                          "id": 175856691508156,
+                          "parent_id": 175856691508153
+                        },
+                        {
+                          "position_number": "051199859018",
+                          "level": 5,
+                          "item_definition": "Diğerleri",
+                          "id": 175856691508157,
+                          "parent_id": 175856691508153
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

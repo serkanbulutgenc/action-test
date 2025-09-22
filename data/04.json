@@ -1,86 +1,87 @@
 {
   "code": "04",
+  "id_": 49,
   "children": [
     {
       "code": "0401",
       "level": 0,
       "definition": "Süt ve krema (konsantre edilmemiş, ilave şeker veya diğer tatlandırıcı maddeleri içermeyenler):",
-      "id_": 17585300865381,
-      "parent_id": null,
+      "id_": 17585641181971,
+      "parent_id": 49,
       "children": [
         {
           "code": "040110",
           "level": 1,
-          "definition": "- Ağırlık itibariyle içerdiği katı yağ oranı % 1'i geçmeyenler:",
-          "id_": 17585300865382,
-          "parent_id": 17585300865381,
+          "definition": "Ağırlık itibariyle içerdiği katı yağ oranı % 1'i geçmeyenler:",
+          "id_": 17585641181972,
+          "parent_id": 17585641181971,
           "children": [
             {
               "code": "040110100000",
               "level": 2,
-              "definition": "- - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
-              "id_": 17585300865383,
-              "parent_id": 17585300865382
+              "definition": "Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
+              "id_": 17585641181973,
+              "parent_id": 17585641181972
             },
             {
               "code": "040110900000",
               "level": 2,
-              "definition": "- - Diğerleri",
-              "id_": 17585300865384,
-              "parent_id": 17585300865382
+              "definition": "Diğerleri",
+              "id_": 17585641181974,
+              "parent_id": 17585641181972
             }
           ]
         },
         {
           "code": "040120",
           "level": 1,
-          "definition": "- Ağırlık itibariyle içerdiği katı yağ oranı % 1 'i geçen, fakat % 6' yı geçmeyenler:",
-          "id_": 17585300865385,
-          "parent_id": 17585300865381,
+          "definition": "Ağırlık itibariyle içerdiği katı yağ oranı % 1 'i geçen, fakat % 6' yı geçmeyenler:",
+          "id_": 17585641181975,
+          "parent_id": 17585641181971,
           "children": [
             {
               "code": null,
               "level": 2,
-              "definition": "- - Ağırlık itibariyle içerdiği katı yağ oranı % 3 'ü geçmeyenler :",
-              "id_": 17585300865386,
-              "parent_id": 17585300865385,
+              "definition": "Ağırlık itibariyle içerdiği katı yağ oranı % 3 'ü geçmeyenler :",
+              "id_": 17585641181976,
+              "parent_id": 17585641181975,
               "children": [
                 {
                   "code": "040120110000",
                   "level": 3,
-                  "definition": "- - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
-                  "id_": 17585300865387,
-                  "parent_id": 17585300865386
+                  "definition": "Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
+                  "id_": 17585641181977,
+                  "parent_id": 17585641181976
                 },
                 {
                   "code": "040120190000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 17585300865388,
-                  "parent_id": 17585300865386
+                  "definition": "Diğerleri",
+                  "id_": 17585641181978,
+                  "parent_id": 17585641181976
                 }
               ]
             },
             {
               "code": null,
               "level": 2,
-              "definition": "- - Ağırlık itibariyle içerdiği katı yağ oranı % 3 'ü geçenler :",
-              "id_": 17585300865389,
-              "parent_id": 17585300865385,
+              "definition": "Ağırlık itibariyle içerdiği katı yağ oranı % 3 'ü geçenler :",
+              "id_": 17585641181979,
+              "parent_id": 17585641181975,
               "children": [
                 {
                   "code": "040120910000",
                   "level": 3,
-                  "definition": "- - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
-                  "id_": 175853008653810,
-                  "parent_id": 17585300865389
+                  "definition": "Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
+                  "id_": 175856411819710,
+                  "parent_id": 17585641181979
                 },
                 {
                   "code": "040120990000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 175853008653811,
-                  "parent_id": 17585300865389
+                  "definition": "Diğerleri",
+                  "id_": 175856411819711,
+                  "parent_id": 17585641181979
                 }
               ]
             }
@@ -89,53 +90,53 @@
         {
           "code": "040140",
           "level": 1,
-          "definition": "- İçerdiği katı yağ oranı, ağırlık itibariyle, % 6' yı geçen fakat %10'u geçmeyenler :",
-          "id_": 175853008653812,
-          "parent_id": 17585300865381,
+          "definition": "İçerdiği katı yağ oranı, ağırlık itibariyle, % 6' yı geçen fakat %10'u geçmeyenler :",
+          "id_": 175856411819712,
+          "parent_id": 17585641181971,
           "children": [
             {
               "code": null,
               "level": 2,
-              "definition": "- - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
-              "id_": 175853008653813,
-              "parent_id": 175853008653812,
+              "definition": "Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
+              "id_": 175856411819713,
+              "parent_id": 175856411819712,
               "children": [
                 {
                   "code": "040140100011",
                   "level": 3,
-                  "definition": "- - - Süt",
-                  "id_": 175853008653814,
-                  "parent_id": 175853008653813
+                  "definition": "Süt",
+                  "id_": 175856411819714,
+                  "parent_id": 175856411819713
                 },
                 {
                   "code": "040140100012",
                   "level": 3,
-                  "definition": "- - - Krema",
-                  "id_": 175853008653815,
-                  "parent_id": 175853008653813
+                  "definition": "Krema",
+                  "id_": 175856411819715,
+                  "parent_id": 175856411819713
                 }
               ]
             },
             {
               "code": null,
               "level": 2,
-              "definition": "- - Diğerleri",
-              "id_": 175853008653816,
-              "parent_id": 175853008653812,
+              "definition": "Diğerleri",
+              "id_": 175856411819716,
+              "parent_id": 175856411819712,
               "children": [
                 {
                   "code": "040140900011",
                   "level": 3,
-                  "definition": "- - - Süt",
-                  "id_": 175853008653817,
-                  "parent_id": 175853008653816
+                  "definition": "Süt",
+                  "id_": 175856411819717,
+                  "parent_id": 175856411819716
                 },
                 {
                   "code": "040140900012",
                   "level": 3,
-                  "definition": "- - - Krema",
-                  "id_": 175853008653818,
-                  "parent_id": 175853008653816
+                  "definition": "Krema",
+                  "id_": 175856411819718,
+                  "parent_id": 175856411819716
                 }
               ]
             }
@@ -144,76 +145,76 @@
         {
           "code": "040150",
           "level": 1,
-          "definition": "- İçerdiği katı yağ oranı, ağırlık itibariyle, % 10'u geçenler:",
-          "id_": 175853008653819,
-          "parent_id": 17585300865381,
+          "definition": "İçerdiği katı yağ oranı, ağırlık itibariyle, % 10'u geçenler:",
+          "id_": 175856411819719,
+          "parent_id": 17585641181971,
           "children": [
             {
               "code": null,
               "level": 2,
-              "definition": "- - İçerdiği katı yağ oranı, ağırlık itibariyle, % 21'i geçmeyenler:",
-              "id_": 175853008653820,
-              "parent_id": 175853008653819,
+              "definition": "İçerdiği katı yağ oranı, ağırlık itibariyle, % 21'i geçmeyenler:",
+              "id_": 175856411819720,
+              "parent_id": 175856411819719,
               "children": [
                 {
                   "code": "040150110000",
                   "level": 3,
-                  "definition": "- - - Net muhteviyatı 2 lt.yi geçmeyen hazır ambalajlarda olanlar",
-                  "id_": 175853008653821,
-                  "parent_id": 175853008653820
+                  "definition": "Net muhteviyatı 2 lt.yi geçmeyen hazır ambalajlarda olanlar",
+                  "id_": 175856411819721,
+                  "parent_id": 175856411819720
                 },
                 {
                   "code": "040150190000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 175853008653822,
-                  "parent_id": 175853008653820
+                  "definition": "Diğerleri",
+                  "id_": 175856411819722,
+                  "parent_id": 175856411819720
                 }
               ]
             },
             {
               "code": null,
               "level": 2,
-              "definition": "- - Ağırlık itibariyle içerdiği katı yağ oranı % 21'i geçen fakat % 45 'i geçmeyenler :",
-              "id_": 175853008653823,
-              "parent_id": 175853008653819,
+              "definition": "Ağırlık itibariyle içerdiği katı yağ oranı % 21'i geçen fakat % 45 'i geçmeyenler :",
+              "id_": 175856411819723,
+              "parent_id": 175856411819719,
               "children": [
                 {
                   "code": "040150310000",
                   "level": 3,
-                  "definition": "- - - Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
-                  "id_": 175853008653824,
-                  "parent_id": 175853008653823
+                  "definition": "Net muhteviyatı 2 It.yi geçmeyen hazır ambalajlarda olanlar",
+                  "id_": 175856411819724,
+                  "parent_id": 175856411819723
                 },
                 {
                   "code": "040150390000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 175853008653825,
-                  "parent_id": 175853008653823
+                  "definition": "Diğerleri",
+                  "id_": 175856411819725,
+                  "parent_id": 175856411819723
                 }
               ]
             },
             {
               "code": null,
               "level": 2,
-              "definition": "- - Ağırlık itibariyle içerdiği katı yağ oranı % 45 'i geçenler :",
-              "id_": 175853008653826,
-              "parent_id": 175853008653819,
+              "definition": "Ağırlık itibariyle içerdiği katı yağ oranı % 45 'i geçenler :",
+              "id_": 175856411819726,
+              "parent_id": 175856411819719,
               "children": [
                 {
                   "code": "040150910000",
                   "level": 3,
-                  "definition": "- - - Net muhteviyatı 2 lt.yi geçmeyen hazır ambalajlarda olanlar",
-                  "id_": 175853008653827,
-                  "parent_id": 175853008653826
+                  "definition": "Net muhteviyatı 2 lt.yi geçmeyen hazır ambalajlarda olanlar",
+                  "id_": 175856411819727,
+                  "parent_id": 175856411819726
                 },
                 {
                   "code": "040150990000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 175853008653828,
-                  "parent_id": 175853008653826
+                  "definition": "Diğerleri",
+                  "id_": 175856411819728,
+                  "parent_id": 175856411819726
                 }
               ]
             }
@@ -225,59 +226,59 @@
       "code": "0402",
       "level": 0,
       "definition": "Süt ve krema (konsantre edilmiş veya ilave şeker ya da diğer tatlandırıcı maddeleri içerenler) :",
-      "id_": 175853008653829,
-      "parent_id": null,
+      "id_": 175856411819729,
+      "parent_id": 49,
       "children": [
         {
           "code": "040210",
           "level": 1,
-          "definition": "- Toz, granül veya diğer katı şekillerde olup, ağırlık itibariyle içerdiği katı yağ oranı, % 1,5 'i geçmeyenler:",
-          "id_": 175853008653830,
-          "parent_id": 175853008653829,
+          "definition": "Toz, granül veya diğer katı şekillerde olup, ağırlık itibariyle içerdiği katı yağ oranı, % 1,5 'i geçmeyenler:",
+          "id_": 175856411819730,
+          "parent_id": 175856411819729,
           "children": [
             {
               "code": null,
               "level": 2,
-              "definition": "- - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler :",
-              "id_": 175853008653831,
-              "parent_id": 175853008653830,
+              "definition": "İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler :",
+              "id_": 175856411819731,
+              "parent_id": 175856411819730,
               "children": [
                 {
                   "code": "040210110000",
                   "level": 3,
-                  "definition": "- - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
-                  "id_": 175853008653832,
-                  "parent_id": 175853008653831
+                  "definition": "Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+                  "id_": 175856411819732,
+                  "parent_id": 175856411819731
                 },
                 {
                   "code": "040210190000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 175853008653833,
-                  "parent_id": 175853008653831
+                  "definition": "Diğerleri",
+                  "id_": 175856411819733,
+                  "parent_id": 175856411819731
                 }
               ]
             },
             {
               "code": null,
               "level": 2,
-              "definition": "- - Diğerleri:",
-              "id_": 175853008653834,
-              "parent_id": 175853008653830,
+              "definition": "Diğerleri:",
+              "id_": 175856411819734,
+              "parent_id": 175856411819730,
               "children": [
                 {
                   "code": "040210910000",
                   "level": 3,
-                  "definition": "- - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
-                  "id_": 175853008653835,
-                  "parent_id": 175853008653834
+                  "definition": "Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+                  "id_": 175856411819735,
+                  "parent_id": 175856411819734
                 },
                 {
                   "code": "040210990000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 175853008653836,
-                  "parent_id": 175853008653834
+                  "definition": "Diğerleri",
+                  "id_": 175856411819736,
+                  "parent_id": 175856411819734
                 }
               ]
             }
@@ -286,60 +287,60 @@
         {
           "code": null,
           "level": 1,
-          "definition": "- Toz, granül veya diğer katı şekillerde olup, ağırlık itibariyle, içerdiği katı yağ oranı, %1,5' i geçenler:",
-          "id_": 175853008653837,
-          "parent_id": 175853008653829,
+          "definition": "Toz, granül veya diğer katı şekillerde olup, ağırlık itibariyle, içerdiği katı yağ oranı, %1,5' i geçenler:",
+          "id_": 175856411819737,
+          "parent_id": 175856411819729,
           "children": [
             {
               "code": "040221",
               "level": 2,
-              "definition": "- - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler :",
-              "id_": 175853008653838,
-              "parent_id": 175853008653837,
+              "definition": "İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler :",
+              "id_": 175856411819738,
+              "parent_id": 175856411819737,
               "children": [
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Ağırlık itibariyle, içerdiği katı yağ oranı, % 27'yi geçmeyenler:",
-                  "id_": 175853008653839,
-                  "parent_id": 175853008653838,
+                  "definition": "Ağırlık itibariyle, içerdiği katı yağ oranı, % 27'yi geçmeyenler:",
+                  "id_": 175856411819739,
+                  "parent_id": 175856411819738,
                   "children": [
                     {
                       "code": "040221110000",
                       "level": 4,
-                      "definition": "- - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
-                      "id_": 175853008653840,
-                      "parent_id": 175853008653839
+                      "definition": "Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+                      "id_": 175856411819740,
+                      "parent_id": 175856411819739
                     },
                     {
                       "code": "040221180000",
                       "level": 4,
-                      "definition": "- - - - Diğerleri",
-                      "id_": 175853008653841,
-                      "parent_id": 175853008653839
+                      "definition": "Diğerleri",
+                      "id_": 175856411819741,
+                      "parent_id": 175856411819739
                     }
                   ]
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - -  İçerdiği katı yağ oranı, ağırlık itibariyle, % 27'yi geçenler:",
-                  "id_": 175853008653842,
-                  "parent_id": 175853008653838,
+                  "definition": "İçerdiği katı yağ oranı, ağırlık itibariyle, % 27'yi geçenler:",
+                  "id_": 175856411819742,
+                  "parent_id": 175856411819738,
                   "children": [
                     {
                       "code": "040221910000",
                       "level": 4,
-                      "definition": "- - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
-                      "id_": 175853008653843,
-                      "parent_id": 175853008653842
+                      "definition": "Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+                      "id_": 175856411819743,
+                      "parent_id": 175856411819742
                     },
                     {
                       "code": "040221990000",
                       "level": 4,
-                      "definition": "- - - - Diğerleri",
-                      "id_": 175853008653844,
-                      "parent_id": 175853008653842
+                      "definition": "Diğerleri",
+                      "id_": 175856411819744,
+                      "parent_id": 175856411819742
                     }
                   ]
                 }
@@ -348,44 +349,44 @@
             {
               "code": "040229",
               "level": 2,
-              "definition": "- - Diğerleri:",
-              "id_": 175853008653845,
-              "parent_id": 175853008653837,
+              "definition": "Diğerleri:",
+              "id_": 175856411819745,
+              "parent_id": 175856411819737,
               "children": [
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçmeyenler :",
-                  "id_": 175853008653846,
-                  "parent_id": 175853008653845,
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçmeyenler :",
+                  "id_": 175856411819746,
+                  "parent_id": 175856411819745,
                   "children": [
                     {
                       "code": "040229110000",
                       "level": 4,
-                      "definition": "- - - - Süt çocukları için net muhteviyatı 500 gr.ı geçmeyen hava almayacak şekilde kapatılmış kaplarda bulunan ve ağırlık itibariyle içerdiği katı yağ oranı, % 10 'u geçen özel sütler",
-                      "id_": 175853008653847,
-                      "parent_id": 175853008653846
+                      "definition": "Süt çocukları için net muhteviyatı 500 gr.ı geçmeyen hava almayacak şekilde kapatılmış kaplarda bulunan ve ağırlık itibariyle içerdiği katı yağ oranı, % 10 'u geçen özel sütler",
+                      "id_": 175856411819747,
+                      "parent_id": 175856411819746
                     },
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Diğerleri:",
-                      "id_": 175853008653848,
-                      "parent_id": 175853008653846,
+                      "definition": "Diğerleri:",
+                      "id_": 175856411819748,
+                      "parent_id": 175856411819746,
                       "children": [
                         {
                           "code": "040229150000",
                           "level": 5,
-                          "definition": "- - - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
-                          "id_": 175853008653849,
-                          "parent_id": 175853008653848
+                          "definition": "Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+                          "id_": 175856411819749,
+                          "parent_id": 175856411819748
                         },
                         {
                           "code": "040229190000",
                           "level": 5,
-                          "definition": "- - - - - Diğerleri",
-                          "id_": 175853008653850,
-                          "parent_id": 175853008653848
+                          "definition": "Diğerleri",
+                          "id_": 175856411819750,
+                          "parent_id": 175856411819748
                         }
                       ]
                     }
@@ -394,23 +395,23 @@
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 27 'yi geçenler :",
-                  "id_": 175853008653851,
-                  "parent_id": 175853008653845,
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27 'yi geçenler :",
+                  "id_": 175856411819751,
+                  "parent_id": 175856411819745,
                   "children": [
                     {
                       "code": "040229910000",
                       "level": 4,
-                      "definition": "- - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
-                      "id_": 175853008653852,
-                      "parent_id": 175853008653851
+                      "definition": "Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+                      "id_": 175856411819752,
+                      "parent_id": 175856411819751
                     },
                     {
                       "code": "040229990000",
                       "level": 4,
-                      "definition": "- - - - Diğerleri",
-                      "id_": 175853008653853,
-                      "parent_id": 175853008653851
+                      "definition": "Diğerleri",
+                      "id_": 175856411819753,
+                      "parent_id": 175856411819751
                     }
                   ]
                 }
@@ -421,74 +422,74 @@
         {
           "code": null,
           "level": 1,
-          "definition": "- Diğerleri:",
-          "id_": 175853008653854,
-          "parent_id": 175853008653829,
+          "definition": "Diğerleri:",
+          "id_": 175856411819754,
+          "parent_id": 175856411819729,
           "children": [
             {
               "code": "040291",
               "level": 2,
-              "definition": "- - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
-              "id_": 175853008653855,
-              "parent_id": 175853008653854,
+              "definition": "İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
+              "id_": 175856411819755,
+              "parent_id": 175856411819754,
               "children": [
                 {
                   "code": "040291100000",
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 8' i geçmeyenler",
-                  "id_": 175853008653856,
-                  "parent_id": 175853008653855
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 8' i geçmeyenler",
+                  "id_": 175856411819756,
+                  "parent_id": 175856411819755
                 },
                 {
                   "code": "040291300000",
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 8' i geçen fakat % 10'u geçmeyenler",
-                  "id_": 175853008653857,
-                  "parent_id": 175853008653855
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 8' i geçen fakat % 10'u geçmeyenler",
+                  "id_": 175856411819757,
+                  "parent_id": 175856411819755
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Ağırlık itibariyle içerdiği katı yağ oranı %10 'u geçen fakat % 45'i geçmeyenler:",
-                  "id_": 175853008653858,
-                  "parent_id": 175853008653855,
+                  "definition": "Ağırlık itibariyle içerdiği katı yağ oranı %10 'u geçen fakat % 45'i geçmeyenler:",
+                  "id_": 175856411819758,
+                  "parent_id": 175856411819755,
                   "children": [
                     {
                       "code": "040291510000",
                       "level": 4,
-                      "definition": "- - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
-                      "id_": 175853008653859,
-                      "parent_id": 175853008653858
+                      "definition": "Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+                      "id_": 175856411819759,
+                      "parent_id": 175856411819758
                     },
                     {
                       "code": "040291590000",
                       "level": 4,
-                      "definition": "- - - - Diğerleri",
-                      "id_": 175853008653860,
-                      "parent_id": 175853008653858
+                      "definition": "Diğerleri",
+                      "id_": 175856411819760,
+                      "parent_id": 175856411819758
                     }
                   ]
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 45 'i geçenler :",
-                  "id_": 175853008653861,
-                  "parent_id": 175853008653855,
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 45 'i geçenler :",
+                  "id_": 175856411819761,
+                  "parent_id": 175856411819755,
                   "children": [
                     {
                       "code": "040291910000",
                       "level": 4,
-                      "definition": "- - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
-                      "id_": 175853008653862,
-                      "parent_id": 175853008653861
+                      "definition": "Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+                      "id_": 175856411819762,
+                      "parent_id": 175856411819761
                     },
                     {
                       "code": "040291990000",
                       "level": 4,
-                      "definition": "- - - - Diğerleri",
-                      "id_": 175853008653863,
-                      "parent_id": 175853008653861
+                      "definition": "Diğerleri",
+                      "id_": 175856411819763,
+                      "parent_id": 175856411819761
                     }
                   ]
                 }
@@ -497,60 +498,60 @@
             {
               "code": "040299",
               "level": 2,
-              "definition": "- - Diğerleri:",
-              "id_": 175853008653864,
-              "parent_id": 175853008653854,
+              "definition": "Diğerleri:",
+              "id_": 175856411819764,
+              "parent_id": 175856411819754,
               "children": [
                 {
                   "code": "040299100000",
                   "level": 3,
-                  "definition": "- - -  İçerdiği katı yağ oranı ağırlık itibariyle % 9,5' i geçmeyenler",
-                  "id_": 175853008653865,
-                  "parent_id": 175853008653864
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 9,5' i geçmeyenler",
+                  "id_": 175856411819765,
+                  "parent_id": 175856411819764
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 9,5 'i geçen fakat % 45'i geçmeyenler :",
-                  "id_": 175853008653866,
-                  "parent_id": 175853008653864,
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 9,5 'i geçen fakat % 45'i geçmeyenler :",
+                  "id_": 175856411819766,
+                  "parent_id": 175856411819764,
                   "children": [
                     {
                       "code": "040299310000",
                       "level": 4,
-                      "definition": "- - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
-                      "id_": 175853008653867,
-                      "parent_id": 175853008653866
+                      "definition": "Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+                      "id_": 175856411819767,
+                      "parent_id": 175856411819766
                     },
                     {
                       "code": "040299390000",
                       "level": 4,
-                      "definition": "- - - - Diğerleri",
-                      "id_": 175853008653868,
-                      "parent_id": 175853008653866
+                      "definition": "Diğerleri",
+                      "id_": 175856411819768,
+                      "parent_id": 175856411819766
                     }
                   ]
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 45'i geçenler:",
-                  "id_": 175853008653869,
-                  "parent_id": 175853008653864,
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 45'i geçenler:",
+                  "id_": 175856411819769,
+                  "parent_id": 175856411819764,
                   "children": [
                     {
                       "code": "040299910000",
                       "level": 4,
-                      "definition": "- - - - Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
-                      "id_": 175853008653870,
-                      "parent_id": 175853008653869
+                      "definition": "Net muhteviyatı 2,5 kg.ı geçmeyen hazır ambalajlarda olanlar",
+                      "id_": 175856411819770,
+                      "parent_id": 175856411819769
                     },
                     {
                       "code": "040299990000",
                       "level": 4,
-                      "definition": "- - - - Diğerleri",
-                      "id_": 175853008653871,
-                      "parent_id": 175853008653869
+                      "definition": "Diğerleri",
+                      "id_": 175856411819771,
+                      "parent_id": 175856411819769
                     }
                   ]
                 }
@@ -564,112 +565,112 @@
       "code": "0403",
       "level": 0,
       "definition": "Yoğurt; yayıkaItı, pıhtılaştırılmış süt ve krema, kefir ve diğer fermente ediImiş veya asitIiği artırıImış süt ve krema (konsantre edilmiş veya iIave şeker veya diğer tatlandırıcı maddeIer katılmış oIsun olmasın veya aroma veya ilave meyva, sert kabukIu meyva veya kakao içersin içermesin):",
-      "id_": 175853008653872,
-      "parent_id": null,
+      "id_": 175856411819772,
+      "parent_id": 49,
       "children": [
         {
           "code": "040320",
           "level": 1,
-          "definition": "- Yoğurt:",
-          "id_": 175853008653873,
-          "parent_id": 175853008653872,
+          "definition": "Yoğurt:",
+          "id_": 175856411819773,
+          "parent_id": 175856411819772,
           "children": [
             {
               "code": null,
               "level": 2,
-              "definition": "- - Aromalandırılmamış, ilave meyva, sert kabuklu meyvalar, kakao, çikolata, baharat, kahve veya kahve hülasası, biltki, bitki parçaları, hububat veya ekmekçi mamulleri içermeyenler:",
-              "id_": 175853008653874,
-              "parent_id": 175853008653873,
+              "definition": "Aromalandırılmamış, ilave meyva, sert kabuklu meyvalar, kakao, çikolata, baharat, kahve veya kahve hülasası, biltki, bitki parçaları, hububat veya ekmekçi mamulleri içermeyenler:",
+              "id_": 175856411819774,
+              "parent_id": 175856411819773,
               "children": [
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - İlave şeker veya diğer tatlandırıcı maddeler içermeyenler:",
-                  "id_": 175853008653875,
-                  "parent_id": 175853008653874,
+                  "definition": "İlave şeker veya diğer tatlandırıcı maddeler içermeyenler:",
+                  "id_": 175856411819775,
+                  "parent_id": 175856411819774,
                   "children": [
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler",
-                      "id_": 175853008653876,
-                      "parent_id": 175853008653875,
+                      "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler",
+                      "id_": 175856411819776,
+                      "parent_id": 175856411819775,
                       "children": [
                         {
                           "code": "040320110011",
                           "level": 5,
-                          "definition": "- - - - - Yoğurt",
-                          "id_": 175853008653877,
-                          "parent_id": 175853008653876
+                          "definition": "Yoğurt",
+                          "id_": 175856411819777,
+                          "parent_id": 175856411819776
                         },
                         {
                           "code": "040320110012",
                           "level": 5,
-                          "definition": "- - - - - Ayran",
-                          "id_": 175853008653878,
-                          "parent_id": 175853008653876
+                          "definition": "Ayran",
+                          "id_": 175856411819778,
+                          "parent_id": 175856411819776
                         }
                       ]
                     },
                     {
                       "code": "040320130000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat % 6'yı geçmeyenler",
-                      "id_": 175853008653879,
-                      "parent_id": 175853008653875
+                      "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat % 6'yı geçmeyenler",
+                      "id_": 175856411819779,
+                      "parent_id": 175856411819775
                     },
                     {
                       "code": "040320190000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı yağ oranı ağırlık itibariyle % 6'yı geçenler",
-                      "id_": 175853008653880,
-                      "parent_id": 175853008653875
+                      "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 6'yı geçenler",
+                      "id_": 175856411819780,
+                      "parent_id": 175856411819775
                     }
                   ]
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Diğerleri:",
-                  "id_": 175853008653881,
-                  "parent_id": 175853008653874,
+                  "definition": "Diğerleri:",
+                  "id_": 175856411819781,
+                  "parent_id": 175856411819774,
                   "children": [
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler",
-                      "id_": 175853008653882,
-                      "parent_id": 175853008653881,
+                      "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler",
+                      "id_": 175856411819882,
+                      "parent_id": 175856411819781,
                       "children": [
                         {
                           "code": "040320310011",
                           "level": 5,
-                          "definition": "- - - - - Yoğurt",
-                          "id_": 175853008653883,
-                          "parent_id": 175853008653882
+                          "definition": "Yoğurt",
+                          "id_": 175856411819883,
+                          "parent_id": 175856411819882
                         },
                         {
                           "code": "040320310012",
                           "level": 5,
-                          "definition": "- - - - - Ayran",
-                          "id_": 175853008653884,
-                          "parent_id": 175853008653882
+                          "definition": "Ayran",
+                          "id_": 175856411819884,
+                          "parent_id": 175856411819882
                         }
                       ]
                     },
                     {
                       "code": "040320330000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat % 6'yı geçmeyenler",
-                      "id_": 175853008653885,
-                      "parent_id": 175853008653881
+                      "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat % 6'yı geçmeyenler",
+                      "id_": 175856411819885,
+                      "parent_id": 175856411819781
                     },
                     {
                       "code": "040320390000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı yağ oranı ağırlık itibariyle %  6 'yı geçenler",
-                      "id_": 175853008653886,
-                      "parent_id": 175853008653881
+                      "definition": "İçerdiği katı yağ oranı ağırlık itibariyle %  6 'yı geçenler",
+                      "id_": 175856411819886,
+                      "parent_id": 175856411819781
                     }
                   ]
                 }
@@ -678,90 +679,90 @@
             {
               "code": null,
               "level": 2,
-              "definition": "- - İlave çikolata, baharat, kahve veya kahve hülasası, bitki, bitki parçaları, hububat veya ekmekçilik mamulü içerenler:",
-              "id_": 175853008653887,
-              "parent_id": 175853008653873,
+              "definition": "İlave çikolata, baharat, kahve veya kahve hülasası, bitki, bitki parçaları, hububat veya ekmekçilik mamulü içerenler:",
+              "id_": 175856411819887,
+              "parent_id": 175856411819773,
               "children": [
                 {
                   "code": "040320410000",
                   "level": 3,
-                  "definition": "- - - Ağırlıkça % 1,5'dan az katı süt yağı, % 5 sukroz (invert şeker dahil) veya izoglikoz, % 5 glikoz veya nişasta içerenler",
-                  "id_": 175853008653888,
-                  "parent_id": 175853008653887
+                  "definition": "Ağırlıkça % 1,5'dan az katı süt yağı, % 5 sukroz (invert şeker dahil) veya izoglikoz, % 5 glikoz veya nişasta içerenler",
+                  "id_": 175856411819888,
+                  "parent_id": 175856411819887
                 },
                 {
                   "code": "040320490000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 175853008653889,
-                  "parent_id": 175853008653887
+                  "definition": "Diğerleri",
+                  "id_": 175856411819889,
+                  "parent_id": 175856411819887
                 }
               ]
             },
             {
               "code": null,
               "level": 2,
-              "definition": "- - Diğerleri, aromalandırılmış veya ilave meyva, sert kabuklu meyvalar veya kakao içerenler:",
-              "id_": 175853008653890,
-              "parent_id": 175853008653873,
+              "definition": "Diğerleri, aromalandırılmış veya ilave meyva, sert kabuklu meyvalar veya kakao içerenler:",
+              "id_": 175856411819890,
+              "parent_id": 175856411819773,
               "children": [
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Toz, granül veya diğer katı şekillerde olanlar:",
-                  "id_": 175853008653891,
-                  "parent_id": 175853008653890,
+                  "definition": "Toz, granül veya diğer katı şekillerde olanlar:",
+                  "id_": 175856411819891,
+                  "parent_id": 175856411819890,
                   "children": [
                     {
                       "code": "040320510000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı süt yağı oranı ağırlık itibariyle %  1,5'i geçmeyenler",
-                      "id_": 175853008653892,
-                      "parent_id": 175853008653891
+                      "definition": "İçerdiği katı süt yağı oranı ağırlık itibariyle %  1,5'i geçmeyenler",
+                      "id_": 175856411819892,
+                      "parent_id": 175856411819891
                     },
                     {
                       "code": "040320530000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 1,5' i geçen fakat % 27'yi geçmeyenler",
-                      "id_": 175853008653893,
-                      "parent_id": 175853008653891
+                      "definition": "İçerdiği katı süt yağı oranı ağırlık itibariyle % 1,5' i geçen fakat % 27'yi geçmeyenler",
+                      "id_": 175856411819893,
+                      "parent_id": 175856411819891
                     },
                     {
                       "code": "040320590000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 27'yi geçenler",
-                      "id_": 175853008653894,
-                      "parent_id": 175853008653891
+                      "definition": "İçerdiği katı süt yağı oranı ağırlık itibariyle % 27'yi geçenler",
+                      "id_": 175856411819894,
+                      "parent_id": 175856411819891
                     }
                   ]
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Diğerleri:",
-                  "id_": 175853008653895,
-                  "parent_id": 175853008653890,
+                  "definition": "Diğerleri:",
+                  "id_": 175856411819895,
+                  "parent_id": 175856411819890,
                   "children": [
                     {
                       "code": "040320910000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçmeyenler",
-                      "id_": 175853008653896,
-                      "parent_id": 175853008653895
+                      "definition": "İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçmeyenler",
+                      "id_": 175856411819896,
+                      "parent_id": 175856411819895
                     },
                     {
                       "code": "040320930000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçen fakat % 6'yı geçmeyenler",
-                      "id_": 175853008653897,
-                      "parent_id": 175853008653895
+                      "definition": "İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçen fakat % 6'yı geçmeyenler",
+                      "id_": 175856411819897,
+                      "parent_id": 175856411819895
                     },
                     {
                       "code": "040320990000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 6'yı geçenler",
-                      "id_": 175853008653898,
-                      "parent_id": 175853008653895
+                      "definition": "İçerdiği katı süt yağı oranı ağırlık itibariyle % 6'yı geçenler",
+                      "id_": 175856411819898,
+                      "parent_id": 175856411819895
                     }
                   ]
                 }
@@ -772,81 +773,81 @@
         {
           "code": "040390",
           "level": 1,
-          "definition": "- Diğerleri:",
-          "id_": 175853008653899,
-          "parent_id": 175853008653872,
+          "definition": "Diğerleri:",
+          "id_": 175856411819899,
+          "parent_id": 175856411819772,
           "children": [
             {
               "code": null,
               "level": 2,
-              "definition": "- - Aromalandırılmamış, ilave meyva, sert kabuklu meyvalar veya kakao içermeyenler:",
-              "id_": 1758530086538100,
-              "parent_id": 175853008653899,
+              "definition": "Aromalandırılmamış, ilave meyva, sert kabuklu meyvalar veya kakao içermeyenler:",
+              "id_": 1758564118198100,
+              "parent_id": 175856411819899,
               "children": [
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Toz, granül veya diğer katı şekillerde olanlar:",
-                  "id_": 1758530086538101,
-                  "parent_id": 1758530086538100,
+                  "definition": "Toz, granül veya diğer katı şekillerde olanlar:",
+                  "id_": 1758564118198101,
+                  "parent_id": 1758564118198100,
                   "children": [
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
-                      "id_": 1758530086538102,
-                      "parent_id": 1758530086538101,
+                      "definition": "İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
+                      "id_": 1758564118198102,
+                      "parent_id": 1758564118198101,
                       "children": [
                         {
                           "code": "040390110000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                          "id_": 1758530086538103,
-                          "parent_id": 1758530086538102
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                          "id_": 1758564118198103,
+                          "parent_id": 1758564118198102
                         },
                         {
                           "code": "040390130000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
-                          "id_": 1758530086538104,
-                          "parent_id": 1758530086538102
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
+                          "id_": 1758564118198104,
+                          "parent_id": 1758564118198102
                         },
                         {
                           "code": "040390190000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
-                          "id_": 1758530086538105,
-                          "parent_id": 1758530086538102
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+                          "id_": 1758564118198105,
+                          "parent_id": 1758564118198102
                         }
                       ]
                     },
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Diğerleri:",
-                      "id_": 1758530086538106,
-                      "parent_id": 1758530086538101,
+                      "definition": "Diğerleri:",
+                      "id_": 1758564118198106,
+                      "parent_id": 1758564118198101,
                       "children": [
                         {
                           "code": "040390310000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                          "id_": 1758530086538107,
-                          "parent_id": 1758530086538106
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                          "id_": 1758564118198107,
+                          "parent_id": 1758564118198106
                         },
                         {
                           "code": "040390330000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
-                          "id_": 1758530086538108,
-                          "parent_id": 1758530086538106
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
+                          "id_": 1758564118198108,
+                          "parent_id": 1758564118198106
                         },
                         {
                           "code": "040390390000",
                           "level": 5,
-                          "definition": "- - - - -  İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
-                          "id_": 1758530086538109,
-                          "parent_id": 1758530086538106
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+                          "id_": 1758564118198109,
+                          "parent_id": 1758564118198106
                         }
                       ]
                     }
@@ -855,67 +856,67 @@
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Diğerleri:",
-                  "id_": 1758530086538110,
-                  "parent_id": 1758530086538100,
+                  "definition": "Diğerleri:",
+                  "id_": 1758564118198110,
+                  "parent_id": 1758564118198100,
                   "children": [
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
-                      "id_": 1758530086538111,
-                      "parent_id": 1758530086538110,
+                      "definition": "İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
+                      "id_": 1758564118198111,
+                      "parent_id": 1758564118198110,
                       "children": [
                         {
                           "code": "040390510000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler",
-                          "id_": 1758530086538112,
-                          "parent_id": 1758530086538111
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler",
+                          "id_": 1758564118198112,
+                          "parent_id": 1758564118198111
                         },
                         {
                           "code": "040390530000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat % 6' yı geçmeyenler",
-                          "id_": 1758530086538113,
-                          "parent_id": 1758530086538111
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat % 6' yı geçmeyenler",
+                          "id_": 1758564118198113,
+                          "parent_id": 1758564118198111
                         },
                         {
                           "code": "040390590000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 6'yı geçenler",
-                          "id_": 1758530086538114,
-                          "parent_id": 1758530086538111
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 6'yı geçenler",
+                          "id_": 1758564118198114,
+                          "parent_id": 1758564118198111
                         }
                       ]
                     },
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Diğerleri:",
-                      "id_": 1758530086538115,
-                      "parent_id": 1758530086538110,
+                      "definition": "Diğerleri:",
+                      "id_": 1758564118198115,
+                      "parent_id": 1758564118198110,
                       "children": [
                         {
                           "code": "040390610000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler",
-                          "id_": 1758530086538116,
-                          "parent_id": 1758530086538115
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçmeyenler",
+                          "id_": 1758564118198116,
+                          "parent_id": 1758564118198115
                         },
                         {
                           "code": "040390630000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat % 6' yı geçmeyenler",
-                          "id_": 1758530086538117,
-                          "parent_id": 1758530086538115
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 3'ü geçen fakat % 6' yı geçmeyenler",
+                          "id_": 1758564118198117,
+                          "parent_id": 1758564118198115
                         },
                         {
                           "code": "040390690000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 6'yı geçenler",
-                          "id_": 1758530086538118,
-                          "parent_id": 1758530086538115
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 6'yı geçenler",
+                          "id_": 1758564118198118,
+                          "parent_id": 1758564118198115
                         }
                       ]
                     }
@@ -926,67 +927,67 @@
             {
               "code": null,
               "level": 2,
-              "definition": "- - Aromalandırılmış veya ilave meyva, sert kabuklu meyvalar veya kakao içerenler:",
-              "id_": 1758530086538119,
-              "parent_id": 175853008653899,
+              "definition": "Aromalandırılmış veya ilave meyva, sert kabuklu meyvalar veya kakao içerenler:",
+              "id_": 1758564118198119,
+              "parent_id": 175856411819899,
               "children": [
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Toz, granül veya diğer katı şekillerde olanlar:",
-                  "id_": 1758530086538120,
-                  "parent_id": 1758530086538119,
+                  "definition": "Toz, granül veya diğer katı şekillerde olanlar:",
+                  "id_": 1758564118198120,
+                  "parent_id": 1758564118198119,
                   "children": [
                     {
                       "code": "040390710000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                      "id_": 1758530086538121,
-                      "parent_id": 1758530086538120
+                      "definition": "İçerdiği katı süt yağı oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                      "id_": 1758564118198121,
+                      "parent_id": 1758564118198120
                     },
                     {
                       "code": "040390730000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
-                      "id_": 1758530086538122,
-                      "parent_id": 1758530086538120
+                      "definition": "İçerdiği katı süt yağı oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
+                      "id_": 1758564118198122,
+                      "parent_id": 1758564118198120
                     },
                     {
                       "code": "040390790000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 27'yi geçenler",
-                      "id_": 1758530086538123,
-                      "parent_id": 1758530086538120
+                      "definition": "İçerdiği katı süt yağı oranı ağırlık itibariyle % 27'yi geçenler",
+                      "id_": 1758564118198123,
+                      "parent_id": 1758564118198120
                     }
                   ]
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Diğerleri:",
-                  "id_": 1758530086539124,
-                  "parent_id": 1758530086538119,
+                  "definition": "Diğerleri:",
+                  "id_": 1758564118198124,
+                  "parent_id": 1758564118198119,
                   "children": [
                     {
                       "code": "040390910000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçmeyenler",
-                      "id_": 1758530086539125,
-                      "parent_id": 1758530086539124
+                      "definition": "İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçmeyenler",
+                      "id_": 1758564118198125,
+                      "parent_id": 1758564118198124
                     },
                     {
                       "code": "040390930000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçen fakat % 6'yı geçmeyenler",
-                      "id_": 1758530086539126,
-                      "parent_id": 1758530086539124
+                      "definition": "İçerdiği katı süt yağı oranı ağırlık itibariyle % 3'ü geçen fakat % 6'yı geçmeyenler",
+                      "id_": 1758564118198126,
+                      "parent_id": 1758564118198124
                     },
                     {
                       "code": "040390990000",
                       "level": 4,
-                      "definition": "- - - - İçerdiği katı süt yağı oranı ağırlık itibariyle % 6'yı geçenler",
-                      "id_": 1758530086539127,
-                      "parent_id": 1758530086539124
+                      "definition": "İçerdiği katı süt yağı oranı ağırlık itibariyle % 6'yı geçenler",
+                      "id_": 1758564118198127,
+                      "parent_id": 1758564118198124
                     }
                   ]
                 }
@@ -1000,87 +1001,87 @@
       "code": "0404",
       "level": 0,
       "definition": "Peyniraltı suyu (konsantre edilmiş olsun olmasın veya ilave şeker veya diğer tatlandırıcı maddeleri içersin içermesin) ; tarifenin başka yerinde belirtilmeyen veya yer almayan tabii süt bileşenlerinden ibaret olan ürünler (ilave şeker veya diğer tatlandırıcı maddeleri içersin içermesin) :",
-      "id_": 1758530086539128,
-      "parent_id": null,
+      "id_": 1758564118198128,
+      "parent_id": 49,
       "children": [
         {
           "code": "040410",
           "level": 1,
-          "definition": "- Peyniraltı suyu ve modifiye peyniraltı suyu (konsantre edilmiş olsun olmasın veya ilave şeker veya diğer tatlandırıcı maddeleri içersin içermesin);",
-          "id_": 1758530086539129,
-          "parent_id": 1758530086539128,
+          "definition": "Peyniraltı suyu ve modifiye peyniraltı suyu (konsantre edilmiş olsun olmasın veya ilave şeker veya diğer tatlandırıcı maddeleri içersin içermesin);",
+          "id_": 1758564118198129,
+          "parent_id": 1758564118198128,
           "children": [
             {
               "code": null,
               "level": 2,
-              "definition": "- - Toz, granül veya diğer katı şekillerde olanlar:",
-              "id_": 1758530086539130,
-              "parent_id": 1758530086539129,
+              "definition": "Toz, granül veya diğer katı şekillerde olanlar:",
+              "id_": 1758564118198130,
+              "parent_id": 1758564118198129,
               "children": [
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler :",
-                  "id_": 1758530086539131,
-                  "parent_id": 1758530086539130,
+                  "definition": "İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler :",
+                  "id_": 1758564118198131,
+                  "parent_id": 1758564118198130,
                   "children": [
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçmeyenler :",
-                      "id_": 1758530086539132,
-                      "parent_id": 1758530086539131,
+                      "definition": "Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçmeyenler :",
+                      "id_": 1758564118198132,
+                      "parent_id": 1758564118198131,
                       "children": [
                         {
                           "code": "040410020000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                          "id_": 1758530086539133,
-                          "parent_id": 1758530086539132
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                          "id_": 1758564118198133,
+                          "parent_id": 1758564118198132
                         },
                         {
                           "code": "040410040000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
-                          "id_": 1758530086539134,
-                          "parent_id": 1758530086539132
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
+                          "id_": 1758564118198134,
+                          "parent_id": 1758564118198132
                         },
                         {
                           "code": "040410060000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
-                          "id_": 1758530086539135,
-                          "parent_id": 1758530086539132
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+                          "id_": 1758564118198135,
+                          "parent_id": 1758564118198132
                         }
                       ]
                     },
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - -  Protein oranı (azot oranı x 6,38),ağırlık itibariyle % 15' i geçenler:",
-                      "id_": 1758530086539136,
-                      "parent_id": 1758530086539131,
+                      "definition": "Protein oranı (azot oranı x 6,38),ağırlık itibariyle % 15' i geçenler:",
+                      "id_": 1758564118198136,
+                      "parent_id": 1758564118198131,
                       "children": [
                         {
                           "code": "040410120000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                          "id_": 1758530086539137,
-                          "parent_id": 1758530086539136
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                          "id_": 1758564118198137,
+                          "parent_id": 1758564118198136
                         },
                         {
                           "code": "040410140000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
-                          "id_": 1758530086539138,
-                          "parent_id": 1758530086539136
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
+                          "id_": 1758564118198138,
+                          "parent_id": 1758564118198136
                         },
                         {
                           "code": "040410160000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
-                          "id_": 1758530086539139,
-                          "parent_id": 1758530086539136
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+                          "id_": 1758564118198139,
+                          "parent_id": 1758564118198136
                         }
                       ]
                     }
@@ -1089,67 +1090,67 @@
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Diğerleri :",
-                  "id_": 1758530086539140,
-                  "parent_id": 1758530086539130,
+                  "definition": "Diğerleri :",
+                  "id_": 1758564118198140,
+                  "parent_id": 1758564118198130,
                   "children": [
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçmeyenler :",
-                      "id_": 1758530086539141,
-                      "parent_id": 1758530086539140,
+                      "definition": "Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçmeyenler :",
+                      "id_": 1758564118198141,
+                      "parent_id": 1758564118198140,
                       "children": [
                         {
                           "code": "040410260000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                          "id_": 1758530086539142,
-                          "parent_id": 1758530086539141
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                          "id_": 1758564118198142,
+                          "parent_id": 1758564118198141
                         },
                         {
                           "code": "040410280000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
-                          "id_": 1758530086539143,
-                          "parent_id": 1758530086539141
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
+                          "id_": 1758564118198143,
+                          "parent_id": 1758564118198141
                         },
                         {
                           "code": "040410320000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
-                          "id_": 1758530086539144,
-                          "parent_id": 1758530086539141
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+                          "id_": 1758564118198144,
+                          "parent_id": 1758564118198141
                         }
                       ]
                     },
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçenler:",
-                      "id_": 1758530086539145,
-                      "parent_id": 1758530086539140,
+                      "definition": "Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçenler:",
+                      "id_": 1758564118198145,
+                      "parent_id": 1758564118198140,
                       "children": [
                         {
                           "code": "040410340000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                          "id_": 1758530086539146,
-                          "parent_id": 1758530086539145
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                          "id_": 1758564118198146,
+                          "parent_id": 1758564118198145
                         },
                         {
                           "code": "040410360000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
-                          "id_": 1758530086539147,
-                          "parent_id": 1758530086539145
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
+                          "id_": 1758564118198147,
+                          "parent_id": 1758564118198145
                         },
                         {
                           "code": "040410380000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
-                          "id_": 1758530086539148,
-                          "parent_id": 1758530086539145
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+                          "id_": 1758564118198148,
+                          "parent_id": 1758564118198145
                         }
                       ]
                     }
@@ -1160,74 +1161,74 @@
             {
               "code": null,
               "level": 2,
-              "definition": "- - Diğerleri:",
-              "id_": 1758530086539149,
-              "parent_id": 1758530086539129,
+              "definition": "Diğerleri:",
+              "id_": 1758564118198149,
+              "parent_id": 1758564118198129,
               "children": [
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
-                  "id_": 1758530086539150,
-                  "parent_id": 1758530086539149,
+                  "definition": "İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
+                  "id_": 1758564118198150,
+                  "parent_id": 1758564118198149,
                   "children": [
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - -  Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçmeyenler :",
-                      "id_": 1758530086539151,
-                      "parent_id": 1758530086539150,
+                      "definition": "Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçmeyenler :",
+                      "id_": 1758564118198151,
+                      "parent_id": 1758564118198150,
                       "children": [
                         {
                           "code": "040410480000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                          "id_": 1758530086539152,
-                          "parent_id": 1758530086539151
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                          "id_": 1758564118198152,
+                          "parent_id": 1758564118198151
                         },
                         {
                           "code": "040410520000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
-                          "id_": 1758530086539153,
-                          "parent_id": 1758530086539151
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
+                          "id_": 1758564118198153,
+                          "parent_id": 1758564118198151
                         },
                         {
                           "code": "040410540000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
-                          "id_": 1758530086539154,
-                          "parent_id": 1758530086539151
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+                          "id_": 1758564118198154,
+                          "parent_id": 1758564118198151
                         }
                       ]
                     },
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - -  Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçenler:",
-                      "id_": 1758530086539155,
-                      "parent_id": 1758530086539150,
+                      "definition": "Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçenler:",
+                      "id_": 1758564118198155,
+                      "parent_id": 1758564118198150,
                       "children": [
                         {
                           "code": "040410560000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağı oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                          "id_": 1758530086539156,
-                          "parent_id": 1758530086539155
+                          "definition": "İçerdiği katı yağı oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                          "id_": 1758564118198156,
+                          "parent_id": 1758564118198155
                         },
                         {
                           "code": "040410580000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
-                          "id_": 1758530086539157,
-                          "parent_id": 1758530086539155
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
+                          "id_": 1758564118198157,
+                          "parent_id": 1758564118198155
                         },
                         {
                           "code": "040410620000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
-                          "id_": 1758530086539158,
-                          "parent_id": 1758530086539155
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+                          "id_": 1758564118198158,
+                          "parent_id": 1758564118198155
                         }
                       ]
                     }
@@ -1236,67 +1237,67 @@
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Diğerleri:",
-                  "id_": 1758530086539159,
-                  "parent_id": 1758530086539149,
+                  "definition": "Diğerleri:",
+                  "id_": 1758564118198159,
+                  "parent_id": 1758564118198149,
                   "children": [
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - -  Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçmeyenler :",
-                      "id_": 1758530086539160,
-                      "parent_id": 1758530086539159,
+                      "definition": "Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçmeyenler :",
+                      "id_": 1758564118198160,
+                      "parent_id": 1758564118198159,
                       "children": [
                         {
                           "code": "040410720000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                          "id_": 1758530086539161,
-                          "parent_id": 1758530086539160
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                          "id_": 1758564118198161,
+                          "parent_id": 1758564118198160
                         },
                         {
                           "code": "040410740000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
-                          "id_": 1758530086539162,
-                          "parent_id": 1758530086539160
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
+                          "id_": 1758564118198162,
+                          "parent_id": 1758564118198160
                         },
                         {
                           "code": "040410760000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
-                          "id_": 1758530086539163,
-                          "parent_id": 1758530086539160
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+                          "id_": 1758564118198163,
+                          "parent_id": 1758564118198160
                         }
                       ]
                     },
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - -  Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçenler:",
-                      "id_": 1758530086539164,
-                      "parent_id": 1758530086539159,
+                      "definition": "Protein oranı (azot oranı x 6,38), ağırlık itibariyle % 15' i geçenler:",
+                      "id_": 1758564118198164,
+                      "parent_id": 1758564118198159,
                       "children": [
                         {
                           "code": "040410780000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                          "id_": 1758530086539165,
-                          "parent_id": 1758530086539164
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                          "id_": 1758564118198165,
+                          "parent_id": 1758564118198164
                         },
                         {
                           "code": "040410820000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
-                          "id_": 1758530086539166,
-                          "parent_id": 1758530086539164
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
+                          "id_": 1758564118198166,
+                          "parent_id": 1758564118198164
                         },
                         {
                           "code": "040410840000",
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
-                          "id_": 1758530086539167,
-                          "parent_id": 1758530086539164
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+                          "id_": 1758564118198167,
+                          "parent_id": 1758564118198164
                         }
                       ]
                     }
@@ -1309,67 +1310,67 @@
         {
           "code": "040490",
           "level": 1,
-          "definition": "- Diğerleri :",
-          "id_": 1758530086539168,
-          "parent_id": 1758530086539128,
+          "definition": "Diğerleri :",
+          "id_": 1758564118198168,
+          "parent_id": 1758564118198128,
           "children": [
             {
               "code": null,
               "level": 2,
-              "definition": "- - İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
-              "id_": 1758530086539169,
-              "parent_id": 1758530086539168,
+              "definition": "İlave şeker veya diğer tatlandırıcı maddeleri içermeyenler:",
+              "id_": 1758564118198169,
+              "parent_id": 1758564118198168,
               "children": [
                 {
                   "code": "040490210000",
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                  "id_": 1758530086539170,
-                  "parent_id": 1758530086539169
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                  "id_": 1758564118198170,
+                  "parent_id": 1758564118198169
                 },
                 {
                   "code": "040490230000",
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27' yi geçmeyenler",
-                  "id_": 1758530086539171,
-                  "parent_id": 1758530086539169
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27' yi geçmeyenler",
+                  "id_": 1758564118198171,
+                  "parent_id": 1758564118198169
                 },
                 {
                   "code": "040490290000",
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 27' yi geçenler",
-                  "id_": 1758530086539172,
-                  "parent_id": 1758530086539169
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27' yi geçenler",
+                  "id_": 1758564118198172,
+                  "parent_id": 1758564118198169
                 }
               ]
             },
             {
               "code": null,
               "level": 2,
-              "definition": "- -  Diğerleri:",
-              "id_": 1758530086539173,
-              "parent_id": 1758530086539168,
+              "definition": "Diğerleri:",
+              "id_": 1758564118198173,
+              "parent_id": 1758564118198168,
               "children": [
                 {
                   "code": "040490810000",
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
-                  "id_": 1758530086539174,
-                  "parent_id": 1758530086539173
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                  "id_": 1758564118198174,
+                  "parent_id": 1758564118198173
                 },
                 {
                   "code": "040490830000",
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
-                  "id_": 1758530086539175,
-                  "parent_id": 1758530086539173
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 1,5'i geçen fakat % 27'yi geçmeyenler",
+                  "id_": 1758564118198175,
+                  "parent_id": 1758564118198173
                 },
                 {
                   "code": "040490890000",
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
-                  "id_": 1758530086539176,
-                  "parent_id": 1758530086539173
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 27'yi geçenler",
+                  "id_": 1758564118198176,
+                  "parent_id": 1758564118198173
                 }
               ]
             }
@@ -1381,121 +1382,121 @@
       "code": "0405",
       "level": 0,
       "definition": "Sütten elde ediIen tereyağı ve diğer katı ve sıvı yağIar; sürülerek yenilen süt ürünleri :",
-      "id_": 1758530086539177,
-      "parent_id": null,
+      "id_": 1758564118198177,
+      "parent_id": 49,
       "children": [
         {
           "code": "040510",
           "level": 1,
-          "definition": "- Tereyağı :",
-          "id_": 1758530086539178,
-          "parent_id": 1758530086539177,
+          "definition": "Tereyağı :",
+          "id_": 1758564118198178,
+          "parent_id": 1758564118198177,
           "children": [
             {
               "code": null,
               "level": 2,
-              "definition": "- - İçerdiği katı yağ oranı ağırlık itibariyle % 85'i geçmeyenler :",
-              "id_": 1758530086539179,
-              "parent_id": 1758530086539178,
+              "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 85'i geçmeyenler :",
+              "id_": 1758564118198179,
+              "parent_id": 1758564118198178,
               "children": [
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Tabii tereyağ",
-                  "id_": 1758530086539180,
-                  "parent_id": 1758530086539179,
+                  "definition": "Tabii tereyağ",
+                  "id_": 1758564118198180,
+                  "parent_id": 1758564118198179,
                   "children": [
                     {
                       "code": "040510110000",
                       "level": 4,
-                      "definition": "- - - - Net muhteviyatı 1 kg.'ı geçmeyen hazır ambalajlarda olanlar",
-                      "id_": 1758530086539181,
-                      "parent_id": 1758530086539180
+                      "definition": "Net muhteviyatı 1 kg.'ı geçmeyen hazır ambalajlarda olanlar",
+                      "id_": 1758564118198181,
+                      "parent_id": 1758564118198180
                     },
                     {
                       "code": "040510190000",
                       "level": 4,
-                      "definition": "- - - - Diğerleri",
-                      "id_": 1758530086539182,
-                      "parent_id": 1758530086539180
+                      "definition": "Diğerleri",
+                      "id_": 1758564118198182,
+                      "parent_id": 1758564118198180
                     }
                   ]
                 },
                 {
                   "code": "040510300000",
                   "level": 3,
-                  "definition": "- - - Rekombine tereyağı",
-                  "id_": 1758530086539183,
-                  "parent_id": 1758530086539179
+                  "definition": "Rekombine tereyağı",
+                  "id_": 1758564118198183,
+                  "parent_id": 1758564118198179
                 },
                 {
                   "code": "040510500000",
                   "level": 3,
-                  "definition": "- - - Peynir altı suyundan elde edilen tereyağı",
-                  "id_": 1758530086539184,
-                  "parent_id": 1758530086539179
+                  "definition": "Peynir altı suyundan elde edilen tereyağı",
+                  "id_": 1758564118198184,
+                  "parent_id": 1758564118198179
                 }
               ]
             },
             {
               "code": "040510900000",
               "level": 2,
-              "definition": "- - Diğerleri",
-              "id_": 1758530086539185,
-              "parent_id": 1758530086539178
+              "definition": "Diğerleri",
+              "id_": 1758564118198185,
+              "parent_id": 1758564118198178
             }
           ]
         },
         {
           "code": "040520",
           "level": 1,
-          "definition": "- Sürülerek yenilen süt ürünleri:",
-          "id_": 1758530086539186,
-          "parent_id": 1758530086539177,
+          "definition": "Sürülerek yenilen süt ürünleri:",
+          "id_": 1758564118198186,
+          "parent_id": 1758564118198177,
           "children": [
             {
               "code": "040520100000",
               "level": 2,
-              "definition": "- - İçerdiği katı yağ oranı ağırlık itibariyle %39 veya daha fazla fakat %60'dan az olanlar",
-              "id_": 1758530086539187,
-              "parent_id": 1758530086539186
+              "definition": "İçerdiği katı yağ oranı ağırlık itibariyle %39 veya daha fazla fakat %60'dan az olanlar",
+              "id_": 1758564118198187,
+              "parent_id": 1758564118198186
             },
             {
               "code": "040520300000",
               "level": 2,
-              "definition": "- - İçerdiği katı yağ oranı ağırlık itibariyle %60 veya daha fazla fakat %75' den az olanlar",
-              "id_": 1758530086539188,
-              "parent_id": 1758530086539186
+              "definition": "İçerdiği katı yağ oranı ağırlık itibariyle %60 veya daha fazla fakat %75' den az olanlar",
+              "id_": 1758564118198188,
+              "parent_id": 1758564118198186
             },
             {
               "code": "040520900000",
               "level": 2,
-              "definition": "- - İçerdiği katı yağ oranı ağırlık itibariyle %75' den fazla fakat %80' den az olanlar",
-              "id_": 1758530086539189,
-              "parent_id": 1758530086539186
+              "definition": "İçerdiği katı yağ oranı ağırlık itibariyle %75' den fazla fakat %80' den az olanlar",
+              "id_": 1758564118198189,
+              "parent_id": 1758564118198186
             }
           ]
         },
         {
           "code": "040590",
           "level": 1,
-          "definition": "- Diğerleri :",
-          "id_": 1758530086539190,
-          "parent_id": 1758530086539177,
+          "definition": "Diğerleri :",
+          "id_": 1758564118198190,
+          "parent_id": 1758564118198177,
           "children": [
             {
               "code": "040590100000",
               "level": 2,
-              "definition": "- - İçerdiği katı yağ oranı ağırlık itibariyle %99,3 veya daha fazla ve içerdiği su miktarı ağırlık itibariyle %0,5'i geçmeyenler",
-              "id_": 1758530086539191,
-              "parent_id": 1758530086539190
+              "definition": "İçerdiği katı yağ oranı ağırlık itibariyle %99,3 veya daha fazla ve içerdiği su miktarı ağırlık itibariyle %0,5'i geçmeyenler",
+              "id_": 1758564118198191,
+              "parent_id": 1758564118198190
             },
             {
               "code": "040590900000",
               "level": 2,
-              "definition": "- - Diğerleri",
-              "id_": 1758530086539192,
-              "parent_id": 1758530086539190
+              "definition": "Diğerleri",
+              "id_": 1758564118198192,
+              "parent_id": 1758564118198190
             }
           ]
         }
@@ -1505,64 +1506,64 @@
       "code": "0406",
       "level": 0,
       "definition": "Peynir ve pıhtılaştırılmış ürünler:",
-      "id_": 1758530086539193,
-      "parent_id": null,
+      "id_": 1758564118198193,
+      "parent_id": 49,
       "children": [
         {
           "code": "040610",
           "level": 1,
-          "definition": "- Taze peynir (olgunlaştırılmamış veya preslenmemiş) (peyniraltı suyundan yapılmış peynirler dahil)  ve pıhtılaştırılmış ürünler:",
-          "id_": 1758530086539194,
-          "parent_id": 1758530086539193,
+          "definition": "Taze peynir (olgunlaştırılmamış veya preslenmemiş) (peyniraltı suyundan yapılmış peynirler dahil)  ve pıhtılaştırılmış ürünler:",
+          "id_": 1758564118198194,
+          "parent_id": 1758564118198193,
           "children": [
             {
               "code": null,
               "level": 2,
-              "definition": "- - İçerdiği katı yağ oranı, ağırlık itibariyle % 40'ı geçmeyenler",
-              "id_": 1758530086539195,
-              "parent_id": 1758530086539194,
+              "definition": "İçerdiği katı yağ oranı, ağırlık itibariyle % 40'ı geçmeyenler",
+              "id_": 1758564118198195,
+              "parent_id": 1758564118198194,
               "children": [
                 {
                   "code": "040610300000",
                   "level": 3,
-                  "definition": "- - - Mozerella (sıvı içinde olsun olmasın)",
-                  "id_": 1758530086539196,
-                  "parent_id": 1758530086539195
+                  "definition": "Mozerella (sıvı içinde olsun olmasın)",
+                  "id_": 1758564118198196,
+                  "parent_id": 1758564118198195
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Diğerleri:",
-                  "id_": 1758530086539197,
-                  "parent_id": 1758530086539195,
+                  "definition": "Diğerleri:",
+                  "id_": 1758564118198197,
+                  "parent_id": 1758564118198195,
                   "children": [
                     {
                       "code": "040610500011",
                       "level": 4,
-                      "definition": "- - - - Taze peynir",
-                      "id_": 1758530086539198,
-                      "parent_id": 1758530086539197
+                      "definition": "Taze peynir",
+                      "id_": 1758564118198198,
+                      "parent_id": 1758564118198197
                     },
                     {
                       "code": "040610500012",
                       "level": 4,
-                      "definition": "- - - - Çökelek",
-                      "id_": 1758530086539199,
-                      "parent_id": 1758530086539197
+                      "definition": "Çökelek",
+                      "id_": 1758564118198199,
+                      "parent_id": 1758564118198197
                     },
                     {
                       "code": "040610500013",
                       "level": 4,
-                      "definition": "- - - - Lor",
-                      "id_": 1758530086539200,
-                      "parent_id": 1758530086539197
+                      "definition": "Lor",
+                      "id_": 1758564118198200,
+                      "parent_id": 1758564118198197
                     },
                     {
                       "code": "040610500018",
                       "level": 4,
-                      "definition": "- - - - Diğerleri",
-                      "id_": 1758530086539201,
-                      "parent_id": 1758530086539197
+                      "definition": "Diğerleri",
+                      "id_": 1758564118198201,
+                      "parent_id": 1758564118198197
                     }
                   ]
                 }
@@ -1571,92 +1572,92 @@
             {
               "code": "040610800000",
               "level": 2,
-              "definition": "- - Diğerleri",
-              "id_": 1758530086539202,
-              "parent_id": 1758530086539194
+              "definition": "Diğerleri",
+              "id_": 1758564118198202,
+              "parent_id": 1758564118198194
             }
           ]
         },
         {
           "code": "040620",
           "level": 1,
-          "definition": "- Rendelenmiş veya toz haline getirilmiş her cins peynir:",
-          "id_": 1758530086539203,
-          "parent_id": 1758530086539193,
+          "definition": "Rendelenmiş veya toz haline getirilmiş her cins peynir:",
+          "id_": 1758564118198203,
+          "parent_id": 1758564118198193,
           "children": [
             {
               "code": "040620001000",
               "level": 2,
-              "definition": "- - Gravyer",
-              "id_": 1758530086539204,
-              "parent_id": 1758530086539203
+              "definition": "Gravyer",
+              "id_": 1758564118198204,
+              "parent_id": 1758564118198203
             },
             {
               "code": "040620002000",
               "level": 2,
-              "definition": "- - Çester, Parmezan, Dutch (Felemenk) ve benzeri peynirler",
-              "id_": 1758530086539205,
-              "parent_id": 1758530086539203
+              "definition": "Çester, Parmezan, Dutch (Felemenk) ve benzeri peynirler",
+              "id_": 1758564118198205,
+              "parent_id": 1758564118198203
             },
             {
               "code": "040620009000",
               "level": 2,
-              "definition": "- - Diğerleri",
-              "id_": 1758530086539206,
-              "parent_id": 1758530086539203
+              "definition": "Diğerleri",
+              "id_": 1758564118198206,
+              "parent_id": 1758564118198203
             }
           ]
         },
         {
           "code": "040630",
           "level": 1,
-          "definition": "- Eritme peynirler (rendelenmemiş veya toz haline getirilmemiş):",
-          "id_": 1758530086539207,
-          "parent_id": 1758530086539193,
+          "definition": "Eritme peynirler (rendelenmemiş veya toz haline getirilmemiş):",
+          "id_": 1758564118198207,
+          "parent_id": 1758564118198193,
           "children": [
             {
               "code": "040630100000",
               "level": 2,
-              "definition": "- - Üretiminde sadece Emmentaler, Gravyer ve Appenzell peynirlerinin kullanıldığı ve   Glarus otlu peynirinin (Schabziger) katkı maddesi olarak kullanılabildiği; kuru maddedeki katı yağ oranı ağırlık itibariyle % 56' yı geçmeyen, perakende satılacak hale getirilmiş olanlar",
-              "id_": 1758530086539208,
-              "parent_id": 1758530086539207
+              "definition": "Üretiminde sadece Emmentaler, Gravyer ve Appenzell peynirlerinin kullanıldığı ve   Glarus otlu peynirinin (Schabziger) katkı maddesi olarak kullanılabildiği; kuru maddedeki katı yağ oranı ağırlık itibariyle % 56' yı geçmeyen, perakende satılacak hale getirilmiş olanlar",
+              "id_": 1758564118198208,
+              "parent_id": 1758564118198207
             },
             {
               "code": null,
               "level": 2,
-              "definition": "- - Diğerleri:",
-              "id_": 1758530086539209,
-              "parent_id": 1758530086539207,
+              "definition": "Diğerleri:",
+              "id_": 1758564118198209,
+              "parent_id": 1758564118198207,
               "children": [
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı ağırlık itibariyle % 36' yı geçmeyenlerden:",
-                  "id_": 1758530086539210,
-                  "parent_id": 1758530086539209,
+                  "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 36' yı geçmeyenlerden:",
+                  "id_": 1758564118198210,
+                  "parent_id": 1758564118198209,
                   "children": [
                     {
                       "code": "040630310000",
                       "level": 4,
-                      "definition": "- - - - Kuru maddedeki yağ oranı, ağırlık itibariyle,  % 48'i geçmeyenler",
-                      "id_": 1758530086539211,
-                      "parent_id": 1758530086539210
+                      "definition": "Kuru maddedeki yağ oranı, ağırlık itibariyle,  % 48'i geçmeyenler",
+                      "id_": 1758564118198211,
+                      "parent_id": 1758564118198210
                     },
                     {
                       "code": "040630390000",
                       "level": 4,
-                      "definition": "- - - - Kuru maddedeki yağ oranı, ağırlık itibariyle,  % 48'i geçenler",
-                      "id_": 1758530086539212,
-                      "parent_id": 1758530086539210
+                      "definition": "Kuru maddedeki yağ oranı, ağırlık itibariyle,  % 48'i geçenler",
+                      "id_": 1758564118198212,
+                      "parent_id": 1758564118198210
                     }
                   ]
                 },
                 {
                   "code": "040630900000",
                   "level": 3,
-                  "definition": "- - - İçerdiği katı yağ oranı, ağırlık itibariyle, % 36' yı geçenler",
-                  "id_": 1758530086539213,
-                  "parent_id": 1758530086539209
+                  "definition": "İçerdiği katı yağ oranı, ağırlık itibariyle, % 36' yı geçenler",
+                  "id_": 1758564118198213,
+                  "parent_id": 1758564118198209
                 }
               ]
             }
@@ -1665,176 +1666,176 @@
         {
           "code": "040640",
           "level": 1,
-          "definition": "- Mavi küflü peynirler ve Penicillium roqueforti ile elde edilen küf içeren diğer peynirler :",
-          "id_": 1758530086539214,
-          "parent_id": 1758530086539193,
+          "definition": "Mavi küflü peynirler ve Penicillium roqueforti ile elde edilen küf içeren diğer peynirler :",
+          "id_": 1758564118198214,
+          "parent_id": 1758564118198193,
           "children": [
             {
               "code": "040640100000",
               "level": 2,
-              "definition": "- - Rokfor",
-              "id_": 1758530086539215,
-              "parent_id": 1758530086539214
+              "definition": "Rokfor",
+              "id_": 1758564118198215,
+              "parent_id": 1758564118198214
             },
             {
               "code": "040640500000",
               "level": 2,
-              "definition": "- - Gorgonzola",
-              "id_": 1758530086539216,
-              "parent_id": 1758530086539214
+              "definition": "Gorgonzola",
+              "id_": 1758564118198216,
+              "parent_id": 1758564118198214
             },
             {
               "code": "040640900000",
               "level": 2,
-              "definition": "- - Diğerleri",
-              "id_": 1758530086539217,
-              "parent_id": 1758530086539214
+              "definition": "Diğerleri",
+              "id_": 1758564118198217,
+              "parent_id": 1758564118198214
             }
           ]
         },
         {
           "code": "040690",
           "level": 1,
-          "definition": "- Diğer peynirler:",
-          "id_": 1758530086539218,
-          "parent_id": 1758530086539193,
+          "definition": "Diğer peynirler:",
+          "id_": 1758564118198218,
+          "parent_id": 1758564118198193,
           "children": [
             {
               "code": "040690010000",
               "level": 2,
-              "definition": "- - İşleme tabi tutulacak olanlar",
-              "id_": 1758530086539219,
-              "parent_id": 1758530086539218
+              "definition": "İşleme tabi tutulacak olanlar",
+              "id_": 1758564118198219,
+              "parent_id": 1758564118198218
             },
             {
               "code": null,
               "level": 2,
-              "definition": "- - Diğerleri:",
-              "id_": 1758530086539220,
-              "parent_id": 1758530086539218,
+              "definition": "Diğerleri:",
+              "id_": 1758564118199220,
+              "parent_id": 1758564118198218,
               "children": [
                 {
                   "code": "040690130000",
                   "level": 3,
-                  "definition": "- - -  Emmentaler",
-                  "id_": 1758530086539221,
-                  "parent_id": 1758530086539220
+                  "definition": "Emmentaler",
+                  "id_": 1758564118199221,
+                  "parent_id": 1758564118199220
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - -  Gravyer, Sbrinz",
-                  "id_": 1758530086539222,
-                  "parent_id": 1758530086539220,
+                  "definition": "Gravyer, Sbrinz",
+                  "id_": 1758564118199222,
+                  "parent_id": 1758564118199220,
                   "children": [
                     {
                       "code": "040690150011",
                       "level": 4,
-                      "definition": "- - - - Gravyer",
-                      "id_": 1758530086539223,
-                      "parent_id": 1758530086539222
+                      "definition": "Gravyer",
+                      "id_": 1758564118199223,
+                      "parent_id": 1758564118199222
                     },
                     {
                       "code": "040690150012",
                       "level": 4,
-                      "definition": "- - - - Sbrinz",
-                      "id_": 1758530086539224,
-                      "parent_id": 1758530086539222
+                      "definition": "Sbrinz",
+                      "id_": 1758564118199224,
+                      "parent_id": 1758564118199222
                     }
                   ]
                 },
                 {
                   "code": "040690170000",
                   "level": 3,
-                  "definition": "- - - Bergkaese, Appenzell",
-                  "id_": 1758530086539225,
-                  "parent_id": 1758530086539220
+                  "definition": "Bergkaese, Appenzell",
+                  "id_": 1758564118199225,
+                  "parent_id": 1758564118199220
                 },
                 {
                   "code": "040690180000",
                   "level": 3,
-                  "definition": "- - - Fromage Fribourgeois (fribourg peyniri), Vacherin Mont d'or ve téte de Moine",
-                  "id_": 1758530086539226,
-                  "parent_id": 1758530086539220
+                  "definition": "Fromage Fribourgeois (fribourg peyniri), Vacherin Mont d'or ve téte de Moine",
+                  "id_": 1758564118199226,
+                  "parent_id": 1758564118199220
                 },
                 {
                   "code": "040690210000",
                   "level": 3,
-                  "definition": "- - - Çedar",
-                  "id_": 1758530086539227,
-                  "parent_id": 1758530086539220
+                  "definition": "Çedar",
+                  "id_": 1758564118199227,
+                  "parent_id": 1758564118199220
                 },
                 {
                   "code": "040690230000",
                   "level": 3,
-                  "definition": "- - - Edam",
-                  "id_": 1758530086539228,
-                  "parent_id": 1758530086539220
+                  "definition": "Edam",
+                  "id_": 1758564118199228,
+                  "parent_id": 1758564118199220
                 },
                 {
                   "code": "040690250000",
                   "level": 3,
-                  "definition": "- - - Tilsit",
-                  "id_": 1758530086539229,
-                  "parent_id": 1758530086539220
+                  "definition": "Tilsit",
+                  "id_": 1758564118199229,
+                  "parent_id": 1758564118199220
                 },
                 {
                   "code": "040690290000",
                   "level": 3,
-                  "definition": "- - - Kaşkaval",
-                  "id_": 1758530086539230,
-                  "parent_id": 1758530086539220
+                  "definition": "Kaşkaval",
+                  "id_": 1758564118199230,
+                  "parent_id": 1758564118199220
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Feta",
-                  "id_": 1758530086539231,
-                  "parent_id": 1758530086539220,
+                  "definition": "Feta",
+                  "id_": 1758564118199231,
+                  "parent_id": 1758564118199220,
                   "children": [
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Koyun veya manda sütünden olanlar (salamura içeren kaplarda veya koyun ve keçi derisinden tulumlarda)",
-                      "id_": 1758530086539232,
-                      "parent_id": 1758530086539231,
+                      "definition": "Koyun veya manda sütünden olanlar (salamura içeren kaplarda veya koyun ve keçi derisinden tulumlarda)",
+                      "id_": 1758564118199232,
+                      "parent_id": 1758564118199231,
                       "children": [
                         {
                           "code": "040690320011",
                           "level": 5,
-                          "definition": "- - - - - Tulum peyniri",
-                          "id_": 1758530086539233,
-                          "parent_id": 1758530086539232
+                          "definition": "Tulum peyniri",
+                          "id_": 1758564118199233,
+                          "parent_id": 1758564118199232
                         },
                         {
                           "code": "040690320012",
                           "level": 5,
-                          "definition": "- - - - - Beyaz peynir",
-                          "id_": 1758530086539234,
-                          "parent_id": 1758530086539232
+                          "definition": "Beyaz peynir",
+                          "id_": 1758564118199234,
+                          "parent_id": 1758564118199232
                         }
                       ]
                     },
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Diğerleri",
-                      "id_": 1758530086539235,
-                      "parent_id": 1758530086539231,
+                      "definition": "Diğerleri",
+                      "id_": 1758564118199235,
+                      "parent_id": 1758564118199231,
                       "children": [
                         {
                           "code": "040690320091",
                           "level": 5,
-                          "definition": "- - - - - Tulum peyniri",
-                          "id_": 1758530086539236,
-                          "parent_id": 1758530086539235
+                          "definition": "Tulum peyniri",
+                          "id_": 1758564118199236,
+                          "parent_id": 1758564118199235
                         },
                         {
                           "code": "040690320092",
                           "level": 5,
-                          "definition": "- - - - - Beyaz peynir",
-                          "id_": 1758530086539237,
-                          "parent_id": 1758530086539235
+                          "definition": "Beyaz peynir",
+                          "id_": 1758564118199237,
+                          "parent_id": 1758564118199235
                         }
                       ]
                     }
@@ -1843,186 +1844,186 @@
                 {
                   "code": "040690350000",
                   "level": 3,
-                  "definition": "- - - Kefalo -Tyri",
-                  "id_": 1758530086539238,
-                  "parent_id": 1758530086539220
+                  "definition": "Kefalo -Tyri",
+                  "id_": 1758564118199238,
+                  "parent_id": 1758564118199220
                 },
                 {
                   "code": "040690370000",
                   "level": 3,
-                  "definition": "- - - Finlandiya",
-                  "id_": 1758530086539239,
-                  "parent_id": 1758530086539220
+                  "definition": "Finlandiya",
+                  "id_": 1758564118199239,
+                  "parent_id": 1758564118199220
                 },
                 {
                   "code": "040690390000",
                   "level": 3,
-                  "definition": "- - - Jarlsberg",
-                  "id_": 1758530086539240,
-                  "parent_id": 1758530086539220
+                  "definition": "Jarlsberg",
+                  "id_": 1758564118199240,
+                  "parent_id": 1758564118199220
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Diğerleri:",
-                  "id_": 1758530086539241,
-                  "parent_id": 1758530086539220,
+                  "definition": "Diğerleri:",
+                  "id_": 1758564118199241,
+                  "parent_id": 1758564118199220,
                   "children": [
                     {
                       "code": "040690500000",
                       "level": 4,
-                      "definition": "- - - - Koyun veya manda sütünden yapılan ve salamura içeren kaplarda veya koyun veya keçi derisinden yapılan tulumlar içerisinde bulunanlar",
-                      "id_": 1758530086539242,
-                      "parent_id": 1758530086539241
+                      "definition": "Koyun veya manda sütünden yapılan ve salamura içeren kaplarda veya koyun veya keçi derisinden yapılan tulumlar içerisinde bulunanlar",
+                      "id_": 1758564118199242,
+                      "parent_id": 1758564118199241
                     },
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Diğerleri:",
-                      "id_": 1758530086539243,
-                      "parent_id": 1758530086539241,
+                      "definition": "Diğerleri:",
+                      "id_": 1758564118199243,
+                      "parent_id": 1758564118199241,
                       "children": [
                         {
                           "code": null,
                           "level": 5,
-                          "definition": "- - - - - İçerdiği katı yağ oranı ağırlık itibariyle % 40' ı geçmeyenler:",
-                          "id_": 1758530086539244,
-                          "parent_id": 1758530086539243,
+                          "definition": "İçerdiği katı yağ oranı ağırlık itibariyle % 40' ı geçmeyenler:",
+                          "id_": 1758564118199244,
+                          "parent_id": 1758564118199243,
                           "children": [
                             {
                               "code": null,
                               "level": 6,
-                              "definition": "- - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su oranı % 47'yi geçmeyenler:",
-                              "id_": 1758530086539245,
-                              "parent_id": 1758530086539244,
+                              "definition": "Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su oranı % 47'yi geçmeyenler:",
+                              "id_": 1758564118199245,
+                              "parent_id": 1758564118199244,
                               "children": [
                                 {
                                   "code": "040690610000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Grana Padano, Parmigiano Reggiano",
-                                  "id_": 1758530086539246,
-                                  "parent_id": 1758530086539245
+                                  "definition": "Grana Padano, Parmigiano Reggiano",
+                                  "id_": 1758564118199246,
+                                  "parent_id": 1758564118199245
                                 },
                                 {
                                   "code": "040690630000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Fiore sardo, pecorino",
-                                  "id_": 1758530086539247,
-                                  "parent_id": 1758530086539245
+                                  "definition": "Fiore sardo, pecorino",
+                                  "id_": 1758564118199247,
+                                  "parent_id": 1758564118199245
                                 },
                                 {
                                   "code": "040690690000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Diğerleri",
-                                  "id_": 1758530086539248,
-                                  "parent_id": 1758530086539245
+                                  "definition": "Diğerleri",
+                                  "id_": 1758564118199248,
+                                  "parent_id": 1758564118199245
                                 }
                               ]
                             },
                             {
                               "code": null,
                               "level": 6,
-                              "definition": "- - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su oranı % 47'yi geçen fakat % 72'yi geçmeyenler:",
-                              "id_": 1758530086539249,
-                              "parent_id": 1758530086539244,
+                              "definition": "Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su oranı % 47'yi geçen fakat % 72'yi geçmeyenler:",
+                              "id_": 1758564118199249,
+                              "parent_id": 1758564118199244,
                               "children": [
                                 {
                                   "code": "040690730000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Provolone",
-                                  "id_": 1758530086539250,
-                                  "parent_id": 1758530086539249
+                                  "definition": "Provolone",
+                                  "id_": 1758564118199250,
+                                  "parent_id": 1758564118199249
                                 },
                                 {
                                   "code": "040690740000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Maasdam",
-                                  "id_": 1758530086539251,
-                                  "parent_id": 1758530086539249
+                                  "definition": "Maasdam",
+                                  "id_": 1758564118199251,
+                                  "parent_id": 1758564118199249
                                 },
                                 {
                                   "code": "040690750000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Asiago, Caciocavallo, Montasio, Ragusano",
-                                  "id_": 1758530086539252,
-                                  "parent_id": 1758530086539249
+                                  "definition": "Asiago, Caciocavallo, Montasio, Ragusano",
+                                  "id_": 1758564118199252,
+                                  "parent_id": 1758564118199249
                                 },
                                 {
                                   "code": "040690760000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Danbo, Fontal, Fontina, Fynbo, Havarti, Maribo, Samsö",
-                                  "id_": 1758530086539253,
-                                  "parent_id": 1758530086539249
+                                  "definition": "Danbo, Fontal, Fontina, Fynbo, Havarti, Maribo, Samsö",
+                                  "id_": 1758564118199253,
+                                  "parent_id": 1758564118199249
                                 },
                                 {
                                   "code": "040690780000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Gouda",
-                                  "id_": 1758530086539254,
-                                  "parent_id": 1758530086539249
+                                  "definition": "Gouda",
+                                  "id_": 1758564118199254,
+                                  "parent_id": 1758564118199249
                                 },
                                 {
                                   "code": "040690790000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Esrom, İtalıco, Kernhem, Saint Nectaire, Saint Paulin, Taleggio",
-                                  "id_": 1758530086539255,
-                                  "parent_id": 1758530086539249
+                                  "definition": "Esrom, İtalıco, Kernhem, Saint Nectaire, Saint Paulin, Taleggio",
+                                  "id_": 1758564118199255,
+                                  "parent_id": 1758564118199249
                                 },
                                 {
                                   "code": "040690810000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Cantal, Cheshire, Wensleydale, Lancashire, Double Gloucester, Blarney, Colby, Monterey",
-                                  "id_": 1758530086539256,
-                                  "parent_id": 1758530086539249
+                                  "definition": "Cantal, Cheshire, Wensleydale, Lancashire, Double Gloucester, Blarney, Colby, Monterey",
+                                  "id_": 1758564118199256,
+                                  "parent_id": 1758564118199249
                                 },
                                 {
                                   "code": "040690820000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Camembert",
-                                  "id_": 1758530086539257,
-                                  "parent_id": 1758530086539249
+                                  "definition": "Camembert",
+                                  "id_": 1758564118199257,
+                                  "parent_id": 1758564118199249
                                 },
                                 {
                                   "code": "040690840000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Brie",
-                                  "id_": 1758530086539258,
-                                  "parent_id": 1758530086539249
+                                  "definition": "Brie",
+                                  "id_": 1758564118199258,
+                                  "parent_id": 1758564118199249
                                 },
                                 {
                                   "code": "040690850000",
                                   "level": 7,
-                                  "definition": "- - - - - - - Kefalograviera,Kasseri",
-                                  "id_": 1758530086539259,
-                                  "parent_id": 1758530086539249
+                                  "definition": "Kefalograviera,Kasseri",
+                                  "id_": 1758564118199259,
+                                  "parent_id": 1758564118199249
                                 },
                                 {
                                   "code": null,
                                   "level": 7,
-                                  "definition": "- - - - - - - Diğer peynirler:",
-                                  "id_": 1758530086539260,
-                                  "parent_id": 1758530086539249,
+                                  "definition": "Diğer peynirler:",
+                                  "id_": 1758564118199260,
+                                  "parent_id": 1758564118199249,
                                   "children": [
                                     {
                                       "code": "040690860000",
                                       "level": 8,
-                                      "definition": "- - - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su oranı % 47'yi geçen fakat % 52'yi geçmeyenler",
-                                      "id_": 1758530086539261,
-                                      "parent_id": 1758530086539260
+                                      "definition": "Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su oranı % 47'yi geçen fakat % 52'yi geçmeyenler",
+                                      "id_": 1758564118199261,
+                                      "parent_id": 1758564118199260
                                     },
                                     {
                                       "code": "040690890000",
                                       "level": 8,
-                                      "definition": "- - - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su oranı % 52'yi geçen  fakat % 62 ' yi geçmeyenler",
-                                      "id_": 1758530086539262,
-                                      "parent_id": 1758530086539260
+                                      "definition": "Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su oranı % 52'yi geçen  fakat % 62 ' yi geçmeyenler",
+                                      "id_": 1758564118199262,
+                                      "parent_id": 1758564118199260
                                     },
                                     {
                                       "code": "040690920000",
                                       "level": 8,
-                                      "definition": "- - - - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su oranı % 62'yi geçen fakat % 72'yi geçmeyenler",
-                                      "id_": 1758530086539263,
-                                      "parent_id": 1758530086539260
+                                      "definition": "Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su oranı % 62'yi geçen fakat % 72'yi geçmeyenler",
+                                      "id_": 1758564118199263,
+                                      "parent_id": 1758564118199260
                                     }
                                   ]
                                 }
@@ -2031,39 +2032,39 @@
                             {
                               "code": "040690930000",
                               "level": 6,
-                              "definition": "- - - - - - Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su oranı % 72'yi geçenler",
-                              "id_": 1758530086539264,
-                              "parent_id": 1758530086539244
+                              "definition": "Yağsız madde üzerinden hesaplandığında ağırlık itibariyle su oranı % 72'yi geçenler",
+                              "id_": 1758564118199264,
+                              "parent_id": 1758564118199244
                             }
                           ]
                         },
                         {
                           "code": null,
                           "level": 5,
-                          "definition": "- - - - - Diğerleri",
-                          "id_": 1758530086539265,
-                          "parent_id": 1758530086539243,
+                          "definition": "Diğerleri",
+                          "id_": 1758564118199265,
+                          "parent_id": 1758564118199243,
                           "children": [
                             {
                               "code": "040690990011",
                               "level": 6,
-                              "definition": "- - - - - - Cester, Parmezan, Felemenk ve benzeri peynirler",
-                              "id_": 1758530086539266,
-                              "parent_id": 1758530086539265
+                              "definition": "Cester, Parmezan, Felemenk ve benzeri peynirler",
+                              "id_": 1758564118199266,
+                              "parent_id": 1758564118199265
                             },
                             {
                               "code": "040690990012",
                               "level": 6,
-                              "definition": "- - - - - - Dil peyniri",
-                              "id_": 1758530086539267,
-                              "parent_id": 1758530086539265
+                              "definition": "Dil peyniri",
+                              "id_": 1758564118199267,
+                              "parent_id": 1758564118199265
                             },
                             {
                               "code": "040690990019",
                               "level": 6,
-                              "definition": "- - - - - - Diğerleri",
-                              "id_": 1758530086539268,
-                              "parent_id": 1758530086539265
+                              "definition": "Diğerleri",
+                              "id_": 1758564118199268,
+                              "parent_id": 1758564118199265
                             }
                           ]
                         }
@@ -2081,80 +2082,80 @@
       "code": "040700",
       "level": 0,
       "definition": "Kuş ve kümes hayvanlarının yumurtaları (kabuklu,taze,dayanıklı hale getirilmiş veya pişirilmiş):",
-      "id_": 1758530086539269,
-      "parent_id": null,
+      "id_": 1758564118199269,
+      "parent_id": 49,
       "children": [
         {
           "code": null,
           "level": 1,
-          "definition": "- Kuluçkalık yumurtalar:",
-          "id_": 1758530086539270,
-          "parent_id": 1758530086539269,
+          "definition": "Kuluçkalık yumurtalar:",
+          "id_": 1758564118199270,
+          "parent_id": 1758564118199269,
           "children": [
             {
               "code": "040711",
               "level": 2,
-              "definition": "- - Tavuk yumurtaları (Gallus domesticus türü):",
-              "id_": 1758530086539271,
-              "parent_id": 1758530086539270,
+              "definition": "Tavuk yumurtaları (Gallus domesticus türü):",
+              "id_": 1758564118199271,
+              "parent_id": 1758564118199270,
               "children": [
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Damızlık olanlar:",
-                  "id_": 1758530086539272,
-                  "parent_id": 1758530086539271,
+                  "definition": "Damızlık olanlar:",
+                  "id_": 1758564118199272,
+                  "parent_id": 1758564118199271,
                   "children": [
                     {
                       "code": "040711001011",
                       "level": 4,
-                      "definition": "- - - - Yumurtalık ebeveyn yumurtalar",
-                      "id_": 1758530086539273,
-                      "parent_id": 1758530086539272
+                      "definition": "Yumurtalık ebeveyn yumurtalar",
+                      "id_": 1758564118199273,
+                      "parent_id": 1758564118199272
                     },
                     {
                       "code": "040711001012",
                       "level": 4,
-                      "definition": "- - - - Etlik ebeveyn yumurtalar",
-                      "id_": 1758530086539274,
-                      "parent_id": 1758530086539272
+                      "definition": "Etlik ebeveyn yumurtalar",
+                      "id_": 1758564118199274,
+                      "parent_id": 1758564118199272
                     },
                     {
                       "code": "040711001019",
                       "level": 4,
-                      "definition": "- - - - Diğerleri",
-                      "id_": 1758530086539275,
-                      "parent_id": 1758530086539272
+                      "definition": "Diğerleri",
+                      "id_": 1758564118199275,
+                      "parent_id": 1758564118199272
                     }
                   ]
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Damızlık olmayanlar:",
-                  "id_": 1758530086539276,
-                  "parent_id": 1758530086539271,
+                  "definition": "Damızlık olmayanlar:",
+                  "id_": 1758564118199276,
+                  "parent_id": 1758564118199271,
                   "children": [
                     {
                       "code": "040711009011",
                       "level": 4,
-                      "definition": "- - - - Yumurtalık yumurtalar",
-                      "id_": 1758530086539277,
-                      "parent_id": 1758530086539276
+                      "definition": "Yumurtalık yumurtalar",
+                      "id_": 1758564118199277,
+                      "parent_id": 1758564118199276
                     },
                     {
                       "code": "040711009012",
                       "level": 4,
-                      "definition": "- - - - Etlik yumurtalar",
-                      "id_": 1758530086539278,
-                      "parent_id": 1758530086539276
+                      "definition": "Etlik yumurtalar",
+                      "id_": 1758564118199278,
+                      "parent_id": 1758564118199276
                     },
                     {
                       "code": "040711009019",
                       "level": 4,
-                      "definition": "- - - - Diğerleri",
-                      "id_": 1758530086539279,
-                      "parent_id": 1758530086539276
+                      "definition": "Diğerleri",
+                      "id_": 1758564118199279,
+                      "parent_id": 1758564118199276
                     }
                   ]
                 }
@@ -2163,92 +2164,92 @@
             {
               "code": "040719",
               "level": 2,
-              "definition": "- - Diğerleri:",
-              "id_": 1758530086539280,
-              "parent_id": 1758530086539270,
+              "definition": "Diğerleri:",
+              "id_": 1758564118199280,
+              "parent_id": 1758564118199270,
               "children": [
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Tavuk (Gallus domesticus türü) haricinde kalan kümes hayvanlarının yumurtaları:",
-                  "id_": 1758530086539281,
-                  "parent_id": 1758530086539280,
+                  "definition": "Tavuk (Gallus domesticus türü) haricinde kalan kümes hayvanlarının yumurtaları:",
+                  "id_": 1758564118199281,
+                  "parent_id": 1758564118199280,
                   "children": [
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Hindi veya kazlara ait olanlar:",
-                      "id_": 1758530086539282,
-                      "parent_id": 1758530086539281,
+                      "definition": "Hindi veya kazlara ait olanlar:",
+                      "id_": 1758564118199282,
+                      "parent_id": 1758564118199281,
                       "children": [
                         {
                           "code": null,
                           "level": 5,
-                          "definition": "- - - - - Damızlık olanlar",
-                          "id_": 1758530086539283,
-                          "parent_id": 1758530086539282,
+                          "definition": "Damızlık olanlar",
+                          "id_": 1758564118199283,
+                          "parent_id": 1758564118199282,
                           "children": [
                             {
                               "code": "040719111011",
                               "level": 6,
-                              "definition": "- - - - - - Hindi yumurtası",
-                              "id_": 1758530086539284,
-                              "parent_id": 1758530086539283
+                              "definition": "Hindi yumurtası",
+                              "id_": 1758564118200284,
+                              "parent_id": 1758564118199283
                             },
                             {
                               "code": "040719111019",
                               "level": 6,
-                              "definition": "- - - - - - Diğerleri",
-                              "id_": 1758530086539285,
-                              "parent_id": 1758530086539283
+                              "definition": "Diğerleri",
+                              "id_": 1758564118200285,
+                              "parent_id": 1758564118199283
                             }
                           ]
                         },
                         {
                           "code": null,
                           "level": 5,
-                          "definition": "- - - - - Damızlık olmayanlar",
-                          "id_": 1758530086539286,
-                          "parent_id": 1758530086539282,
+                          "definition": "Damızlık olmayanlar",
+                          "id_": 1758564118200286,
+                          "parent_id": 1758564118199282,
                           "children": [
                             {
                               "code": "040719119011",
                               "level": 6,
-                              "definition": "- - - - - - Hindi yumurtası",
-                              "id_": 1758530086539287,
-                              "parent_id": 1758530086539286
+                              "definition": "Hindi yumurtası",
+                              "id_": 1758564118200287,
+                              "parent_id": 1758564118200286
                             },
                             {
                               "code": "040719119019",
                               "level": 6,
-                              "definition": "- - - - - - Diğerleri",
-                              "id_": 1758530086539288,
-                              "parent_id": 1758530086539286
+                              "definition": "Diğerleri",
+                              "id_": 1758564118200288,
+                              "parent_id": 1758564118200286
                             }
                           ]
                         },
                         {
                           "code": "040719190011",
                           "level": 5,
-                          "definition": "- - - - - Damızlık olanlar",
-                          "id_": 1758530086539289,
-                          "parent_id": 1758530086539282
+                          "definition": "Damızlık olanlar",
+                          "id_": 1758564118200289,
+                          "parent_id": 1758564118199282
                         }
                       ]
                     },
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Diğerleri:",
-                      "id_": 1758530086539290,
-                      "parent_id": 1758530086539281,
+                      "definition": "Diğerleri:",
+                      "id_": 1758564118200290,
+                      "parent_id": 1758564118199281,
                       "children": [
                         {
                           "code": "040719190019",
                           "level": 5,
-                          "definition": "- - - - - Damızlık olmayanlar",
-                          "id_": 1758530086539291,
-                          "parent_id": 1758530086539290
+                          "definition": "Damızlık olmayanlar",
+                          "id_": 1758564118200291,
+                          "parent_id": 1758564118200290
                         }
                       ]
                     }
@@ -2257,53 +2258,53 @@
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 1758530086539292,
-                  "parent_id": 1758530086539280,
+                  "definition": "Diğerleri",
+                  "id_": 1758564118200292,
+                  "parent_id": 1758564118199280,
                   "children": [
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Damızlk olanlar:",
-                      "id_": 1758530086539293,
-                      "parent_id": 1758530086539292,
+                      "definition": "Damızlk olanlar:",
+                      "id_": 1758564118200293,
+                      "parent_id": 1758564118200292,
                       "children": [
                         {
                           "code": "040719901011",
                           "level": 5,
-                          "definition": "- - - - - Devekuşu yumurtaları",
-                          "id_": 1758530086539294,
-                          "parent_id": 1758530086539293
+                          "definition": "Devekuşu yumurtaları",
+                          "id_": 1758564118200294,
+                          "parent_id": 1758564118200293
                         },
                         {
                           "code": "040719901019",
                           "level": 5,
-                          "definition": "- - - - - Diğerleri",
-                          "id_": 1758530086539295,
-                          "parent_id": 1758530086539293
+                          "definition": "Diğerleri",
+                          "id_": 1758564118200295,
+                          "parent_id": 1758564118200293
                         }
                       ]
                     },
                     {
                       "code": null,
                       "level": 4,
-                      "definition": "- - - - Damızlk olmayanlar:",
-                      "id_": 1758530086539296,
-                      "parent_id": 1758530086539292,
+                      "definition": "Damızlk olmayanlar:",
+                      "id_": 1758564118200296,
+                      "parent_id": 1758564118200292,
                       "children": [
                         {
                           "code": "040719909011",
                           "level": 5,
-                          "definition": "- - - - - Devekuşu yumurtaları",
-                          "id_": 1758530086539297,
-                          "parent_id": 1758530086539296
+                          "definition": "Devekuşu yumurtaları",
+                          "id_": 1758564118200297,
+                          "parent_id": 1758564118200296
                         },
                         {
                           "code": "040719909019",
                           "level": 5,
-                          "definition": "- - - - - Diğerleri",
-                          "id_": 1758530086539298,
-                          "parent_id": 1758530086539296
+                          "definition": "Diğerleri",
+                          "id_": 1758564118200298,
+                          "parent_id": 1758564118200296
                         }
                       ]
                     }
@@ -2316,37 +2317,37 @@
         {
           "code": null,
           "level": 1,
-          "definition": "- Diğer taze yumurtalar:",
-          "id_": 1758530086539299,
-          "parent_id": 1758530086539269,
+          "definition": "Diğer taze yumurtalar:",
+          "id_": 1758564118200299,
+          "parent_id": 1758564118199269,
           "children": [
             {
               "code": "040721000000",
               "level": 2,
-              "definition": "- - Tavuk yumurtaları (Gallus domesticus türü)",
-              "id_": 1758530086539300,
-              "parent_id": 1758530086539299
+              "definition": "Tavuk yumurtaları (Gallus domesticus türü)",
+              "id_": 1758564118200300,
+              "parent_id": 1758564118200299
             },
             {
               "code": null,
               "level": 2,
-              "definition": "- - Diğerleri:",
-              "id_": 1758530086539301,
-              "parent_id": 1758530086539299,
+              "definition": "Diğerleri:",
+              "id_": 1758564118200301,
+              "parent_id": 1758564118200299,
               "children": [
                 {
                   "code": "040729100000",
                   "level": 3,
-                  "definition": "- - - Tavuk (Gallus domesticus türü) haricinde kalan kümes hayvanlarının yumurtaları:",
-                  "id_": 1758530086539302,
-                  "parent_id": 1758530086539301
+                  "definition": "Tavuk (Gallus domesticus türü) haricinde kalan kümes hayvanlarının yumurtaları:",
+                  "id_": 1758564118200302,
+                  "parent_id": 1758564118200301
                 },
                 {
                   "code": "040729900000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 1758530086539303,
-                  "parent_id": 1758530086539301
+                  "definition": "Diğerleri",
+                  "id_": 1758564118200303,
+                  "parent_id": 1758564118200301
                 }
               ]
             }
@@ -2355,23 +2356,23 @@
         {
           "code": "040790",
           "level": 1,
-          "definition": "- Diğerleri:",
-          "id_": 1758530086539304,
-          "parent_id": 1758530086539269,
+          "definition": "Diğerleri:",
+          "id_": 1758564118200304,
+          "parent_id": 1758564118199269,
           "children": [
             {
               "code": "040790100000",
               "level": 2,
-              "definition": "- - Kümes hayvanlarının yumurtaları",
-              "id_": 1758530086539305,
-              "parent_id": 1758530086539304
+              "definition": "Kümes hayvanlarının yumurtaları",
+              "id_": 1758564118200305,
+              "parent_id": 1758564118200304
             },
             {
               "code": "040790900000",
               "level": 2,
-              "definition": "- - Diğerleri",
-              "id_": 1758530086539306,
-              "parent_id": 1758530086539304
+              "definition": "Diğerleri",
+              "id_": 1758564118200306,
+              "parent_id": 1758564118200304
             }
           ]
         }
@@ -2381,73 +2382,73 @@
       "code": "0408",
       "level": 0,
       "definition": "Kuş ve kümes hayvanlarının kabuksuz yumurtaları ve yumurta sarıları (taze,kurutulmuş,buharla veya kaynar su ile pişirilmiş,kalıplanmış,dondurulmuş veya diğer bir şekilde dayanıklılığı artırılmış) (ilave şeker veya diğer tatlandırıcı maddeler içersin içermesin):",
-      "id_": 1758530086539307,
-      "parent_id": null,
+      "id_": 1758564118200307,
+      "parent_id": 49,
       "children": [
         {
           "code": null,
           "level": 1,
-          "definition": "- Yumurta sarıları:",
-          "id_": 1758530086539308,
-          "parent_id": 1758530086539307,
+          "definition": "Yumurta sarıları:",
+          "id_": 1758564118200308,
+          "parent_id": 1758564118200307,
           "children": [
             {
               "code": "040811",
               "level": 2,
-              "definition": "- - Kurutulmuş:",
-              "id_": 1758530086539309,
-              "parent_id": 1758530086539308,
+              "definition": "Kurutulmuş:",
+              "id_": 1758564118200309,
+              "parent_id": 1758564118200308,
               "children": [
                 {
                   "code": "040811200000",
                   "level": 3,
-                  "definition": "- - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar",
-                  "id_": 1758530086539310,
-                  "parent_id": 1758530086539309
+                  "definition": "İnsan gıdası olarak kullanılmaya elverişli olmayanlar",
+                  "id_": 1758564118200310,
+                  "parent_id": 1758564118200309
                 },
                 {
                   "code": "040811800000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 1758530086539311,
-                  "parent_id": 1758530086539309
+                  "definition": "Diğerleri",
+                  "id_": 1758564118200311,
+                  "parent_id": 1758564118200309
                 }
               ]
             },
             {
               "code": "040819",
               "level": 2,
-              "definition": "- - Diğerleri:",
-              "id_": 1758530086539312,
-              "parent_id": 1758530086539308,
+              "definition": "Diğerleri:",
+              "id_": 1758564118200312,
+              "parent_id": 1758564118200308,
               "children": [
                 {
                   "code": "040819200000",
                   "level": 3,
-                  "definition": "- - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar",
-                  "id_": 1758530086539313,
-                  "parent_id": 1758530086539312
+                  "definition": "İnsan gıdası olarak kullanılmaya elverişli olmayanlar",
+                  "id_": 1758564118200313,
+                  "parent_id": 1758564118200312
                 },
                 {
                   "code": null,
                   "level": 3,
-                  "definition": "- - - Diğerleri:",
-                  "id_": 1758530086539314,
-                  "parent_id": 1758530086539312,
+                  "definition": "Diğerleri:",
+                  "id_": 1758564118200314,
+                  "parent_id": 1758564118200312,
                   "children": [
                     {
                       "code": "040819810000",
                       "level": 4,
-                      "definition": "- - - - Sıvı halde",
-                      "id_": 1758530086539315,
-                      "parent_id": 1758530086539314
+                      "definition": "Sıvı halde",
+                      "id_": 1758564118200315,
+                      "parent_id": 1758564118200314
                     },
                     {
                       "code": "040819890000",
                       "level": 4,
-                      "definition": "- - - - Dondurulmuş",
-                      "id_": 1758530086539316,
-                      "parent_id": 1758530086539314
+                      "definition": "Dondurulmuş",
+                      "id_": 1758564118200316,
+                      "parent_id": 1758564118200314
                     }
                   ]
                 }
@@ -2458,53 +2459,53 @@
         {
           "code": null,
           "level": 1,
-          "definition": "- Diğerleri:",
-          "id_": 1758530086539317,
-          "parent_id": 1758530086539307,
+          "definition": "Diğerleri:",
+          "id_": 1758564118200317,
+          "parent_id": 1758564118200307,
           "children": [
             {
               "code": "040891",
               "level": 2,
-              "definition": "- - Kurutulmuş:",
-              "id_": 1758530086539318,
-              "parent_id": 1758530086539317,
+              "definition": "Kurutulmuş:",
+              "id_": 1758564118200318,
+              "parent_id": 1758564118200317,
               "children": [
                 {
                   "code": "040891200000",
                   "level": 3,
-                  "definition": "- - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar",
-                  "id_": 1758530086539319,
-                  "parent_id": 1758530086539318
+                  "definition": "İnsan gıdası olarak kullanılmaya elverişli olmayanlar",
+                  "id_": 1758564118200319,
+                  "parent_id": 1758564118200318
                 },
                 {
                   "code": "040891800000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 1758530086539320,
-                  "parent_id": 1758530086539318
+                  "definition": "Diğerleri",
+                  "id_": 1758564118200320,
+                  "parent_id": 1758564118200318
                 }
               ]
             },
             {
               "code": "040899",
               "level": 2,
-              "definition": "- - Diğerleri:",
-              "id_": 1758530086539321,
-              "parent_id": 1758530086539317,
+              "definition": "Diğerleri:",
+              "id_": 1758564118200321,
+              "parent_id": 1758564118200317,
               "children": [
                 {
                   "code": "040899200000",
                   "level": 3,
-                  "definition": "- - - İnsan gıdası olarak kullanılmaya elverişli olmayanlar",
-                  "id_": 1758530086539322,
-                  "parent_id": 1758530086539321
+                  "definition": "İnsan gıdası olarak kullanılmaya elverişli olmayanlar",
+                  "id_": 1758564118200322,
+                  "parent_id": 1758564118200321
                 },
                 {
                   "code": "040899800000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 1758530086539323,
-                  "parent_id": 1758530086539321
+                  "definition": "Diğerleri",
+                  "id_": 1758564118200323,
+                  "parent_id": 1758564118200321
                 }
               ]
             }
@@ -2516,22 +2517,22 @@
       "code": "040900",
       "level": 0,
       "definition": "Tabii bal :",
-      "id_": 1758530086539324,
-      "parent_id": null,
+      "id_": 1758564118200324,
+      "parent_id": 49,
       "children": [
         {
           "code": "040900000011",
           "level": 1,
-          "definition": "- Petek bal",
-          "id_": 1758530086539325,
-          "parent_id": 1758530086539324
+          "definition": "Petek bal",
+          "id_": 1758564118200325,
+          "parent_id": 1758564118200324
         },
         {
           "code": "040900000012",
           "level": 1,
-          "definition": "- Süzme bal",
-          "id_": 1758530086539326,
-          "parent_id": 1758530086539324
+          "definition": "Süzme bal",
+          "id_": 1758564118200326,
+          "parent_id": 1758564118200324
         }
       ]
     },
@@ -2539,43 +2540,43 @@
       "code": "0410",
       "level": 0,
       "definition": "Böcekler ve tarifenin başka yerinde belirtilmeyen veya yer almayan hayvansal menşeli yenilen diğer ürünler",
-      "id_": 1758530086539327,
-      "parent_id": null,
+      "id_": 1758564118200327,
+      "parent_id": 49,
       "children": [
         {
           "code": "041010",
           "level": 1,
-          "definition": "- Böcekler:",
-          "id_": 1758530086539328,
-          "parent_id": 1758530086539327,
+          "definition": "Böcekler:",
+          "id_": 1758564118200328,
+          "parent_id": 1758564118200327,
           "children": [
             {
               "code": "041010100000",
               "level": 2,
-              "definition": "- - Taze, soğutulmuş veya dondurulmuş (un ve kaba un hariç)",
-              "id_": 1758530086539329,
-              "parent_id": 1758530086539328
+              "definition": "Taze, soğutulmuş veya dondurulmuş (un ve kaba un hariç)",
+              "id_": 1758564118200329,
+              "parent_id": 1758564118200328
             },
             {
               "code": null,
               "level": 2,
-              "definition": "- - Diğerleri:",
-              "id_": 1758530086539330,
-              "parent_id": 1758530086539328,
+              "definition": "Diğerleri:",
+              "id_": 1758564118200330,
+              "parent_id": 1758564118200328,
               "children": [
                 {
                   "code": "041010910000",
                   "level": 3,
-                  "definition": "- - - Un ve kaba unlar",
-                  "id_": 1758530086539331,
-                  "parent_id": 1758530086539330
+                  "definition": "Un ve kaba unlar",
+                  "id_": 1758564118200331,
+                  "parent_id": 1758564118200330
                 },
                 {
                   "code": "041010990000",
                   "level": 3,
-                  "definition": "- - - Diğerleri",
-                  "id_": 1758530086539332,
-                  "parent_id": 1758530086539330
+                  "definition": "Diğerleri",
+                  "id_": 1758564118200332,
+                  "parent_id": 1758564118200330
                 }
               ]
             }
@@ -2584,37 +2585,37 @@
         {
           "code": "041090",
           "level": 1,
-          "definition": "- Diğerleri:",
-          "id_": 1758530086539333,
-          "parent_id": 1758530086539327,
+          "definition": "Diğerleri:",
+          "id_": 1758564118200333,
+          "parent_id": 1758564118200327,
           "children": [
             {
               "code": "041090000011",
               "level": 2,
-              "definition": "- - Kablumbağa yumurtaları",
-              "id_": 1758530086539334,
-              "parent_id": 1758530086539333
+              "definition": "Kablumbağa yumurtaları",
+              "id_": 1758564118200334,
+              "parent_id": 1758564118200333
             },
             {
               "code": "041090000012",
               "level": 2,
-              "definition": "- - Salyangoz kabuğu unu",
-              "id_": 1758530086539335,
-              "parent_id": 1758530086539333
+              "definition": "Salyangoz kabuğu unu",
+              "id_": 1758564118200335,
+              "parent_id": 1758564118200333
             },
             {
               "code": "041090000013",
               "level": 2,
-              "definition": "- - Arı sütü",
-              "id_": 1758530086539336,
-              "parent_id": 1758530086539333
+              "definition": "Arı sütü",
+              "id_": 1758564118200336,
+              "parent_id": 1758564118200333
             },
             {
               "code": "041090000019",
               "level": 2,
-              "definition": "- - Diğerleri",
-              "id_": 1758530086539337,
-              "parent_id": 1758530086539333
+              "definition": "Diğerleri",
+              "id_": 1758564118200337,
+              "parent_id": 1758564118200333
             }
           ]
         }

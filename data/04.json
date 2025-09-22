@@ -1,13 +1,14 @@
 {
-  "position_number": "04",
-  "id": 49,
+  "code": "04",
+  "item_definition": "Süt Ürünleri; Kuş Ve Kümes Hayvanlarının Yumurtaları; Tabii Bal; Tarifenin Başka Yerinde Belirtilmeyen Veya Yer Almayan Yenilebilir Hayvansal Menşeli Ürünler",
+  "id": 500,
   "children": [
     {
       "position_number": "0401",
       "level": 0,
       "item_definition": "Süt ve krema (konsantre edilmemiş, ilave şeker veya diğer tatlandırıcı maddeleri içermeyenler):",
       "id": 17585641181971,
-      "parent_id": 49,
+      "parent_id": 500,
       "children": [
         {
           "position_number": "040110",
@@ -227,7 +228,7 @@
       "level": 0,
       "item_definition": "Süt ve krema (konsantre edilmiş veya ilave şeker ya da diğer tatlandırıcı maddeleri içerenler) :",
       "id": 175856411819729,
-      "parent_id": 49,
+      "parent_id": 500,
       "children": [
         {
           "position_number": "040210",
@@ -566,7 +567,7 @@
       "level": 0,
       "item_definition": "Yoğurt; yayıkaItı, pıhtılaştırılmış süt ve krema, kefir ve diğer fermente ediImiş veya asitIiği artırıImış süt ve krema (konsantre edilmiş veya iIave şeker veya diğer tatlandırıcı maddeIer katılmış oIsun olmasın veya aroma veya ilave meyva, sert kabukIu meyva veya kakao içersin içermesin):",
       "id": 175856411819772,
-      "parent_id": 49,
+      "parent_id": 500,
       "children": [
         {
           "position_number": "040320",
@@ -1002,7 +1003,7 @@
       "level": 0,
       "item_definition": "Peyniraltı suyu (konsantre edilmiş olsun olmasın veya ilave şeker veya diğer tatlandırıcı maddeleri içersin içermesin) ; tarifenin başka yerinde belirtilmeyen veya yer almayan tabii süt bileşenlerinden ibaret olan ürünler (ilave şeker veya diğer tatlandırıcı maddeleri içersin içermesin) :",
       "id": 1758564118198128,
-      "parent_id": 49,
+      "parent_id": 500,
       "children": [
         {
           "position_number": "040410",
@@ -1383,7 +1384,7 @@
       "level": 0,
       "item_definition": "Sütten elde ediIen tereyağı ve diğer katı ve sıvı yağIar; sürülerek yenilen süt ürünleri :",
       "id": 1758564118198177,
-      "parent_id": 49,
+      "parent_id": 500,
       "children": [
         {
           "position_number": "040510",
@@ -1507,7 +1508,7 @@
       "level": 0,
       "item_definition": "Peynir ve pıhtılaştırılmış ürünler:",
       "id": 1758564118198193,
-      "parent_id": 49,
+      "parent_id": 500,
       "children": [
         {
           "position_number": "040610",
@@ -2083,7 +2084,7 @@
       "level": 0,
       "item_definition": "Kuş ve kümes hayvanlarının yumurtaları (kabuklu,taze,dayanıklı hale getirilmiş veya pişirilmiş):",
       "id": 1758564118199269,
-      "parent_id": 49,
+      "parent_id": 500,
       "children": [
         {
           "position_number": null,
@@ -2383,7 +2384,7 @@
       "level": 0,
       "item_definition": "Kuş ve kümes hayvanlarının kabuksuz yumurtaları ve yumurta sarıları (taze,kurutulmuş,buharla veya kaynar su ile pişirilmiş,kalıplanmış,dondurulmuş veya diğer bir şekilde dayanıklılığı artırılmış) (ilave şeker veya diğer tatlandırıcı maddeler içersin içermesin):",
       "id": 1758564118200307,
-      "parent_id": 49,
+      "parent_id": 500,
       "children": [
         {
           "position_number": null,
@@ -2518,7 +2519,7 @@
       "level": 0,
       "item_definition": "Tabii bal :",
       "id": 1758564118200324,
-      "parent_id": 49,
+      "parent_id": 500,
       "children": [
         {
           "position_number": "040900000011",
@@ -2541,7 +2542,7 @@
       "level": 0,
       "item_definition": "Böcekler ve tarifenin başka yerinde belirtilmeyen veya yer almayan hayvansal menşeli yenilen diğer ürünler",
       "id": 1758564118200327,
-      "parent_id": 49,
+      "parent_id": 500,
       "children": [
         {
           "position_number": "041010",

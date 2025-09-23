@@ -1,0 +1,1809 @@
+{
+  "position_number": "08",
+  "item_definition": "Yenilen Meyveler Ve Yenilen Sert Kabuklu Meyveler; Turunçgillerin Ve Kavunların Ve Karpuzların Kabukları",
+  "id": 8000,
+  "parent_id": 41,
+  "children": [
+    {
+      "position_number": "0801",
+      "level": 0,
+      "item_definition": "Hindistan cevizi, Brezilya cevizi ve Kaju cevizi ( taze veya kuru tulmuş) (kabuğu çıkarılmış veya kabuğu soyulmuş olsun olmasın):",
+      "id": 17586525416501,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Hindistan cevizi:",
+          "id": 17586525416512,
+          "parent_id": 17586525416501,
+          "children": [
+            {
+              "position_number": "080111000000",
+              "level": 2,
+              "item_definition": "Kurutulmuş",
+              "id": 17586525416513,
+              "parent_id": 17586525416512
+            },
+            {
+              "position_number": "080112000000",
+              "level": 2,
+              "item_definition": "İç kabuklu (endokarp)",
+              "id": 17586525416524,
+              "parent_id": 17586525416512
+            },
+            {
+              "position_number": "080119000000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 17586525416525,
+              "parent_id": 17586525416512
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Brezilya cevizi :",
+          "id": 17586525416526,
+          "parent_id": 17586525416501,
+          "children": [
+            {
+              "position_number": "080121000000",
+              "level": 2,
+              "item_definition": "Kabuklu",
+              "id": 17586525416527,
+              "parent_id": 17586525416526
+            },
+            {
+              "position_number": "080122000000",
+              "level": 2,
+              "item_definition": "Kabuksuz",
+              "id": 17586525416528,
+              "parent_id": 17586525416526
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Kaju cevizi :",
+          "id": 17586525416529,
+          "parent_id": 17586525416501,
+          "children": [
+            {
+              "position_number": "080131000000",
+              "level": 2,
+              "item_definition": "Kabuklu",
+              "id": 175865254165210,
+              "parent_id": 17586525416529
+            },
+            {
+              "position_number": "080132000000",
+              "level": 2,
+              "item_definition": "Kabuksuz",
+              "id": 175865254165211,
+              "parent_id": 17586525416529
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0802",
+      "level": 0,
+      "item_definition": "Diğer sert kabuklu meyvalar (taze veya kurutulmuş)(kabuğu çıkarıl mış veya soyulmuş olsun olmasın):",
+      "id": 175865254165212,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Bademler:",
+          "id": 175865254165213,
+          "parent_id": 175865254165212,
+          "children": [
+            {
+              "position_number": "080211",
+              "level": 2,
+              "item_definition": "Kabuklu:",
+              "id": 175865254165214,
+              "parent_id": 175865254165213,
+              "children": [
+                {
+                  "position_number": "080211100000",
+                  "level": 3,
+                  "item_definition": "Acı bademler",
+                  "id": 175865254165215,
+                  "parent_id": 175865254165214
+                },
+                {
+                  "position_number": "080211900000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865254165216,
+                  "parent_id": 175865254165214
+                }
+              ]
+            },
+            {
+              "position_number": "080212",
+              "level": 2,
+              "item_definition": "Kabuksuz:",
+              "id": 175865254165217,
+              "parent_id": 175865254165213,
+              "children": [
+                {
+                  "position_number": "080212100000",
+                  "level": 3,
+                  "item_definition": "Acı bademler",
+                  "id": 175865254165218,
+                  "parent_id": 175865254165217
+                },
+                {
+                  "position_number": "080212900000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865254165219,
+                  "parent_id": 175865254165217
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Fındıklar veya filbert (Corylus spp.):",
+          "id": 175865254165220,
+          "parent_id": 175865254165212,
+          "children": [
+            {
+              "position_number": "080221000000",
+              "level": 2,
+              "item_definition": "Kabuklu",
+              "id": 175865254165221,
+              "parent_id": 175865254165220
+            },
+            {
+              "position_number": "080222000000",
+              "level": 2,
+              "item_definition": "Kabuksuz",
+              "id": 175865254165222,
+              "parent_id": 175865254165220
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Cevizler:",
+          "id": 175865254165223,
+          "parent_id": 175865254165212,
+          "children": [
+            {
+              "position_number": "080231000000",
+              "level": 2,
+              "item_definition": "Kabuklu",
+              "id": 175865254165224,
+              "parent_id": 175865254165223
+            },
+            {
+              "position_number": "080232000000",
+              "level": 2,
+              "item_definition": "Kabuksuz",
+              "id": 175865254165225,
+              "parent_id": 175865254165223
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Kestane (Castanea Spp.):",
+          "id": 175865254165226,
+          "parent_id": 175865254165212,
+          "children": [
+            {
+              "position_number": "080241000000",
+              "level": 2,
+              "item_definition": "Kabuklu",
+              "id": 175865254165227,
+              "parent_id": 175865254165226
+            },
+            {
+              "position_number": "080242000000",
+              "level": 2,
+              "item_definition": "Kabuksuz",
+              "id": 175865254165228,
+              "parent_id": 175865254165226
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Antep fıstığı:",
+          "id": 175865254165229,
+          "parent_id": 175865254165212,
+          "children": [
+            {
+              "position_number": "080251000000",
+              "level": 2,
+              "item_definition": "Kabuklu",
+              "id": 175865254165230,
+              "parent_id": 175865254165229
+            },
+            {
+              "position_number": "080252000000",
+              "level": 2,
+              "item_definition": "Kabuksuz",
+              "id": 175865254165231,
+              "parent_id": 175865254165229
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Avustralya fındığı (Makadamya cevizi):",
+          "id": 175865254165232,
+          "parent_id": 175865254165212,
+          "children": [
+            {
+              "position_number": "080261000000",
+              "level": 2,
+              "item_definition": "Kabuklu",
+              "id": 175865254165233,
+              "parent_id": 175865254165232
+            },
+            {
+              "position_number": "080262000000",
+              "level": 2,
+              "item_definition": "Kabuksuz",
+              "id": 175865254165234,
+              "parent_id": 175865254165232
+            }
+          ]
+        },
+        {
+          "position_number": "080270000000",
+          "level": 1,
+          "item_definition": "Kola Cevizi (Cola spp.)",
+          "id": 175865254165235,
+          "parent_id": 175865254165212
+        },
+        {
+          "position_number": "080280000000",
+          "level": 1,
+          "item_definition": "Arek cevizi",
+          "id": 175865254165236,
+          "parent_id": 175865254165212
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Diğerleri:",
+          "id": 175865254165237,
+          "parent_id": 175865254165212,
+          "children": [
+            {
+              "position_number": "080291000000",
+              "level": 2,
+              "item_definition": "Çam fıstığı (kabuklu)",
+              "id": 175865254165238,
+              "parent_id": 175865254165237
+            },
+            {
+              "position_number": "080292000000",
+              "level": 2,
+              "item_definition": "Çam fıstığı (kabuksuz)",
+              "id": 175865254165239,
+              "parent_id": 175865254165237
+            },
+            {
+              "position_number": "080299",
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 175865254165240,
+              "parent_id": 175865254165237,
+              "children": [
+                {
+                  "position_number": "080299100000",
+                  "level": 3,
+                  "item_definition": "Pekan cevizi",
+                  "id": 175865254165241,
+                  "parent_id": 175865254165240
+                },
+                {
+                  "position_number": "080299900000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865254165242,
+                  "parent_id": 175865254165240
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0803",
+      "level": 0,
+      "item_definition": "Muz (plantain dahil) (taze veya kurutulmuş):",
+      "id": 175865254165243,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": "080310",
+          "level": 1,
+          "item_definition": "Plantain:",
+          "id": 175865254165244,
+          "parent_id": 175865254165243,
+          "children": [
+            {
+              "position_number": "080310100000",
+              "level": 2,
+              "item_definition": "Taze",
+              "id": 175865254165245,
+              "parent_id": 175865254165244
+            },
+            {
+              "position_number": "080310900000",
+              "level": 2,
+              "item_definition": "Kurutulmuş",
+              "id": 175865254165246,
+              "parent_id": 175865254165244
+            }
+          ]
+        },
+        {
+          "position_number": "080390",
+          "level": 1,
+          "item_definition": "Diğerleri:",
+          "id": 175865254165247,
+          "parent_id": 175865254165243,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Taze:",
+              "id": 175865254165248,
+              "parent_id": 175865254165247,
+              "children": [
+                {
+                  "position_number": "080390110000",
+                  "level": 3,
+                  "item_definition": "Plátano de Canarias",
+                  "id": 175865254165249,
+                  "parent_id": 175865254165248
+                },
+                {
+                  "position_number": "080390190000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865254165250,
+                  "parent_id": 175865254165248
+                }
+              ]
+            },
+            {
+              "position_number": "080390900000",
+              "level": 2,
+              "item_definition": "Kurutulmuş",
+              "id": 175865254165251,
+              "parent_id": 175865254165247
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0804",
+      "level": 0,
+      "item_definition": "Hurma, incir, ananas, Avokado armudu, Guava armudu,mango ve mangost (taze veya kurutulmuş):",
+      "id": 175865254165252,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": "080410000000",
+          "level": 1,
+          "item_definition": "Hurma",
+          "id": 175865254165253,
+          "parent_id": 175865254165252
+        },
+        {
+          "position_number": "080420",
+          "level": 1,
+          "item_definition": "İncir:",
+          "id": 175865254165254,
+          "parent_id": 175865254165252,
+          "children": [
+            {
+              "position_number": "080420100000",
+              "level": 2,
+              "item_definition": "Taze",
+              "id": 175865254165255,
+              "parent_id": 175865254165254
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Kurutulmuş:",
+              "id": 175865254165256,
+              "parent_id": 175865254165254,
+              "children": [
+                {
+                  "position_number": "080420900011",
+                  "level": 3,
+                  "item_definition": "Ezme",
+                  "id": 175865254165257,
+                  "parent_id": 175865254165256
+                },
+                {
+                  "position_number": "080420900019",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865254165258,
+                  "parent_id": 175865254165256
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "080430000000",
+          "level": 1,
+          "item_definition": "Ananas",
+          "id": 175865254165259,
+          "parent_id": 175865254165252
+        },
+        {
+          "position_number": "080440000000",
+          "level": 1,
+          "item_definition": "Avokado armudu",
+          "id": 175865254165260,
+          "parent_id": 175865254165252
+        },
+        {
+          "position_number": "080450",
+          "level": 1,
+          "item_definition": "Guava armudu, mango ve mangost",
+          "id": 175865254165261,
+          "parent_id": 175865254165252,
+          "children": [
+            {
+              "position_number": "080450000011",
+              "level": 2,
+              "item_definition": "Mango",
+              "id": 175865254165262,
+              "parent_id": 175865254165261
+            },
+            {
+              "position_number": "080450000019",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865254165263,
+              "parent_id": 175865254165261
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0805",
+      "level": 0,
+      "item_definition": "Turunçgiller (taze veya kurutulmuş) :",
+      "id": 175865254165264,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": "080510",
+          "level": 1,
+          "item_definition": "Portakal:",
+          "id": 175865254165265,
+          "parent_id": 175865254165264,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Tatlı, taze:",
+              "id": 175865254165266,
+              "parent_id": 175865254165265,
+              "children": [
+                {
+                  "position_number": "080510220000",
+                  "level": 3,
+                  "item_definition": "Navel (göbekli) portakallar",
+                  "id": 175865254165267,
+                  "parent_id": 175865254165266
+                },
+                {
+                  "position_number": "080510240000",
+                  "level": 3,
+                  "item_definition": "Beyaz portakallar",
+                  "id": 175865254165268,
+                  "parent_id": 175865254165266
+                },
+                {
+                  "position_number": "080510280000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865254165269,
+                  "parent_id": 175865254165266
+                }
+              ]
+            },
+            {
+              "position_number": "080510800000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865254165270,
+              "parent_id": 175865254165265
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Mandarin (tanjerin ve satsuma dahil); klemantin,vilking ve benzeri turunçgil melezleri:",
+          "id": 175865254165271,
+          "parent_id": 175865254165264,
+          "children": [
+            {
+              "position_number": "080521",
+              "level": 2,
+              "item_definition": "Mandarinler (Tanjerin ve Satsumalar dahil):",
+              "id": 175865254165272,
+              "parent_id": 175865254165271,
+              "children": [
+                {
+                  "position_number": "080521100000",
+                  "level": 3,
+                  "item_definition": "Satsuma",
+                  "id": 175865254165373,
+                  "parent_id": 175865254165272
+                },
+                {
+                  "position_number": "080521900000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865254165374,
+                  "parent_id": 175865254165272
+                }
+              ]
+            },
+            {
+              "position_number": "080522000000",
+              "level": 2,
+              "item_definition": "Klemantin",
+              "id": 175865254165375,
+              "parent_id": 175865254165271
+            },
+            {
+              "position_number": "080529000000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865254165376,
+              "parent_id": 175865254165271
+            }
+          ]
+        },
+        {
+          "position_number": "080540000000",
+          "level": 1,
+          "item_definition": "Greyfurt ve pomelolar",
+          "id": 175865254165377,
+          "parent_id": 175865254165264
+        },
+        {
+          "position_number": "080550",
+          "level": 1,
+          "item_definition": "Limon (Citrus limon, Citrus limonum) ve tatlı limonlar (Citrus aurantifolia, Citrus latifolia):",
+          "id": 175865254165378,
+          "parent_id": 175865254165264,
+          "children": [
+            {
+              "position_number": "080550100000",
+              "level": 2,
+              "item_definition": "Limon (Citrus limon, Citrus limonum)",
+              "id": 175865254165379,
+              "parent_id": 175865254165378
+            },
+            {
+              "position_number": "080550900000",
+              "level": 2,
+              "item_definition": "Tatlı limonlar (Citrus aurantifolia, Citrus latifolia)",
+              "id": 175865254165380,
+              "parent_id": 175865254165378
+            }
+          ]
+        },
+        {
+          "position_number": "080590",
+          "level": 1,
+          "item_definition": "Diğerleri",
+          "id": 175865254165381,
+          "parent_id": 175865254165264,
+          "children": [
+            {
+              "position_number": "080590000011",
+              "level": 2,
+              "item_definition": "Diğer taze turunçgiller",
+              "id": 175865254165382,
+              "parent_id": 175865254165381
+            },
+            {
+              "position_number": "080590000012",
+              "level": 2,
+              "item_definition": "Diğer kurutulmuş turunçgiller",
+              "id": 175865254165383,
+              "parent_id": 175865254165381
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0806",
+      "level": 0,
+      "item_definition": "Üzümler (taze veya kurutulmuş):",
+      "id": 175865254165384,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": "080610",
+          "level": 1,
+          "item_definition": "Taze",
+          "id": 175865254165385,
+          "parent_id": 175865254165384,
+          "children": [
+            {
+              "position_number": "080610100000",
+              "level": 2,
+              "item_definition": "Sofralık",
+              "id": 175865254165386,
+              "parent_id": 175865254165385
+            },
+            {
+              "position_number": "080610900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865254165387,
+              "parent_id": 175865254165385
+            }
+          ]
+        },
+        {
+          "position_number": "080620",
+          "level": 1,
+          "item_definition": "Kurutulmuş:",
+          "id": 175865254165388,
+          "parent_id": 175865254165384,
+          "children": [
+            {
+              "position_number": "080620100000",
+              "level": 2,
+              "item_definition": "Korint üzümü",
+              "id": 175865254165389,
+              "parent_id": 175865254165388
+            },
+            {
+              "position_number": "080620300000",
+              "level": 2,
+              "item_definition": "Sultani üzümü",
+              "id": 175865254165390,
+              "parent_id": 175865254165388
+            },
+            {
+              "position_number": "080620900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865254165391,
+              "parent_id": 175865254165388
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0807",
+      "level": 0,
+      "item_definition": "Kavunlar (karpuzlar dahil) ve papaya (taze):",
+      "id": 175865254165392,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Kavunlar (karpuzlar dahil):",
+          "id": 175865254165393,
+          "parent_id": 175865254165392,
+          "children": [
+            {
+              "position_number": "080711000000",
+              "level": 2,
+              "item_definition": "Karpuzlar",
+              "id": 175865254165394,
+              "parent_id": 175865254165393
+            },
+            {
+              "position_number": "080719000000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865254165395,
+              "parent_id": 175865254165393
+            }
+          ]
+        },
+        {
+          "position_number": "080720000000",
+          "level": 1,
+          "item_definition": "Papaya",
+          "id": 175865254165396,
+          "parent_id": 175865254165392
+        }
+      ]
+    },
+    {
+      "position_number": "0808",
+      "level": 0,
+      "item_definition": "Elma, armut ve ayva (taze):",
+      "id": 175865254165397,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": "080810",
+          "level": 1,
+          "item_definition": "Elma :",
+          "id": 175865254165398,
+          "parent_id": 175865254165397,
+          "children": [
+            {
+              "position_number": "080810100000",
+              "level": 2,
+              "item_definition": "Şaraplık elmalar, yığın halinde, 16 Eylül'den 15 Aralık'a kadar",
+              "id": 175865254165399,
+              "parent_id": 175865254165398
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri :",
+              "id": 1758652541653100,
+              "parent_id": 175865254165398,
+              "children": [
+                {
+                  "position_number": "080810800011",
+                  "level": 3,
+                  "item_definition": "Golden cinsi",
+                  "id": 1758652541653101,
+                  "parent_id": 1758652541653100
+                },
+                {
+                  "position_number": "080810800013",
+                  "level": 3,
+                  "item_definition": "Starking elma",
+                  "id": 1758652541653102,
+                  "parent_id": 1758652541653100
+                },
+                {
+                  "position_number": "080810800014",
+                  "level": 3,
+                  "item_definition": "Starkrimson elma",
+                  "id": 1758652541653103,
+                  "parent_id": 1758652541653100
+                },
+                {
+                  "position_number": "080810800019",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758652541653104,
+                  "parent_id": 1758652541653100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "080830",
+          "level": 1,
+          "item_definition": "Armut:",
+          "id": 1758652541653105,
+          "parent_id": 175865254165397,
+          "children": [
+            {
+              "position_number": "080830100000",
+              "level": 2,
+              "item_definition": "Şaraplık armut, yığın halinde, 1 Ağustos'tan 31 Aralık'a kadar",
+              "id": 1758652541653106,
+              "parent_id": 1758652541653105
+            },
+            {
+              "position_number": "080830900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 1758652541653107,
+              "parent_id": 1758652541653105
+            }
+          ]
+        },
+        {
+          "position_number": "080840000000",
+          "level": 1,
+          "item_definition": "Ayva",
+          "id": 1758652541653108,
+          "parent_id": 175865254165397
+        }
+      ]
+    },
+    {
+      "position_number": "0809",
+      "level": 0,
+      "item_definition": "Kayısı, kiraz, şeftali (nektarin dahil), erik ve çakal eriği (taze):",
+      "id": 1758652541653109,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": "080910000000",
+          "level": 1,
+          "item_definition": "Kayısı (zerdali dahil)",
+          "id": 1758652541653110,
+          "parent_id": 1758652541653109
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Kiraz (vişne dahil) :",
+          "id": 1758652541653111,
+          "parent_id": 1758652541653109,
+          "children": [
+            {
+              "position_number": "080921000000",
+              "level": 2,
+              "item_definition": "Vişne (Prunus cerasus)",
+              "id": 1758652541653112,
+              "parent_id": 1758652541653111
+            },
+            {
+              "position_number": "080929000000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 1758652541653113,
+              "parent_id": 1758652541653111
+            }
+          ]
+        },
+        {
+          "position_number": "080930",
+          "level": 1,
+          "item_definition": "Şeftali (nektarin dahil) :",
+          "id": 1758652541653114,
+          "parent_id": 1758652541653109,
+          "children": [
+            {
+              "position_number": "080930200000",
+              "level": 2,
+              "item_definition": "Yassı şeftaliler (Prunus persica var. platycarpa) ve yassı nektarinler (Prunus persica var. platerina)",
+              "id": 1758652541653115,
+              "parent_id": 1758652541653114
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 1758652541653116,
+              "parent_id": 1758652541653114,
+              "children": [
+                {
+                  "position_number": "080930300000",
+                  "level": 3,
+                  "item_definition": "Nektarinler",
+                  "id": 1758652541653117,
+                  "parent_id": 1758652541653116
+                },
+                {
+                  "position_number": "080930800000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758652541653118,
+                  "parent_id": 1758652541653116
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "080940",
+          "level": 1,
+          "item_definition": "Erik ve çakal eriği:",
+          "id": 1758652541653119,
+          "parent_id": 1758652541653109,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Erik",
+              "id": 1758652541653120,
+              "parent_id": 1758652541653119,
+              "children": [
+                {
+                  "position_number": "080940050011",
+                  "level": 3,
+                  "item_definition": "Can eriği",
+                  "id": 1758652541653121,
+                  "parent_id": 1758652541653120
+                },
+                {
+                  "position_number": "080940050012",
+                  "level": 3,
+                  "item_definition": "Malta eriği (yeni dünya)",
+                  "id": 1758652541653122,
+                  "parent_id": 1758652541653120
+                },
+                {
+                  "position_number": "080940050013",
+                  "level": 3,
+                  "item_definition": "Mürdüm eriği",
+                  "id": 1758652541653123,
+                  "parent_id": 1758652541653120
+                },
+                {
+                  "position_number": "080940050019",
+                  "level": 3,
+                  "item_definition": "Diğer erikler",
+                  "id": 1758652541653124,
+                  "parent_id": 1758652541653120
+                }
+              ]
+            },
+            {
+              "position_number": "080940900000",
+              "level": 2,
+              "item_definition": "Çakal eriği",
+              "id": 1758652541653125,
+              "parent_id": 1758652541653119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0810",
+      "level": 0,
+      "item_definition": "Diğer meyveler (taze):",
+      "id": 1758652541653126,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": "081010000000",
+          "level": 1,
+          "item_definition": "Çilek",
+          "id": 1758652541653127,
+          "parent_id": 1758652541653126
+        },
+        {
+          "position_number": "081020",
+          "level": 1,
+          "item_definition": "Ahududu, böğürtlen, dut, loganberiler:",
+          "id": 1758652541653128,
+          "parent_id": 1758652541653126,
+          "children": [
+            {
+              "position_number": "081020100000",
+              "level": 2,
+              "item_definition": "Ahududu",
+              "id": 1758652541653129,
+              "parent_id": 1758652541653128
+            },
+            {
+              "position_number": "081020900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 1758652541653130,
+              "parent_id": 1758652541653128
+            }
+          ]
+        },
+        {
+          "position_number": "081030",
+          "level": 1,
+          "item_definition": "Siyah, beyaz veya kırmızı Frenk üzümü ve Bektaşi üzümü :",
+          "id": 1758652541653131,
+          "parent_id": 1758652541653126,
+          "children": [
+            {
+              "position_number": "081030100000",
+              "level": 2,
+              "item_definition": "Siyah Frenk üzümü",
+              "id": 1758652541653132,
+              "parent_id": 1758652541653131
+            },
+            {
+              "position_number": "081030300000",
+              "level": 2,
+              "item_definition": "Kırmızı Frenk üzümü",
+              "id": 1758652541653133,
+              "parent_id": 1758652541653131
+            },
+            {
+              "position_number": "081030900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 1758652541653134,
+              "parent_id": 1758652541653131
+            }
+          ]
+        },
+        {
+          "position_number": "081040",
+          "level": 1,
+          "item_definition": "Yaban mersini ve yaban mersinin diğer kültür cinsleri :",
+          "id": 1758652541653135,
+          "parent_id": 1758652541653126,
+          "children": [
+            {
+              "position_number": "081040100000",
+              "level": 2,
+              "item_definition": "Noktalı kırmızı yaban mersinleri (Vaccinium  vitis-idea türü meyve)",
+              "id": 1758652541653136,
+              "parent_id": 1758652541653135
+            },
+            {
+              "position_number": "081040300000",
+              "level": 2,
+              "item_definition": "Adi yaban mersini (Vaccinium myrtillus)",
+              "id": 1758652541653137,
+              "parent_id": 1758652541653135
+            },
+            {
+              "position_number": "081040500000",
+              "level": 2,
+              "item_definition": "İri meyvalı bataklık yaban mersini ( Vaccinium macrocarpan) ve bataklık yaban mersini (Vaccinium corymbosum)",
+              "id": 1758652541653138,
+              "parent_id": 1758652541653135
+            },
+            {
+              "position_number": "081040900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 1758652541653139,
+              "parent_id": 1758652541653135
+            }
+          ]
+        },
+        {
+          "position_number": "081050000000",
+          "level": 1,
+          "item_definition": "Kivi",
+          "id": 1758652541653140,
+          "parent_id": 1758652541653126
+        },
+        {
+          "position_number": "081060000000",
+          "level": 1,
+          "item_definition": "Durian",
+          "id": 1758652541653141,
+          "parent_id": 1758652541653126
+        },
+        {
+          "position_number": "081070000000",
+          "level": 1,
+          "item_definition": "Persimmon (Trabzon hurması)",
+          "id": 1758652541653142,
+          "parent_id": 1758652541653126
+        },
+        {
+          "position_number": "081090",
+          "level": 1,
+          "item_definition": "Diğerleri:",
+          "id": 1758652541653143,
+          "parent_id": 1758652541653126,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Demirhindi, mahun elması,  \"lychees\", ekmek ağacı meyvesi, sapodillo meyvesi, çarkıfelek meyvesi, karambola ve pitahaya",
+              "id": 1758652541653144,
+              "parent_id": 1758652541653143,
+              "children": [
+                {
+                  "position_number": "081090200011",
+                  "level": 3,
+                  "item_definition": "Demirhindi, mahun elması,  \"lychees\", ekmek ağacı meyvesi, sapodillo meyvesi",
+                  "id": 1758652541653145,
+                  "parent_id": 1758652541653144
+                },
+                {
+                  "position_number": "081090200012",
+                  "level": 3,
+                  "item_definition": "Çarkıfelek meyvesi, karambola ve pitahaya",
+                  "id": 1758652541653146,
+                  "parent_id": 1758652541653144
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 1758652541653147,
+              "parent_id": 1758652541653143,
+              "children": [
+                {
+                  "position_number": "081090750011",
+                  "level": 3,
+                  "item_definition": "Nar",
+                  "id": 1758652541653148,
+                  "parent_id": 1758652541653147
+                },
+                {
+                  "position_number": "081090750012",
+                  "level": 3,
+                  "item_definition": "Muşmula",
+                  "id": 1758652541653149,
+                  "parent_id": 1758652541653147
+                },
+                {
+                  "position_number": "081090750013",
+                  "level": 3,
+                  "item_definition": "Kuşburnu",
+                  "id": 1758652541653150,
+                  "parent_id": 1758652541653147
+                },
+                {
+                  "position_number": "081090750017",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758652541653151,
+                  "parent_id": 1758652541653147
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0811",
+      "level": 0,
+      "item_definition": "Meyveler ve sert kabuklu meyveler (pişirilmemiş veya buharda veya suda kaynatılarak pişirilmiş, dondurulmuş) (ilave şeker veya diğer tatlandırıcı maddeler katılmış olsun olmasın):",
+      "id": 1758652541653152,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": "081110",
+          "level": 1,
+          "item_definition": "Çilek:",
+          "id": 1758652541654153,
+          "parent_id": 1758652541653152,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "İlave şeker veya diğer tatlandırıcı maddeleri içerenler :",
+              "id": 1758652541654154,
+              "parent_id": 1758652541654153,
+              "children": [
+                {
+                  "position_number": "081110110000",
+                  "level": 3,
+                  "item_definition": "Şeker oranı ağırlık itibariyle % 13'ü geçenler",
+                  "id": 1758652541654155,
+                  "parent_id": 1758652541654154
+                },
+                {
+                  "position_number": "081110190000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758652541654156,
+                  "parent_id": 1758652541654154
+                }
+              ]
+            },
+            {
+              "position_number": "081110900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 1758652541654157,
+              "parent_id": 1758652541654153
+            }
+          ]
+        },
+        {
+          "position_number": "081120",
+          "level": 1,
+          "item_definition": "Ahududu, böğürtlen, dut, loganberrier(bir çeşit böğürtlen), siyah, beyaz ve kırmızı Frenk üzümü ve Bektaşi üzümü:",
+          "id": 1758652541654158,
+          "parent_id": 1758652541653152,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "İlave şeker veya diğer tatlandırıcı maddeleri içerenler :",
+              "id": 1758652541654159,
+              "parent_id": 1758652541654158,
+              "children": [
+                {
+                  "position_number": "081120110000",
+                  "level": 3,
+                  "item_definition": "Şeker oranı ağırlık itibariyle % 13'ü geçenler",
+                  "id": 1758652541654160,
+                  "parent_id": 1758652541654159
+                },
+                {
+                  "position_number": "081120190000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758652541654161,
+                  "parent_id": 1758652541654159
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 1758652541654162,
+              "parent_id": 1758652541654158,
+              "children": [
+                {
+                  "position_number": "081120310000",
+                  "level": 3,
+                  "item_definition": "Ahududu",
+                  "id": 1758652541654163,
+                  "parent_id": 1758652541654162
+                },
+                {
+                  "position_number": "081120390000",
+                  "level": 3,
+                  "item_definition": "Siyah Frenk üzümü",
+                  "id": 1758652541654164,
+                  "parent_id": 1758652541654162
+                },
+                {
+                  "position_number": "081120510000",
+                  "level": 3,
+                  "item_definition": "Kırmızı Frenk üzümü",
+                  "id": 1758652541654165,
+                  "parent_id": 1758652541654162
+                },
+                {
+                  "position_number": "081120590000",
+                  "level": 3,
+                  "item_definition": "Böğürtlen, dut ve loganberrier",
+                  "id": 1758652541654166,
+                  "parent_id": 1758652541654162
+                },
+                {
+                  "position_number": "081120900000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758652541654167,
+                  "parent_id": 1758652541654162
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "081190",
+          "level": 1,
+          "item_definition": "Diğerleri :",
+          "id": 1758652541654168,
+          "parent_id": 1758652541653152,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "İlave şeker veya diğer tatlandırıcı maddeleri içerenler:",
+              "id": 1758652541654169,
+              "parent_id": 1758652541654168,
+              "children": [
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Şeker oranı ağırlık itibariyle % 13'ü geçenler :",
+                  "id": 1758652541654170,
+                  "parent_id": 1758652541654169,
+                  "children": [
+                    {
+                      "position_number": "081190110000",
+                      "level": 4,
+                      "item_definition": "Tropikal meyveler ve sert kabuklu tropikal meyveler",
+                      "id": 1758652541654171,
+                      "parent_id": 1758652541654170
+                    },
+                    {
+                      "position_number": "081190190000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 1758652541654172,
+                      "parent_id": 1758652541654170
+                    }
+                  ]
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri :",
+                  "id": 1758652541654173,
+                  "parent_id": 1758652541654169,
+                  "children": [
+                    {
+                      "position_number": "081190310000",
+                      "level": 4,
+                      "item_definition": "Tropikal meyveler ve sert kabuklu tropikal meyveler",
+                      "id": 1758652541654174,
+                      "parent_id": 1758652541654173
+                    },
+                    {
+                      "position_number": "081190390000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 1758652541654175,
+                      "parent_id": 1758652541654173
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 1758652541654176,
+              "parent_id": 1758652541654168,
+              "children": [
+                {
+                  "position_number": "081190500000",
+                  "level": 3,
+                  "item_definition": "Adi yaban mersini",
+                  "id": 1758652541654177,
+                  "parent_id": 1758652541654176
+                },
+                {
+                  "position_number": "081190700000",
+                  "level": 3,
+                  "item_definition": "Vaccinium myrtilloides ve Vaccinium angustifolium türü meyvalar",
+                  "id": 1758652541654178,
+                  "parent_id": 1758652541654176
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Kiraz (vişne dahil) :",
+                  "id": 1758652541654179,
+                  "parent_id": 1758652541654176,
+                  "children": [
+                    {
+                      "position_number": "081190750000",
+                      "level": 4,
+                      "item_definition": "Vişne (Prunus cerasus)",
+                      "id": 1758652541654180,
+                      "parent_id": 1758652541654179
+                    },
+                    {
+                      "position_number": "081190800000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 1758652541654181,
+                      "parent_id": 1758652541654179
+                    }
+                  ]
+                },
+                {
+                  "position_number": "081190850000",
+                  "level": 3,
+                  "item_definition": "Tropikal meyveler ve sert kabuklu tropikal meyveler",
+                  "id": 1758652541654182,
+                  "parent_id": 1758652541654176
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758652541654183,
+                  "parent_id": 1758652541654176,
+                  "children": [
+                    {
+                      "position_number": "081190950011",
+                      "level": 4,
+                      "item_definition": "Erik",
+                      "id": 1758652541654184,
+                      "parent_id": 1758652541654183
+                    },
+                    {
+                      "position_number": "081190950012",
+                      "level": 4,
+                      "item_definition": "Kayısı (zerdali dahil)",
+                      "id": 1758652541654185,
+                      "parent_id": 1758652541654183
+                    },
+                    {
+                      "position_number": "081190950013",
+                      "level": 4,
+                      "item_definition": "Şeftali",
+                      "id": 1758652541654186,
+                      "parent_id": 1758652541654183
+                    },
+                    {
+                      "position_number": "081190950014",
+                      "level": 4,
+                      "item_definition": "Elma",
+                      "id": 1758652541654187,
+                      "parent_id": 1758652541654183
+                    },
+                    {
+                      "position_number": "081190950015",
+                      "level": 4,
+                      "item_definition": "Üzüm",
+                      "id": 1758652541654188,
+                      "parent_id": 1758652541654183
+                    },
+                    {
+                      "position_number": "081190950019",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 1758652541654189,
+                      "parent_id": 1758652541654183
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0812",
+      "level": 0,
+      "item_definition": "Geçici olarak konserve edilmiş fakat bu halleri ile derhal yenilmeye elverişli olmayan meyveler ve sert kabuklu meyveler",
+      "id": 1758652541654190,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": "081210000000",
+          "level": 1,
+          "item_definition": "Kiraz (vişne dahil)",
+          "id": 1758652541654191,
+          "parent_id": 1758652541654190
+        },
+        {
+          "position_number": "081290",
+          "level": 1,
+          "item_definition": "Diğerleri:",
+          "id": 1758652541654192,
+          "parent_id": 1758652541654190,
+          "children": [
+            {
+              "position_number": "081290250000",
+              "level": 2,
+              "item_definition": "Kayısı (zerdali dahil), Portakal",
+              "id": 1758652541654193,
+              "parent_id": 1758652541654192
+            },
+            {
+              "position_number": "081290300000",
+              "level": 2,
+              "item_definition": "Papaya",
+              "id": 1758652541654194,
+              "parent_id": 1758652541654192
+            },
+            {
+              "position_number": "081290400000",
+              "level": 2,
+              "item_definition": "Adi yaban mersini",
+              "id": 1758652541654195,
+              "parent_id": 1758652541654192
+            },
+            {
+              "position_number": "081290700000",
+              "level": 2,
+              "item_definition": "Guava, mango, mangost, demirhindi, mahun elması, 'lychees',ekmek ağacı meyvesi, sapodillo eriği, çarkıfelek meyvesi, Karambola, pitahaya ve sert kabuklu tropikal meyveler",
+              "id": 1758652541654196,
+              "parent_id": 1758652541654192
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 1758652541654197,
+              "parent_id": 1758652541654192,
+              "children": [
+                {
+                  "position_number": "081290980011",
+                  "level": 3,
+                  "item_definition": "Şeftali",
+                  "id": 1758652541654198,
+                  "parent_id": 1758652541654197
+                },
+                {
+                  "position_number": "081290980012",
+                  "level": 3,
+                  "item_definition": "Erik",
+                  "id": 1758652541654199,
+                  "parent_id": 1758652541654197
+                },
+                {
+                  "position_number": "081290980013",
+                  "level": 3,
+                  "item_definition": "Elma",
+                  "id": 1758652541654200,
+                  "parent_id": 1758652541654197
+                },
+                {
+                  "position_number": "081290980014",
+                  "level": 3,
+                  "item_definition": "Turunç",
+                  "id": 1758652541654201,
+                  "parent_id": 1758652541654197
+                },
+                {
+                  "position_number": "081290980015",
+                  "level": 3,
+                  "item_definition": "Çilek",
+                  "id": 1758652541654202,
+                  "parent_id": 1758652541654197
+                },
+                {
+                  "position_number": "081290980016",
+                  "level": 3,
+                  "item_definition": "Siyah Frenk üzümü",
+                  "id": 1758652541654203,
+                  "parent_id": 1758652541654197
+                },
+                {
+                  "position_number": "081290980017",
+                  "level": 3,
+                  "item_definition": "Ahududu",
+                  "id": 1758652541654204,
+                  "parent_id": 1758652541654197
+                },
+                {
+                  "position_number": "081290980018",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758652541654205,
+                  "parent_id": 1758652541654197
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0813",
+      "level": 0,
+      "item_definition": "Meyveler (kurutulmuş) (08.01 ila 08.06 pozisyonlarındakiler hariç); bu fasıldaki sert kabuklu meyvaların veya kurutulmuş meyvaların birbirleriyle olan karışımları:",
+      "id": 1758652541654206,
+      "parent_id": 8000,
+      "children": [
+        {
+          "position_number": "081310000000",
+          "level": 1,
+          "item_definition": "Kayısı (zerdali dahil)",
+          "id": 1758652541654207,
+          "parent_id": 1758652541654206
+        },
+        {
+          "position_number": "081320000000",
+          "level": 1,
+          "item_definition": "Erik",
+          "id": 1758652541654208,
+          "parent_id": 1758652541654206
+        },
+        {
+          "position_number": "081330000000",
+          "level": 1,
+          "item_definition": "Elma",
+          "id": 1758652541654209,
+          "parent_id": 1758652541654206
+        },
+        {
+          "position_number": "081340",
+          "level": 1,
+          "item_definition": "Diğer meyveler:",
+          "id": 1758652541654210,
+          "parent_id": 1758652541654206,
+          "children": [
+            {
+              "position_number": "081340100000",
+              "level": 2,
+              "item_definition": "Şeftali (nektarinler dahil)",
+              "id": 1758652541654211,
+              "parent_id": 1758652541654210
+            },
+            {
+              "position_number": "081340300000",
+              "level": 2,
+              "item_definition": "Armut",
+              "id": 1758652541654212,
+              "parent_id": 1758652541654210
+            },
+            {
+              "position_number": "081340500000",
+              "level": 2,
+              "item_definition": "Papaya",
+              "id": 1758652541654213,
+              "parent_id": 1758652541654210
+            },
+            {
+              "position_number": "081340650000",
+              "level": 2,
+              "item_definition": "Demir hindi, mahun elması, 'lychees', ekmek ağacı meyvesi, sapadillo eriği, çarkıfelek meyvesi, karambola ve pitahaya",
+              "id": 1758652541654214,
+              "parent_id": 1758652541654210
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 1758652541654215,
+              "parent_id": 1758652541654210,
+              "children": [
+                {
+                  "position_number": "081340950011",
+                  "level": 3,
+                  "item_definition": "Dut",
+                  "id": 1758652541654216,
+                  "parent_id": 1758652541654215
+                },
+                {
+                  "position_number": "081340950012",
+                  "level": 3,
+                  "item_definition": "Ayva",
+                  "id": 1758652541654217,
+                  "parent_id": 1758652541654215
+                },
+                {
+                  "position_number": "081340950019",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758652541654218,
+                  "parent_id": 1758652541654215
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "081350",
+          "level": 1,
+          "item_definition": "Bu fasıldaki sert kabuklu meyvaların veya kurutulmuş meyvalerin birbirleriyle olan karışımları:",
+          "id": 1758652541654219,
+          "parent_id": 1758652541654206,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Kurutulmuş meyvaların karışımları (08.01 ila 08.06 pozisyonlarındakiler hariç):",
+              "id": 1758652541654220,
+              "parent_id": 1758652541654219,
+              "children": [
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Eriksiz olanlar :",
+                  "id": 1758652541654221,
+                  "parent_id": 1758652541654220,
+                  "children": [
+                    {
+                      "position_number": "081350120000",
+                      "level": 4,
+                      "item_definition": "Papaya, demirhindi,mahun elması,'lychees', ekmek ağacı mey vesi, sapadillo eriği ,çarkıfelek meyvesi, Karambola ve pitahaya içerenler",
+                      "id": 1758652541654222,
+                      "parent_id": 1758652541654221
+                    },
+                    {
+                      "position_number": "081350150000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 1758652541654223,
+                      "parent_id": 1758652541654221
+                    }
+                  ]
+                },
+                {
+                  "position_number": "081350190000",
+                  "level": 3,
+                  "item_definition": "Erikli olanlar",
+                  "id": 1758652541654224,
+                  "parent_id": 1758652541654220
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Sadece 08.01 ve 08.02 pozisyonlarındaki kabuklu kurutulmuş meyvaların karışımları:",
+              "id": 1758652541654225,
+              "parent_id": 1758652541654219,
+              "children": [
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Sert kabuklu tropikal meyvelerden:",
+                  "id": 1758652541654226,
+                  "parent_id": 1758652541654225,
+                  "children": [
+                    {
+                      "position_number": "081350311000",
+                      "level": 4,
+                      "item_definition": "Hindistan cevizi, Brezilya cevizi ve Kaju cevizi içerenler",
+                      "id": 1758652541654227,
+                      "parent_id": 1758652541654226
+                    },
+                    {
+                      "position_number": "081350319000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 1758652541654228,
+                      "parent_id": 1758652541654226
+                    }
+                  ]
+                },
+                {
+                  "position_number": "081350390000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758652541654229,
+                  "parent_id": 1758652541654225
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğer karışımlar:",
+              "id": 1758652541654230,
+              "parent_id": 1758652541654219,
+              "children": [
+                {
+                  "position_number": "081350910000",
+                  "level": 3,
+                  "item_definition": "Erik veya incir içermeyenler",
+                  "id": 1758652541654231,
+                  "parent_id": 1758652541654230
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri:",
+                  "id": 1758652541654232,
+                  "parent_id": 1758652541654230,
+                  "children": [
+                    {
+                      "position_number": "081350991000",
+                      "level": 4,
+                      "item_definition": "Hurma, muz, ananas, Avakado armudu, mango, mangost içerenler",
+                      "id": 1758652541654233,
+                      "parent_id": 1758652541654232
+                    },
+                    {
+                      "position_number": "081350999000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 1758652541654234,
+                      "parent_id": 1758652541654232
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "081400000000",
+      "level": 0,
+      "item_definition": "Turunçgillerin veya kavunların (karpuzlar dahil) kabukları (taze, dondurulmuş, kurutulmuş veya salamurada, kükürtlü su içinde veya diğer koruyucu eriyikler  içinde geçici olarak konserve edilmiş)",
+      "id": 1758652541654235,
+      "parent_id": 8000
+    }
+  ]
+}

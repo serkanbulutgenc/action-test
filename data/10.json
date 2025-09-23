@@ -1,0 +1,911 @@
+{
+  "position_number": "10",
+  "item_definition": "Hububat",
+  "id": 10000,
+  "parent_id": 41,
+  "children": [
+    {
+      "position_number": "1001",
+      "level": 0,
+      "item_definition": "Buğday ve mahlut:",
+      "id": 17586531052621,
+      "parent_id": 10000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Makarnalık buğday (durum buğdayı):",
+          "id": 17586531052632,
+          "parent_id": 17586531052621,
+          "children": [
+            {
+              "position_number": "100111000000",
+              "level": 2,
+              "item_definition": "Tohumluk",
+              "id": 17586531052633,
+              "parent_id": 17586531052632
+            },
+            {
+              "position_number": "100119000000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 17586531052634,
+              "parent_id": 17586531052632
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Diğerleri:",
+          "id": 17586531052635,
+          "parent_id": 17586531052621,
+          "children": [
+            {
+              "position_number": "100191",
+              "level": 2,
+              "item_definition": "Tohumluk:",
+              "id": 17586531052636,
+              "parent_id": 17586531052635,
+              "children": [
+                {
+                  "position_number": "100191100000",
+                  "level": 3,
+                  "item_definition": "Kaplıca (kızıl) buğday",
+                  "id": 17586531052637,
+                  "parent_id": 17586531052636
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Adi buğday ve mahlut:",
+                  "id": 17586531052638,
+                  "parent_id": 17586531052636,
+                  "children": [
+                    {
+                      "position_number": "100191200011",
+                      "level": 4,
+                      "item_definition": "Adi buğday",
+                      "id": 17586531052639,
+                      "parent_id": 17586531052638
+                    },
+                    {
+                      "position_number": "100191200012",
+                      "level": 4,
+                      "item_definition": "Mahlut",
+                      "id": 175865310526310,
+                      "parent_id": 17586531052638
+                    }
+                  ]
+                },
+                {
+                  "position_number": "100191900000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865310526311,
+                  "parent_id": 17586531052636
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 175865310526312,
+              "parent_id": 17586531052635,
+              "children": [
+                {
+                  "position_number": "100199000011",
+                  "level": 3,
+                  "item_definition": "Adi buğday",
+                  "id": 175865310526313,
+                  "parent_id": 175865310526312
+                },
+                {
+                  "position_number": "100199000012",
+                  "level": 3,
+                  "item_definition": "Mahlut",
+                  "id": 175865310526314,
+                  "parent_id": 175865310526312
+                },
+                {
+                  "position_number": "100199000013",
+                  "level": 3,
+                  "item_definition": "Kaplıca (kızıl) buğday",
+                  "id": 175865310526315,
+                  "parent_id": 175865310526312
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "1002",
+      "level": 0,
+      "item_definition": "Çavdar",
+      "id": 175865310526316,
+      "parent_id": 10000,
+      "children": [
+        {
+          "position_number": "100210000000",
+          "level": 1,
+          "item_definition": "Tohumluk",
+          "id": 175865310526317,
+          "parent_id": 175865310526316
+        },
+        {
+          "position_number": "100290000000",
+          "level": 1,
+          "item_definition": "Diğerleri",
+          "id": 175865310526318,
+          "parent_id": 175865310526316
+        }
+      ]
+    },
+    {
+      "position_number": "1003",
+      "level": 0,
+      "item_definition": "Arpa:",
+      "id": 175865310526319,
+      "parent_id": 10000,
+      "children": [
+        {
+          "position_number": "100310",
+          "level": 1,
+          "item_definition": "Tohumluk:",
+          "id": 175865310526320,
+          "parent_id": 175865310526319,
+          "children": [
+            {
+              "position_number": "100310000011",
+              "level": 2,
+              "item_definition": "Beyaz arpa",
+              "id": 175865310526321,
+              "parent_id": 175865310526320
+            },
+            {
+              "position_number": "100310000019",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865310526322,
+              "parent_id": 175865310526320
+            }
+          ]
+        },
+        {
+          "position_number": "100390",
+          "level": 1,
+          "item_definition": "Diğerleri:",
+          "id": 175865310526323,
+          "parent_id": 175865310526319,
+          "children": [
+            {
+              "position_number": "100390000011",
+              "level": 2,
+              "item_definition": "Beyaz arpa",
+              "id": 175865310526324,
+              "parent_id": 175865310526323
+            },
+            {
+              "position_number": "100390000012",
+              "level": 2,
+              "item_definition": "Maltlık arpa",
+              "id": 175865310526325,
+              "parent_id": 175865310526323
+            },
+            {
+              "position_number": "100390000019",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865310526326,
+              "parent_id": 175865310526323
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "1004",
+      "level": 0,
+      "item_definition": "Yulaf",
+      "id": 175865310526327,
+      "parent_id": 10000,
+      "children": [
+        {
+          "position_number": "100410000000",
+          "level": 1,
+          "item_definition": "Tohumluk",
+          "id": 175865310526328,
+          "parent_id": 175865310526327
+        },
+        {
+          "position_number": "100490000000",
+          "level": 1,
+          "item_definition": "Diğerleri",
+          "id": 175865310526329,
+          "parent_id": 175865310526327
+        }
+      ]
+    },
+    {
+      "position_number": "1005",
+      "level": 0,
+      "item_definition": "Mısır:",
+      "id": 175865310526330,
+      "parent_id": 10000,
+      "children": [
+        {
+          "position_number": "100510",
+          "level": 1,
+          "item_definition": "Tohumluk:",
+          "id": 175865310526331,
+          "parent_id": 175865310526330,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Melezler:",
+              "id": 175865310526332,
+              "parent_id": 175865310526331,
+              "children": [
+                {
+                  "position_number": "100510130000",
+                  "level": 3,
+                  "item_definition": "Üçlü melez",
+                  "id": 175865310526333,
+                  "parent_id": 175865310526332
+                },
+                {
+                  "position_number": "100510150000",
+                  "level": 3,
+                  "item_definition": "Tek melez",
+                  "id": 175865310526334,
+                  "parent_id": 175865310526332
+                },
+                {
+                  "position_number": "100510180000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865310526335,
+                  "parent_id": 175865310526332
+                }
+              ]
+            },
+            {
+              "position_number": "100510900000",
+              "level": 2,
+              "item_definition": "Diğer tohumluklar",
+              "id": 175865310526436,
+              "parent_id": 175865310526331
+            }
+          ]
+        },
+        {
+          "position_number": "100590",
+          "level": 1,
+          "item_definition": "Diğerleri :",
+          "id": 175865310526437,
+          "parent_id": 175865310526330,
+          "children": [
+            {
+              "position_number": "100590000011",
+              "level": 2,
+              "item_definition": "Cin mısırı (patlamış mısır-pop corn yapımında kullanılan mısır)",
+              "id": 175865310526438,
+              "parent_id": 175865310526437
+            },
+            {
+              "position_number": "100590000019",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865310526439,
+              "parent_id": 175865310526437
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "1006",
+      "level": 0,
+      "item_definition": "Pirinç:",
+      "id": 175865310526440,
+      "parent_id": 10000,
+      "children": [
+        {
+          "position_number": "100610",
+          "level": 1,
+          "item_definition": "Kavuz içinde bulunan pirinç (çeltik):",
+          "id": 175865310526441,
+          "parent_id": 175865310526440,
+          "children": [
+            {
+              "position_number": "100610100000",
+              "level": 2,
+              "item_definition": "Tohumluk olanlar",
+              "id": 175865310526442,
+              "parent_id": 175865310526441
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 175865310526443,
+              "parent_id": 175865310526441,
+              "children": [
+                {
+                  "position_number": "100610300000",
+                  "level": 3,
+                  "item_definition": "Yuvarlak taneli",
+                  "id": 175865310526444,
+                  "parent_id": 175865310526443
+                },
+                {
+                  "position_number": "100610500000",
+                  "level": 3,
+                  "item_definition": "Orta taneli",
+                  "id": 175865310526445,
+                  "parent_id": 175865310526443
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Uzun taneli:",
+                  "id": 175865310526446,
+                  "parent_id": 175865310526443,
+                  "children": [
+                    {
+                      "position_number": "100610710000",
+                      "level": 4,
+                      "item_definition": "Uzunluk/genişlik oranı 2'den büyük fakat 3'ten küçük olanlar",
+                      "id": 175865310526447,
+                      "parent_id": 175865310526446
+                    },
+                    {
+                      "position_number": "100610790000",
+                      "level": 4,
+                      "item_definition": "Uzunluk/genişlik oranı 3'e eşit veya büyük olanlar",
+                      "id": 175865310526448,
+                      "parent_id": 175865310526446
+                    }
+                  ]
+                },
+                {
+                  "position_number": "100610900000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865310526449,
+                  "parent_id": 175865310526443
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "100620",
+          "level": 1,
+          "item_definition": "Kavuzu çıkarılmış (kahverengi) pirinç:",
+          "id": 175865310526450,
+          "parent_id": 175865310526440,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Yarı haşlanmış:",
+              "id": 175865310526451,
+              "parent_id": 175865310526450,
+              "children": [
+                {
+                  "position_number": "100620110000",
+                  "level": 3,
+                  "item_definition": "Yuvarlak taneli",
+                  "id": 175865310526452,
+                  "parent_id": 175865310526451
+                },
+                {
+                  "position_number": "100620130000",
+                  "level": 3,
+                  "item_definition": "Orta taneli",
+                  "id": 175865310526453,
+                  "parent_id": 175865310526451
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Uzun taneli:",
+                  "id": 175865310526454,
+                  "parent_id": 175865310526451,
+                  "children": [
+                    {
+                      "position_number": "100620150000",
+                      "level": 4,
+                      "item_definition": "Uzunluk/genişlik oranı 2'den büyük fakat 3'ten küçük olanlar",
+                      "id": 175865310526455,
+                      "parent_id": 175865310526454
+                    },
+                    {
+                      "position_number": "100620170000",
+                      "level": 4,
+                      "item_definition": "Uzunluk/genişlik oranı eşit veya 3'ten büyük olanlar",
+                      "id": 175865310526456,
+                      "parent_id": 175865310526454
+                    }
+                  ]
+                },
+                {
+                  "position_number": "100620190000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865310526457,
+                  "parent_id": 175865310526451
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 175865310526458,
+              "parent_id": 175865310526450,
+              "children": [
+                {
+                  "position_number": "100620920000",
+                  "level": 3,
+                  "item_definition": "Yuvarlak taneli",
+                  "id": 175865310526459,
+                  "parent_id": 175865310526458
+                },
+                {
+                  "position_number": "100620940000",
+                  "level": 3,
+                  "item_definition": "Orta taneli",
+                  "id": 175865310526460,
+                  "parent_id": 175865310526458
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Uzun taneli:",
+                  "id": 175865310526461,
+                  "parent_id": 175865310526458,
+                  "children": [
+                    {
+                      "position_number": "100620960000",
+                      "level": 4,
+                      "item_definition": "Uzunluk/genişlik oranı 2'den büyük fakat 3'ten küçük olanlar",
+                      "id": 175865310526462,
+                      "parent_id": 175865310526461
+                    },
+                    {
+                      "position_number": "100620980000",
+                      "level": 4,
+                      "item_definition": "Uzunluk/genişlik oranı eşit veya 3'ten büyük olanlar",
+                      "id": 175865310526463,
+                      "parent_id": 175865310526461
+                    }
+                  ]
+                },
+                {
+                  "position_number": "100620990000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865310526464,
+                  "parent_id": 175865310526458
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "100630",
+          "level": 1,
+          "item_definition": "Yarı veya tam olarak değirmenden geçirilmiş pirinç (parlatılmış veya perdahlanmış olsun olmasın):",
+          "id": 175865310526465,
+          "parent_id": 175865310526440,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Yarı olarak değirmenden geçirilmiş pirinç:",
+              "id": 175865310526466,
+              "parent_id": 175865310526465,
+              "children": [
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Yarı haşlanmış:",
+                  "id": 175865310526467,
+                  "parent_id": 175865310526466,
+                  "children": [
+                    {
+                      "position_number": "100630210000",
+                      "level": 4,
+                      "item_definition": "Yuvarlak taneli",
+                      "id": 175865310526468,
+                      "parent_id": 175865310526467
+                    },
+                    {
+                      "position_number": "100630230000",
+                      "level": 4,
+                      "item_definition": "Orta taneli",
+                      "id": 175865310526469,
+                      "parent_id": 175865310526467
+                    },
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Uzun taneli:",
+                      "id": 175865310526470,
+                      "parent_id": 175865310526467,
+                      "children": [
+                        {
+                          "position_number": "100630250000",
+                          "level": 5,
+                          "item_definition": "Uzunluk/genişlik oranı 2'den büyük fakat 3'ten küçük olanlar",
+                          "id": 175865310526471,
+                          "parent_id": 175865310526470
+                        },
+                        {
+                          "position_number": "100630270000",
+                          "level": 5,
+                          "item_definition": "Uzunluk/genişlik oranı eşit veya 3'ten büyük olanlar",
+                          "id": 175865310526472,
+                          "parent_id": 175865310526470
+                        }
+                      ]
+                    },
+                    {
+                      "position_number": "100630290000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 175865310526473,
+                      "parent_id": 175865310526467
+                    }
+                  ]
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri:",
+                  "id": 175865310526474,
+                  "parent_id": 175865310526466,
+                  "children": [
+                    {
+                      "position_number": "100630420000",
+                      "level": 4,
+                      "item_definition": "Yuvarlak taneli",
+                      "id": 175865310526475,
+                      "parent_id": 175865310526474
+                    },
+                    {
+                      "position_number": "100630440000",
+                      "level": 4,
+                      "item_definition": "Orta taneli",
+                      "id": 175865310526476,
+                      "parent_id": 175865310526474
+                    },
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Uzun taneli:",
+                      "id": 175865310526477,
+                      "parent_id": 175865310526474,
+                      "children": [
+                        {
+                          "position_number": "100630460000",
+                          "level": 5,
+                          "item_definition": "Uzunluk/genişlik oranı 2'den büyük fakat 3'tenküçük olanlar",
+                          "id": 175865310526478,
+                          "parent_id": 175865310526477
+                        },
+                        {
+                          "position_number": "100630480000",
+                          "level": 5,
+                          "item_definition": "Uzunluk/genişlik oranı eşit veya 3'ten büyük olanlar",
+                          "id": 175865310526479,
+                          "parent_id": 175865310526477
+                        }
+                      ]
+                    },
+                    {
+                      "position_number": "100630490000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 175865310526480,
+                      "parent_id": 175865310526474
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Tam olarak değirmenden geçirilmiş pirinç:",
+              "id": 175865310526481,
+              "parent_id": 175865310526465,
+              "children": [
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Yarı haşlanmış:",
+                  "id": 175865310526482,
+                  "parent_id": 175865310526481,
+                  "children": [
+                    {
+                      "position_number": "100630610000",
+                      "level": 4,
+                      "item_definition": "Yuvarlak taneli",
+                      "id": 175865310526483,
+                      "parent_id": 175865310526482
+                    },
+                    {
+                      "position_number": "100630630000",
+                      "level": 4,
+                      "item_definition": "Orta taneli",
+                      "id": 175865310526484,
+                      "parent_id": 175865310526482
+                    },
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Uzun taneli:",
+                      "id": 175865310526485,
+                      "parent_id": 175865310526482,
+                      "children": [
+                        {
+                          "position_number": "100630650000",
+                          "level": 5,
+                          "item_definition": "Uzunluk/genişlik oranı 2'den büyük fakat 3'ten küçük olanlar",
+                          "id": 175865310526486,
+                          "parent_id": 175865310526485
+                        },
+                        {
+                          "position_number": "100630670000",
+                          "level": 5,
+                          "item_definition": "Uzunluk/genişlik oranı eşit veya 3'ten büyük olanlar",
+                          "id": 175865310526487,
+                          "parent_id": 175865310526485
+                        }
+                      ]
+                    },
+                    {
+                      "position_number": "100630690000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 175865310526488,
+                      "parent_id": 175865310526482
+                    }
+                  ]
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri:",
+                  "id": 175865310526489,
+                  "parent_id": 175865310526481,
+                  "children": [
+                    {
+                      "position_number": "100630920000",
+                      "level": 4,
+                      "item_definition": "Yuvarlak taneli",
+                      "id": 175865310526490,
+                      "parent_id": 175865310526489
+                    },
+                    {
+                      "position_number": "100630940000",
+                      "level": 4,
+                      "item_definition": "Orta taneli",
+                      "id": 175865310526491,
+                      "parent_id": 175865310526489
+                    },
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Uzun taneli:",
+                      "id": 175865310526492,
+                      "parent_id": 175865310526489,
+                      "children": [
+                        {
+                          "position_number": "100630960000",
+                          "level": 5,
+                          "item_definition": "Uzunluk/genişlik oranı 2'den büyük fakat 3'ten küçük olanlar",
+                          "id": 175865310526493,
+                          "parent_id": 175865310526492
+                        },
+                        {
+                          "position_number": "100630980000",
+                          "level": 5,
+                          "item_definition": "Uzunluk/genişlik oranı eşit veya 3'ten büyük olanlar",
+                          "id": 175865310526494,
+                          "parent_id": 175865310526492
+                        }
+                      ]
+                    },
+                    {
+                      "position_number": "100630990000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 175865310526495,
+                      "parent_id": 175865310526489
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "100640000000",
+          "level": 1,
+          "item_definition": "Kırık pirinçler",
+          "id": 175865310526496,
+          "parent_id": 175865310526440
+        }
+      ]
+    },
+    {
+      "position_number": "1007",
+      "level": 0,
+      "item_definition": "Koca darı (Grain Sorghum):",
+      "id": 175865310526497,
+      "parent_id": 10000,
+      "children": [
+        {
+          "position_number": "100710",
+          "level": 1,
+          "item_definition": "Tohumluk:",
+          "id": 175865310526498,
+          "parent_id": 175865310526497,
+          "children": [
+            {
+              "position_number": "100710100000",
+              "level": 2,
+              "item_definition": "Melezler",
+              "id": 175865310526499,
+              "parent_id": 175865310526498
+            },
+            {
+              "position_number": "100710900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 1758653105264100,
+              "parent_id": 175865310526498
+            }
+          ]
+        },
+        {
+          "position_number": "100790000000",
+          "level": 1,
+          "item_definition": "Diğerleri",
+          "id": 1758653105264101,
+          "parent_id": 175865310526497
+        }
+      ]
+    },
+    {
+      "position_number": "1008",
+      "level": 0,
+      "item_definition": "Kara buğday, darı (cin ve kum darı), kuş yemi; diğer hububat",
+      "id": 1758653105264102,
+      "parent_id": 10000,
+      "children": [
+        {
+          "position_number": "100810000000",
+          "level": 1,
+          "item_definition": "Kara buğday",
+          "id": 1758653105264103,
+          "parent_id": 1758653105264102
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Darı (cin ve kum darı)",
+          "id": 1758653105264104,
+          "parent_id": 1758653105264102,
+          "children": [
+            {
+              "position_number": "100821",
+              "level": 2,
+              "item_definition": "Tohumluk:",
+              "id": 1758653105264105,
+              "parent_id": 1758653105264104,
+              "children": [
+                {
+                  "position_number": "100821000011",
+                  "level": 3,
+                  "item_definition": "Darı",
+                  "id": 1758653105264106,
+                  "parent_id": 1758653105264105
+                },
+                {
+                  "position_number": "100821000012",
+                  "level": 3,
+                  "item_definition": "Akdarı",
+                  "id": 1758653105264107,
+                  "parent_id": 1758653105264105
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 1758653105264108,
+              "parent_id": 1758653105264104,
+              "children": [
+                {
+                  "position_number": "100829000011",
+                  "level": 3,
+                  "item_definition": "Darı",
+                  "id": 1758653105264109,
+                  "parent_id": 1758653105264108
+                },
+                {
+                  "position_number": "100829000012",
+                  "level": 3,
+                  "item_definition": "Akdarı",
+                  "id": 1758653105264110,
+                  "parent_id": 1758653105264108
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "100830000000",
+          "level": 1,
+          "item_definition": "Kuş yemi",
+          "id": 1758653105264111,
+          "parent_id": 1758653105264102
+        },
+        {
+          "position_number": "100840000000",
+          "level": 1,
+          "item_definition": "Çatal Otu (Fonio) (Digitaria spp.)",
+          "id": 1758653105264112,
+          "parent_id": 1758653105264102
+        },
+        {
+          "position_number": "100850000000",
+          "level": 1,
+          "item_definition": "Kinoa (Chenopodium quinoa)",
+          "id": 1758653105264113,
+          "parent_id": 1758653105264102
+        },
+        {
+          "position_number": "100860",
+          "level": 1,
+          "item_definition": "Buğday ve çavdar melezi:",
+          "id": 1758653105264114,
+          "parent_id": 1758653105264102,
+          "children": [
+            {
+              "position_number": "100860000011",
+              "level": 2,
+              "item_definition": "Tohumluk",
+              "id": 1758653105264115,
+              "parent_id": 1758653105264114
+            },
+            {
+              "position_number": "100860000019",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 1758653105264116,
+              "parent_id": 1758653105264114
+            }
+          ]
+        },
+        {
+          "position_number": "100890000000",
+          "level": 1,
+          "item_definition": "Diğer hububat",
+          "id": 1758653105264117,
+          "parent_id": 1758653105264102
+        }
+      ]
+    }
+  ]
+}

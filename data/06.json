@@ -1,0 +1,761 @@
+{
+  "position_number": "06",
+  "item_definition": "Canlı Ağaçlar Ve Diğer Bitkiler; Yumrular, Kökler Ve Benzerleri; Kesme Çiçekler Ve Süs Yaprakları",
+  "id": 6000,
+  "parent_id": 41,
+  "children": [
+    {
+      "position_number": "0601",
+      "level": 0,
+      "item_definition": "Çiçek soğanları, yumrular, yumrulu kökler, küçük soğanlar, sürgün başları ve rizomlar (dinlenme halinde sürgün  vermiş veya çiçeklenmiş); hindiba bitkisi ve kökleri (12.12 pozisyonundaki kökler hariç):",
+      "id": 17586107115491,
+      "parent_id": 6000,
+      "children": [
+        {
+          "position_number": "060110",
+          "level": 1,
+          "item_definition": "Çicek soğanları, yumrular, yumrulu kökler, küçük soğanlar, sürgün başları ve rizomlar (dinlenme halinde):",
+          "id": 17586107115502,
+          "parent_id": 17586107115491,
+          "children": [
+            {
+              "position_number": "060110100000",
+              "level": 2,
+              "item_definition": "Sümbül soğanları",
+              "id": 17586107115503,
+              "parent_id": 17586107115502
+            },
+            {
+              "position_number": "060110200000",
+              "level": 2,
+              "item_definition": "Nergis soğanları",
+              "id": 17586107115504,
+              "parent_id": 17586107115502
+            },
+            {
+              "position_number": "060110300000",
+              "level": 2,
+              "item_definition": "Lale soğanları",
+              "id": 17586107115505,
+              "parent_id": 17586107115502
+            },
+            {
+              "position_number": "060110400000",
+              "level": 2,
+              "item_definition": "Glayöl soğanları",
+              "id": 17586107115506,
+              "parent_id": 17586107115502
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri :",
+              "id": 17586107115507,
+              "parent_id": 17586107115502,
+              "children": [
+                {
+                  "position_number": "060110901000",
+                  "level": 3,
+                  "item_definition": "Diğer çiçek soğanları",
+                  "id": 17586107115508,
+                  "parent_id": 17586107115507
+                },
+                {
+                  "position_number": "060110909000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 17586107115509,
+                  "parent_id": 17586107115507
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "060120",
+          "level": 1,
+          "item_definition": "Çiçek soğanları, yumrular, yumrulu kökler küçük soğanlar,sürgün başları ve rizomlar (sürgün  vermiş veya çiçeklenmiş);hindiba bitkisi ve kökleri:",
+          "id": 175861071155010,
+          "parent_id": 17586107115491,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Hindiba bitkisi ve kökleri",
+              "id": 175861071155011,
+              "parent_id": 175861071155010,
+              "children": [
+                {
+                  "position_number": "060120100011",
+                  "level": 3,
+                  "item_definition": "Hindiba bitkisi",
+                  "id": 175861071155012,
+                  "parent_id": 175861071155011
+                },
+                {
+                  "position_number": "060120100012",
+                  "level": 3,
+                  "item_definition": "Hindiba  kökleri",
+                  "id": 175861071155013,
+                  "parent_id": 175861071155011
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Orkide, sümbül,nergis ve lale soğanları",
+              "id": 175861071155014,
+              "parent_id": 175861071155010,
+              "children": [
+                {
+                  "position_number": "060120300011",
+                  "level": 3,
+                  "item_definition": "Orkide soğanları",
+                  "id": 175861071155015,
+                  "parent_id": 175861071155014
+                },
+                {
+                  "position_number": "060120300012",
+                  "level": 3,
+                  "item_definition": "Sümbül soğanları",
+                  "id": 175861071155016,
+                  "parent_id": 175861071155014
+                },
+                {
+                  "position_number": "060120300013",
+                  "level": 3,
+                  "item_definition": "Nergis soğanları",
+                  "id": 175861071155017,
+                  "parent_id": 175861071155014
+                },
+                {
+                  "position_number": "060120300014",
+                  "level": 3,
+                  "item_definition": "Lale soğanları",
+                  "id": 175861071155018,
+                  "parent_id": 175861071155014
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri :",
+              "id": 175861071155019,
+              "parent_id": 175861071155010,
+              "children": [
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğer çiçek soğanları",
+                  "id": 175861071155020,
+                  "parent_id": 175861071155019,
+                  "children": [
+                    {
+                      "position_number": "060120901011",
+                      "level": 4,
+                      "item_definition": "Glayöller",
+                      "id": 175861071155021,
+                      "parent_id": 175861071155020
+                    },
+                    {
+                      "position_number": "060120901019",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 175861071155022,
+                      "parent_id": 175861071155020
+                    }
+                  ]
+                },
+                {
+                  "position_number": "060120909000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175861071155023,
+                  "parent_id": 175861071155019
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0602",
+      "level": 0,
+      "item_definition": "Diğer canlı bitkiler (kökleri dahil), çelikler, daldırmalar; mantar miselleri:",
+      "id": 175861071155024,
+      "parent_id": 6000,
+      "children": [
+        {
+          "position_number": "060210",
+          "level": 1,
+          "item_definition": "Köklendirilmemiş çelik ve daldırmalar:",
+          "id": 175861071155025,
+          "parent_id": 175861071155024,
+          "children": [
+            {
+              "position_number": "060210100000",
+              "level": 2,
+              "item_definition": "Asma çelikleri, daldırmalar",
+              "id": 175861071155026,
+              "parent_id": 175861071155025
+            },
+            {
+              "position_number": "060210900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175861071155027,
+              "parent_id": 175861071155025
+            }
+          ]
+        },
+        {
+          "position_number": "060220",
+          "level": 1,
+          "item_definition": "Meyveleri veya sert kabuklu meyveleri yenilen ağaçlar, çalılar (aşılı veya aşısız) :",
+          "id": 175861071155028,
+          "parent_id": 175861071155024,
+          "children": [
+            {
+              "position_number": "060220100000",
+              "level": 2,
+              "item_definition": "Asma (aşılı veya köklendirilmiş)",
+              "id": 175861071155029,
+              "parent_id": 175861071155028
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 175861071155030,
+              "parent_id": 175861071155028,
+              "children": [
+                {
+                  "position_number": "060220200000",
+                  "level": 3,
+                  "item_definition": "Çıplak kökleriyle birlikte olanlar",
+                  "id": 175861071155031,
+                  "parent_id": 175861071155030
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri:",
+                  "id": 175861071155032,
+                  "parent_id": 175861071155030,
+                  "children": [
+                    {
+                      "position_number": "060220300000",
+                      "level": 4,
+                      "item_definition": "Narenciye",
+                      "id": 175861071155033,
+                      "parent_id": 175861071155032
+                    },
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Diğerleri:",
+                      "id": 175861071155034,
+                      "parent_id": 175861071155032,
+                      "children": [
+                        {
+                          "position_number": "060220800011",
+                          "level": 5,
+                          "item_definition": "Kestane",
+                          "id": 175861071155035,
+                          "parent_id": 175861071155034
+                        },
+                        {
+                          "position_number": "060220800012",
+                          "level": 5,
+                          "item_definition": "Fıstık çamı",
+                          "id": 175861071155036,
+                          "parent_id": 175861071155034
+                        },
+                        {
+                          "position_number": "060220800019",
+                          "level": 5,
+                          "item_definition": "Diğerleri",
+                          "id": 175861071155037,
+                          "parent_id": 175861071155034
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "060230000000",
+          "level": 1,
+          "item_definition": "Rododendronlar ve açelyalar (aşılı veya aşısız)",
+          "id": 175861071155038,
+          "parent_id": 175861071155024
+        },
+        {
+          "position_number": "060240000000",
+          "level": 1,
+          "item_definition": "Güller (aşılı veya aşısız)",
+          "id": 175861071155039,
+          "parent_id": 175861071155024
+        },
+        {
+          "position_number": "060290",
+          "level": 1,
+          "item_definition": "Diğerleri:",
+          "id": 175861071155040,
+          "parent_id": 175861071155024,
+          "children": [
+            {
+              "position_number": "060290100000",
+              "level": 2,
+              "item_definition": "Mantar miselleri",
+              "id": 175861071155041,
+              "parent_id": 175861071155040
+            },
+            {
+              "position_number": "060290200000",
+              "level": 2,
+              "item_definition": "Ananas fidanı",
+              "id": 175861071155042,
+              "parent_id": 175861071155040
+            },
+            {
+              "position_number": "060290300000",
+              "level": 2,
+              "item_definition": "Sebze ve çilek fideleri",
+              "id": 175861071155043,
+              "parent_id": 175861071155040
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 175861071155044,
+              "parent_id": 175861071155040,
+              "children": [
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Açık hava bitkileri:",
+                  "id": 175861071155045,
+                  "parent_id": 175861071155044,
+                  "children": [
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Ağaç ve çalılar:",
+                      "id": 175861071155046,
+                      "parent_id": 175861071155045,
+                      "children": [
+                        {
+                          "position_number": null,
+                          "level": 5,
+                          "item_definition": "Orman ağaçları",
+                          "id": 175861071155047,
+                          "parent_id": 175861071155046,
+                          "children": [
+                            {
+                              "position_number": null,
+                              "level": 6,
+                              "item_definition": "Köklendirilmiş çelikler ve fidanlar",
+                              "id": 175861071155048,
+                              "parent_id": 175861071155047,
+                              "children": [
+                                {
+                                  "position_number": "060290410011",
+                                  "level": 7,
+                                  "item_definition": "Çelikler",
+                                  "id": 175861071155049,
+                                  "parent_id": 175861071155048
+                                },
+                                {
+                                  "position_number": "060290410012",
+                                  "level": 7,
+                                  "item_definition": "Fidanlar",
+                                  "id": 175861071155050,
+                                  "parent_id": 175861071155048
+                                }
+                              ]
+                            },
+                            {
+                              "position_number": "060290410029",
+                              "level": 6,
+                              "item_definition": "Diğerleri",
+                              "id": 175861071155051,
+                              "parent_id": 175861071155047
+                            }
+                          ]
+                        },
+                        {
+                          "position_number": null,
+                          "level": 5,
+                          "item_definition": "Diğerleri:",
+                          "id": 175861071155052,
+                          "parent_id": 175861071155046,
+                          "children": [
+                            {
+                              "position_number": null,
+                              "level": 6,
+                              "item_definition": "Köklendirilmiş çelikler ve fidanlar",
+                              "id": 175861071155053,
+                              "parent_id": 175861071155052,
+                              "children": [
+                                {
+                                  "position_number": "060290450011",
+                                  "level": 7,
+                                  "item_definition": "Çelikler",
+                                  "id": 175861071155054,
+                                  "parent_id": 175861071155053
+                                },
+                                {
+                                  "position_number": "060290450012",
+                                  "level": 7,
+                                  "item_definition": "Fidanlar",
+                                  "id": 175861071155055,
+                                  "parent_id": 175861071155053
+                                }
+                              ]
+                            },
+                            {
+                              "position_number": null,
+                              "level": 6,
+                              "item_definition": "Diğerleri:",
+                              "id": 175861071155056,
+                              "parent_id": 175861071155052,
+                              "children": [
+                                {
+                                  "position_number": "060290460000",
+                                  "level": 7,
+                                  "item_definition": "Çıplak kökleriyle birlikte olanlar",
+                                  "id": 175861071155057,
+                                  "parent_id": 175861071155056
+                                },
+                                {
+                                  "position_number": null,
+                                  "level": 7,
+                                  "item_definition": "Diğerleri:",
+                                  "id": 175861071155058,
+                                  "parent_id": 175861071155056,
+                                  "children": [
+                                    {
+                                      "position_number": "060290470000",
+                                      "level": 8,
+                                      "item_definition": "Kozalaklı ve yaprak dökmeyen ağaçlar",
+                                      "id": 175861071155059,
+                                      "parent_id": 175861071155058
+                                    },
+                                    {
+                                      "position_number": "060290480000",
+                                      "level": 8,
+                                      "item_definition": "Diğerleri",
+                                      "id": 175861071155060,
+                                      "parent_id": 175861071155058
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "position_number": "060290500000",
+                      "level": 4,
+                      "item_definition": "Diğer açık hava bitkileri",
+                      "id": 175861071155061,
+                      "parent_id": 175861071155045
+                    }
+                  ]
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Oda bitkileri:",
+                  "id": 175861071155062,
+                  "parent_id": 175861071155044,
+                  "children": [
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Köklendirilmiş çelikler ve fidanlar (kaktüsler hariç)",
+                      "id": 175861071155063,
+                      "parent_id": 175861071155062,
+                      "children": [
+                        {
+                          "position_number": "060290700011",
+                          "level": 5,
+                          "item_definition": "Çelikler",
+                          "id": 175861071155064,
+                          "parent_id": 175861071155063
+                        },
+                        {
+                          "position_number": "060290700012",
+                          "level": 5,
+                          "item_definition": "Fidanlar",
+                          "id": 175861071155065,
+                          "parent_id": 175861071155063
+                        }
+                      ]
+                    },
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Diğerleri:",
+                      "id": 175861071155066,
+                      "parent_id": 175861071155062,
+                      "children": [
+                        {
+                          "position_number": "060290910000",
+                          "level": 5,
+                          "item_definition": "Tomurcuklu veya çiçek açmış çiçekler (kaktüsler hariç)",
+                          "id": 175861071155067,
+                          "parent_id": 175861071155066
+                        },
+                        {
+                          "position_number": "060290990000",
+                          "level": 5,
+                          "item_definition": "Diğerleri",
+                          "id": 175861071155068,
+                          "parent_id": 175861071155066
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0603",
+      "level": 0,
+      "item_definition": "Buket yapmaya elverişli veya süs amacına uygun cinsten kesme çiçekler ve çiçek tomurcukları (taze, kurutulmuş, boyanmış, ağartılmış, emprenye edilmiş veya başka şekilde hazırlanmış):",
+      "id": 175861071155069,
+      "parent_id": 6000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Taze:",
+          "id": 175861071155070,
+          "parent_id": 175861071155069,
+          "children": [
+            {
+              "position_number": "060311000000",
+              "level": 2,
+              "item_definition": "Güller",
+              "id": 175861071155071,
+              "parent_id": 175861071155070
+            },
+            {
+              "position_number": "060312000000",
+              "level": 2,
+              "item_definition": "Karanfiller",
+              "id": 175861071155072,
+              "parent_id": 175861071155070
+            },
+            {
+              "position_number": "060313000000",
+              "level": 2,
+              "item_definition": "Orkideler",
+              "id": 175861071155073,
+              "parent_id": 175861071155070
+            },
+            {
+              "position_number": "060314000000",
+              "level": 2,
+              "item_definition": "Krizantemler",
+              "id": 175861071155074,
+              "parent_id": 175861071155070
+            },
+            {
+              "position_number": "060315000000",
+              "level": 2,
+              "item_definition": "Zambaklar (Lilium spp.)",
+              "id": 175861071155075,
+              "parent_id": 175861071155070
+            },
+            {
+              "position_number": "060319",
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 175861071155076,
+              "parent_id": 175861071155070,
+              "children": [
+                {
+                  "position_number": "060319100000",
+                  "level": 3,
+                  "item_definition": "Glayöller",
+                  "id": 175861071155077,
+                  "parent_id": 175861071155076
+                },
+                {
+                  "position_number": "060319200000",
+                  "level": 3,
+                  "item_definition": "Düğün çiçeği",
+                  "id": 175861071155078,
+                  "parent_id": 175861071155076
+                },
+                {
+                  "position_number": "060319700000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175861071155079,
+                  "parent_id": 175861071155076
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "060390000000",
+          "level": 1,
+          "item_definition": "Diğerleri",
+          "id": 175861071155080,
+          "parent_id": 175861071155069
+        }
+      ]
+    },
+    {
+      "position_number": "0604",
+      "level": 0,
+      "item_definition": "Buket yapmaya elverişli veya süs amacına uygun cinsten bitki yaprakları, bitki dalları ve bitkilerin diğer kısımları (çiçeksiz veya tomurcuksuz) ve otlar, yosunlar ve likenler (taze, kurutulmuş, boyanmış, ağartılmış, emprenye edilmiş veya başka şekilde hazırlanmış):",
+      "id": 175861071155081,
+      "parent_id": 6000,
+      "children": [
+        {
+          "position_number": "060420",
+          "level": 1,
+          "item_definition": "Taze:",
+          "id": 175861071155082,
+          "parent_id": 175861071155081,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Yosunlar ve likenler:",
+              "id": 175861071155083,
+              "parent_id": 175861071155082,
+              "children": [
+                {
+                  "position_number": "060420110000",
+                  "level": 3,
+                  "item_definition": "Ren geyiği likeni",
+                  "id": 175861071155084,
+                  "parent_id": 175861071155083
+                },
+                {
+                  "position_number": "060420190000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175861071155085,
+                  "parent_id": 175861071155083
+                }
+              ]
+            },
+            {
+              "position_number": "060420200000",
+              "level": 2,
+              "item_definition": "Noel ağaçları",
+              "id": 175861071155086,
+              "parent_id": 175861071155082
+            },
+            {
+              "position_number": "060420400000",
+              "level": 2,
+              "item_definition": "İğne yapraklı ağaçların dalları",
+              "id": 175861071155087,
+              "parent_id": 175861071155082
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 175861071155088,
+              "parent_id": 175861071155082,
+              "children": [
+                {
+                  "position_number": "060420900011",
+                  "level": 3,
+                  "item_definition": "Şimşir dalı",
+                  "id": 175861071155089,
+                  "parent_id": 175861071155088
+                },
+                {
+                  "position_number": "060420900019",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175861071155090,
+                  "parent_id": 175861071155088
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "060490",
+          "level": 1,
+          "item_definition": "Diğerleri:",
+          "id": 175861071155091,
+          "parent_id": 175861071155081,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Yosunlar ve likenler:",
+              "id": 175861071155092,
+              "parent_id": 175861071155091,
+              "children": [
+                {
+                  "position_number": "060490110000",
+                  "level": 3,
+                  "item_definition": "Ren geyiği likeni",
+                  "id": 175861071155093,
+                  "parent_id": 175861071155092
+                },
+                {
+                  "position_number": "060490190000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175861071155094,
+                  "parent_id": 175861071155092
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 175861071155095,
+              "parent_id": 175861071155091,
+              "children": [
+                {
+                  "position_number": "060490910000",
+                  "level": 3,
+                  "item_definition": "Sadece kurutulmuş",
+                  "id": 175861071155096,
+                  "parent_id": 175861071155095
+                },
+                {
+                  "position_number": "060490990000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175861071155097,
+                  "parent_id": 175861071155095
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

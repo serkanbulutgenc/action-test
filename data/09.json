@@ -1,0 +1,752 @@
+{
+  "position_number": "09",
+  "item_definition": "Kahve, Çay, Paraguay Çayı Ve Baharat",
+  "id": 9000,
+  "parent_id": 41,
+  "children": [
+    {
+      "position_number": "0901",
+      "level": 0,
+      "item_definition": "Kahve (kavrulmuş veya kafeini alınmış olsun olmasın); kahve kabuk ve kapçıkları ; içinde herhangi  bir oranda kahve bulunan kahve yerine kullanılan maddeler:",
+      "id": 17586528325461,
+      "parent_id": 9000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Kahve (kavrulmamış):",
+          "id": 17586528325462,
+          "parent_id": 17586528325461,
+          "children": [
+            {
+              "position_number": "090111000000",
+              "level": 2,
+              "item_definition": "Kafeini alınmamış",
+              "id": 17586528325463,
+              "parent_id": 17586528325462
+            },
+            {
+              "position_number": "090112000000",
+              "level": 2,
+              "item_definition": "Kafeini alınmış",
+              "id": 17586528325464,
+              "parent_id": 17586528325462
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Kahve (kavrulmuş):",
+          "id": 17586528325465,
+          "parent_id": 17586528325461,
+          "children": [
+            {
+              "position_number": "090121000000",
+              "level": 2,
+              "item_definition": "Kafeini alınmamış",
+              "id": 17586528325466,
+              "parent_id": 17586528325465
+            },
+            {
+              "position_number": "090122000000",
+              "level": 2,
+              "item_definition": "Kafeini alınmış",
+              "id": 17586528325467,
+              "parent_id": 17586528325465
+            }
+          ]
+        },
+        {
+          "position_number": "090190",
+          "level": 1,
+          "item_definition": "Diğerleri :",
+          "id": 17586528325468,
+          "parent_id": 17586528325461,
+          "children": [
+            {
+              "position_number": "090190100000",
+              "level": 2,
+              "item_definition": "Kahve kabuk ve kapçıkları",
+              "id": 17586528325469,
+              "parent_id": 17586528325468
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Kahve içeren ve kahve yerine kullanılan maddeler:",
+              "id": 175865283254610,
+              "parent_id": 17586528325468,
+              "children": [
+                {
+                  "position_number": "090190901000",
+                  "level": 3,
+                  "item_definition": "Kavrulmamış",
+                  "id": 175865283254611,
+                  "parent_id": 175865283254610
+                },
+                {
+                  "position_number": "090190909000",
+                  "level": 3,
+                  "item_definition": "Kavrulmuş",
+                  "id": 175865283254612,
+                  "parent_id": 175865283254610
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0902",
+      "level": 0,
+      "item_definition": "Çay (aromalandırılmış olsun olmasın) :",
+      "id": 175865283254613,
+      "parent_id": 9000,
+      "children": [
+        {
+          "position_number": "090210000000",
+          "level": 1,
+          "item_definition": "Yeşil çay (fermente edilmemiş) (3 kg.ı geçmeyen hazır ambalajlarda)",
+          "id": 175865283254614,
+          "parent_id": 175865283254613
+        },
+        {
+          "position_number": "090220000000",
+          "level": 1,
+          "item_definition": "Diğer yeşil çaylar (fermente edilmemiş)",
+          "id": 175865283254615,
+          "parent_id": 175865283254613
+        },
+        {
+          "position_number": "090230000000",
+          "level": 1,
+          "item_definition": "Siyah çay (fermente edilmiş) ve kısmen fermente edilmiş çay (3 kg.ı geçmeyen hazır ambalajlarda)",
+          "id": 175865283254616,
+          "parent_id": 175865283254613
+        },
+        {
+          "position_number": "090240000000",
+          "level": 1,
+          "item_definition": "Diğer siyah çaylar (fermente edilmiş) ve kısmen fermente edilmiş diğer çaylar",
+          "id": 175865283254617,
+          "parent_id": 175865283254613
+        }
+      ]
+    },
+    {
+      "position_number": "090300000000",
+      "level": 0,
+      "item_definition": "Paraguay çayı (maté)",
+      "id": 175865283254618,
+      "parent_id": 9000
+    },
+    {
+      "position_number": "0904",
+      "level": 0,
+      "item_definition": "Piper cinsi biber; Capsicum ve Pimenta cinsi biberler (kurutulmuş veya ezilmiş veya öğütülmüş) :",
+      "id": 175865283254619,
+      "parent_id": 9000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Karabiber:",
+          "id": 175865283254620,
+          "parent_id": 175865283254619,
+          "children": [
+            {
+              "position_number": "090411000000",
+              "level": 2,
+              "item_definition": "Ezilmemiş, öğütülmemiş",
+              "id": 175865283254721,
+              "parent_id": 175865283254620
+            },
+            {
+              "position_number": "090412000000",
+              "level": 2,
+              "item_definition": "Ezilmiş veya öğütülmüş",
+              "id": 175865283254722,
+              "parent_id": 175865283254620
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Capsicum ve Pimenta cinsi biberler:",
+          "id": 175865283254723,
+          "parent_id": 175865283254619,
+          "children": [
+            {
+              "position_number": "090421",
+              "level": 2,
+              "item_definition": "Kurutulmuş, ezilmemiş, öğütülmemiş",
+              "id": 175865283254724,
+              "parent_id": 175865283254723,
+              "children": [
+                {
+                  "position_number": "090421100000",
+                  "level": 3,
+                  "item_definition": "TatIı biberler",
+                  "id": 175865283254725,
+                  "parent_id": 175865283254724
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri:",
+                  "id": 175865283254726,
+                  "parent_id": 175865283254724,
+                  "children": [
+                    {
+                      "position_number": "090421900011",
+                      "level": 4,
+                      "item_definition": "Kırmızı biber",
+                      "id": 175865283254727,
+                      "parent_id": 175865283254726
+                    },
+                    {
+                      "position_number": "090421900012",
+                      "level": 4,
+                      "item_definition": "Yenibahar",
+                      "id": 175865283254728,
+                      "parent_id": 175865283254726
+                    },
+                    {
+                      "position_number": "090421900018",
+                      "level": 4,
+                      "item_definition": "Diğer biberler",
+                      "id": 175865283254729,
+                      "parent_id": 175865283254726
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "position_number": "090422",
+              "level": 2,
+              "item_definition": "Ezilmiş veya öğütülmüş:",
+              "id": 175865283254730,
+              "parent_id": 175865283254723,
+              "children": [
+                {
+                  "position_number": "090422000011",
+                  "level": 3,
+                  "item_definition": "Kırmızı biber",
+                  "id": 175865283254731,
+                  "parent_id": 175865283254730
+                },
+                {
+                  "position_number": "090422000012",
+                  "level": 3,
+                  "item_definition": "Yenibahar",
+                  "id": 175865283254732,
+                  "parent_id": 175865283254730
+                },
+                {
+                  "position_number": "090422000018",
+                  "level": 3,
+                  "item_definition": "Diğer biberler",
+                  "id": 175865283254733,
+                  "parent_id": 175865283254730
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0905",
+      "level": 0,
+      "item_definition": "Vanilya:",
+      "id": 175865283254734,
+      "parent_id": 9000,
+      "children": [
+        {
+          "position_number": "090510000000",
+          "level": 1,
+          "item_definition": "Ezilmemiş ve öğütülmemiş",
+          "id": 175865283254735,
+          "parent_id": 175865283254734
+        },
+        {
+          "position_number": "090520000000",
+          "level": 1,
+          "item_definition": "Ezilmiş veya öğütülmüş",
+          "id": 175865283254736,
+          "parent_id": 175865283254734
+        }
+      ]
+    },
+    {
+      "position_number": "0906",
+      "level": 0,
+      "item_definition": "Tarçın ve tarçın ağacının çiçekleri:",
+      "id": 175865283254737,
+      "parent_id": 9000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Ezilmemiş, öğütülmemiş",
+          "id": 175865283254738,
+          "parent_id": 175865283254737,
+          "children": [
+            {
+              "position_number": "090611000000",
+              "level": 2,
+              "item_definition": "Tarçın (Cinnamomum zeylanicum Blume)",
+              "id": 175865283254739,
+              "parent_id": 175865283254738
+            },
+            {
+              "position_number": "090619000000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865283254740,
+              "parent_id": 175865283254738
+            }
+          ]
+        },
+        {
+          "position_number": "090620000000",
+          "level": 1,
+          "item_definition": "Ezilmiş veya öğütülmüş",
+          "id": 175865283254741,
+          "parent_id": 175865283254737
+        }
+      ]
+    },
+    {
+      "position_number": "0907",
+      "level": 0,
+      "item_definition": "Karanfil (bütün halindeki meyve, tane ve sapları):",
+      "id": 175865283254742,
+      "parent_id": 9000,
+      "children": [
+        {
+          "position_number": "090710000000",
+          "level": 1,
+          "item_definition": "Ezilmemiş, öğütülmemiş",
+          "id": 175865283254743,
+          "parent_id": 175865283254742
+        },
+        {
+          "position_number": "090720000000",
+          "level": 1,
+          "item_definition": "Ezilmiş veya öğütülmüş",
+          "id": 175865283254744,
+          "parent_id": 175865283254742
+        }
+      ]
+    },
+    {
+      "position_number": "0908",
+      "level": 0,
+      "item_definition": "Küçük Hindistan cevizi, küçük Hindistan cevizi kabuğu ve kakule :",
+      "id": 175865283254745,
+      "parent_id": 9000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Küçük Hindistan cevizi:",
+          "id": 175865283254746,
+          "parent_id": 175865283254745,
+          "children": [
+            {
+              "position_number": "090811000000",
+              "level": 2,
+              "item_definition": "Ezilmemiş ve öğütülmemiş",
+              "id": 175865283254747,
+              "parent_id": 175865283254746
+            },
+            {
+              "position_number": "090812000000",
+              "level": 2,
+              "item_definition": "Ezilmiş veya öğütülmüş",
+              "id": 175865283254748,
+              "parent_id": 175865283254746
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Küçük Hindistan cevizi kabuğu",
+          "id": 175865283254749,
+          "parent_id": 175865283254745,
+          "children": [
+            {
+              "position_number": "090821000000",
+              "level": 2,
+              "item_definition": "Ezilmemiş ve öğütülmemiş",
+              "id": 175865283254750,
+              "parent_id": 175865283254749
+            },
+            {
+              "position_number": "090822000000",
+              "level": 2,
+              "item_definition": "Ezilmiş veya öğütülmüş",
+              "id": 175865283254751,
+              "parent_id": 175865283254749
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Kakule",
+          "id": 175865283254752,
+          "parent_id": 175865283254745,
+          "children": [
+            {
+              "position_number": "090831000000",
+              "level": 2,
+              "item_definition": "Ezilmemiş ve öğütülmemiş",
+              "id": 175865283254753,
+              "parent_id": 175865283254752
+            },
+            {
+              "position_number": "090832000000",
+              "level": 2,
+              "item_definition": "Ezilmiş veya öğütülmüş",
+              "id": 175865283254754,
+              "parent_id": 175865283254752
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0909",
+      "level": 0,
+      "item_definition": "Anason, Çin anasonu, rezene, kişniş, kimyon veya Karaman kimyonu tohumları; ardıç meyveleri:",
+      "id": 175865283254755,
+      "parent_id": 9000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Kişniş tohumları:",
+          "id": 175865283254756,
+          "parent_id": 175865283254755,
+          "children": [
+            {
+              "position_number": "090921000000",
+              "level": 2,
+              "item_definition": "Ezilmemiş ve öğütülmemiş",
+              "id": 175865283254757,
+              "parent_id": 175865283254756
+            },
+            {
+              "position_number": "090922000000",
+              "level": 2,
+              "item_definition": "Ezilmiş veya öğütülmüş",
+              "id": 175865283254758,
+              "parent_id": 175865283254756
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Kimyon tohumları:",
+          "id": 175865283254759,
+          "parent_id": 175865283254755,
+          "children": [
+            {
+              "position_number": "090931000000",
+              "level": 2,
+              "item_definition": "Ezilmemiş ve öğütülmemiş",
+              "id": 175865283254760,
+              "parent_id": 175865283254759
+            },
+            {
+              "position_number": "090932000000",
+              "level": 2,
+              "item_definition": "Ezilmiş veya öğütülmüş",
+              "id": 175865283254761,
+              "parent_id": 175865283254759
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Anason ve Çin anasonu tohumları, Karaman kimyonu tohumları, Rezene tohumları; ardıç meyveleri",
+          "id": 175865283254762,
+          "parent_id": 175865283254755,
+          "children": [
+            {
+              "position_number": "090961000000",
+              "level": 2,
+              "item_definition": "Ezilmemiş ve öğütülmemiş",
+              "id": 175865283254763,
+              "parent_id": 175865283254762
+            },
+            {
+              "position_number": "090962000000",
+              "level": 2,
+              "item_definition": "Ezilmiş veya öğütülmüş",
+              "id": 175865283254764,
+              "parent_id": 175865283254762
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "0910",
+      "level": 0,
+      "item_definition": "Zencefil, safran, zerdeçal (curcuma), kekik, defne yaprakları, köri ve diğer baharat:",
+      "id": 175865283254765,
+      "parent_id": 9000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Zencefil:",
+          "id": 175865283254766,
+          "parent_id": 175865283254765,
+          "children": [
+            {
+              "position_number": "091011000000",
+              "level": 2,
+              "item_definition": "Ezilmemiş ve öğütülmemiş",
+              "id": 175865283254767,
+              "parent_id": 175865283254766
+            },
+            {
+              "position_number": "091012000000",
+              "level": 2,
+              "item_definition": "Ezilmiş veya öğütülmüş",
+              "id": 175865283254768,
+              "parent_id": 175865283254766
+            }
+          ]
+        },
+        {
+          "position_number": "091020",
+          "level": 1,
+          "item_definition": "Safran:",
+          "id": 175865283254769,
+          "parent_id": 175865283254765,
+          "children": [
+            {
+              "position_number": "091020100000",
+              "level": 2,
+              "item_definition": "Ezilmemiş ve öğütülmemiş",
+              "id": 175865283254770,
+              "parent_id": 175865283254769
+            },
+            {
+              "position_number": "091020900000",
+              "level": 2,
+              "item_definition": "Ezilmiş veya öğütülmüş",
+              "id": 175865283254771,
+              "parent_id": 175865283254769
+            }
+          ]
+        },
+        {
+          "position_number": "091030000000",
+          "level": 1,
+          "item_definition": "Zerdeçal (curcuma)",
+          "id": 175865283254772,
+          "parent_id": 175865283254765
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Diğer baharat:",
+          "id": 175865283254773,
+          "parent_id": 175865283254765,
+          "children": [
+            {
+              "position_number": "091091",
+              "level": 2,
+              "item_definition": "Bu fasılın 1 (b) notunda belirtilen karışımlar:",
+              "id": 175865283254774,
+              "parent_id": 175865283254773,
+              "children": [
+                {
+                  "position_number": "091091050000",
+                  "level": 3,
+                  "item_definition": "Köri",
+                  "id": 175865283254775,
+                  "parent_id": 175865283254774
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri:",
+                  "id": 175865283254776,
+                  "parent_id": 175865283254774,
+                  "children": [
+                    {
+                      "position_number": "091091100000",
+                      "level": 4,
+                      "item_definition": "Ezilmemiş ve öğütülmemiş",
+                      "id": 175865283254777,
+                      "parent_id": 175865283254776
+                    },
+                    {
+                      "position_number": "091091900000",
+                      "level": 4,
+                      "item_definition": "Ezilmiş veya öğütülmüş",
+                      "id": 175865283254778,
+                      "parent_id": 175865283254776
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "position_number": "091099",
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 175865283254779,
+              "parent_id": 175865283254773,
+              "children": [
+                {
+                  "position_number": "091099100000",
+                  "level": 3,
+                  "item_definition": "Çemen (boy otu tohumları)",
+                  "id": 175865283254780,
+                  "parent_id": 175865283254779
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Kekik:",
+                  "id": 175865283254781,
+                  "parent_id": 175865283254779,
+                  "children": [
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Ezilmemiş ve öğütülmemiş:",
+                      "id": 175865283254782,
+                      "parent_id": 175865283254781,
+                      "children": [
+                        {
+                          "position_number": "091099310000",
+                          "level": 5,
+                          "item_definition": "Yaban kekiği (Thymus serpyllum)",
+                          "id": 175865283254783,
+                          "parent_id": 175865283254782
+                        },
+                        {
+                          "position_number": "091099330000",
+                          "level": 5,
+                          "item_definition": "Diğerleri",
+                          "id": 175865283254784,
+                          "parent_id": 175865283254782
+                        }
+                      ]
+                    },
+                    {
+                      "position_number": "091099390000",
+                      "level": 4,
+                      "item_definition": "Ezilmiş veya öğütülmüş",
+                      "id": 175865283254785,
+                      "parent_id": 175865283254781
+                    }
+                  ]
+                },
+                {
+                  "position_number": "091099500000",
+                  "level": 3,
+                  "item_definition": "Defne yaprakları",
+                  "id": 175865283254786,
+                  "parent_id": 175865283254779
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri:",
+                  "id": 175865283254787,
+                  "parent_id": 175865283254779,
+                  "children": [
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Ezilmemiş ve öğütülmemiş",
+                      "id": 175865283254788,
+                      "parent_id": 175865283254787,
+                      "children": [
+                        {
+                          "position_number": "091099910011",
+                          "level": 5,
+                          "item_definition": "Mahlep",
+                          "id": 175865283254789,
+                          "parent_id": 175865283254788
+                        },
+                        {
+                          "position_number": "091099910013",
+                          "level": 5,
+                          "item_definition": "Sumak",
+                          "id": 175865283254790,
+                          "parent_id": 175865283254788
+                        },
+                        {
+                          "position_number": "091099910014",
+                          "level": 5,
+                          "item_definition": "Çörekotu",
+                          "id": 175865283254791,
+                          "parent_id": 175865283254788
+                        },
+                        {
+                          "position_number": "091099910019",
+                          "level": 5,
+                          "item_definition": "Diğerleri",
+                          "id": 175865283254792,
+                          "parent_id": 175865283254788
+                        }
+                      ]
+                    },
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Ezilmiş  veya öğütülmüş",
+                      "id": 175865283254793,
+                      "parent_id": 175865283254787,
+                      "children": [
+                        {
+                          "position_number": "091099990011",
+                          "level": 5,
+                          "item_definition": "Mahlep",
+                          "id": 175865283254794,
+                          "parent_id": 175865283254793
+                        },
+                        {
+                          "position_number": "091099990013",
+                          "level": 5,
+                          "item_definition": "Sumak",
+                          "id": 175865283254795,
+                          "parent_id": 175865283254793
+                        },
+                        {
+                          "position_number": "091099990019",
+                          "level": 5,
+                          "item_definition": "Diğerleri",
+                          "id": 175865283254796,
+                          "parent_id": 175865283254793
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

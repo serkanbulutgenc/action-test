@@ -1,0 +1,1133 @@
+{
+  "position_number": "11",
+  "item_definition": "Değirmencilik Ürünleri; Malt; Nişasta; İnülin; Buğday Gluteni",
+  "id": 11000,
+  "parent_id": 41,
+  "children": [
+    {
+      "position_number": "110100",
+      "level": 0,
+      "item_definition": "Buğday unu veya mahlut unu :",
+      "id": 17586543841971,
+      "parent_id": 11000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Buğday unu :",
+          "id": 17586543841972,
+          "parent_id": 17586543841971,
+          "children": [
+            {
+              "position_number": "110100110000",
+              "level": 2,
+              "item_definition": "Makarnalık buğday (Durum buğdayı) unu",
+              "id": 17586543841973,
+              "parent_id": 17586543841972
+            },
+            {
+              "position_number": "110100150000",
+              "level": 2,
+              "item_definition": "Adi ve kaplıca (kızıl) buğday unu",
+              "id": 17586543841974,
+              "parent_id": 17586543841972
+            }
+          ]
+        },
+        {
+          "position_number": "110100900000",
+          "level": 1,
+          "item_definition": "Mahlut unu",
+          "id": 17586543841975,
+          "parent_id": 17586543841971
+        }
+      ]
+    },
+    {
+      "position_number": "1102",
+      "level": 0,
+      "item_definition": "Hububat unları (buğday unu veya mahlut unu hariç):",
+      "id": 17586543841976,
+      "parent_id": 11000,
+      "children": [
+        {
+          "position_number": "110220",
+          "level": 1,
+          "item_definition": "Mısır unu:",
+          "id": 17586543841977,
+          "parent_id": 17586543841976,
+          "children": [
+            {
+              "position_number": "110220100000",
+              "level": 2,
+              "item_definition": "Yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+              "id": 17586543841988,
+              "parent_id": 17586543841977
+            },
+            {
+              "position_number": "110220900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 17586543841989,
+              "parent_id": 17586543841977
+            }
+          ]
+        },
+        {
+          "position_number": "110290",
+          "level": 1,
+          "item_definition": "Diğerleri :",
+          "id": 175865438419810,
+          "parent_id": 17586543841976,
+          "children": [
+            {
+              "position_number": "110290100000",
+              "level": 2,
+              "item_definition": "Arpa unu",
+              "id": 175865438419811,
+              "parent_id": 175865438419810
+            },
+            {
+              "position_number": "110290300000",
+              "level": 2,
+              "item_definition": "Yulaf unu",
+              "id": 175865438419812,
+              "parent_id": 175865438419810
+            },
+            {
+              "position_number": "110290500000",
+              "level": 2,
+              "item_definition": "Pirinç unu",
+              "id": 175865438419813,
+              "parent_id": 175865438419810
+            },
+            {
+              "position_number": "110290700000",
+              "level": 2,
+              "item_definition": "Çavdar unu",
+              "id": 175865438419814,
+              "parent_id": 175865438419810
+            },
+            {
+              "position_number": "110290900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865438419815,
+              "parent_id": 175865438419810
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "1103",
+      "level": 0,
+      "item_definition": "Hububatın kabaca öğütülmesinden elde edilen küçük parçalar, hububat kaba unları ve pelletleri:",
+      "id": 175865438419816,
+      "parent_id": 11000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Hububatın kabaca öğütülmesinden elde edilen küçük parçalar ve hububat kaba unları:",
+          "id": 175865438419817,
+          "parent_id": 175865438419816,
+          "children": [
+            {
+              "position_number": "110311",
+              "level": 2,
+              "item_definition": "Buğdaydan:",
+              "id": 175865438419818,
+              "parent_id": 175865438419817,
+              "children": [
+                {
+                  "position_number": "110311100000",
+                  "level": 3,
+                  "item_definition": "Makarnalık buğdaydan (durum buğday)",
+                  "id": 175865438419819,
+                  "parent_id": 175865438419818
+                },
+                {
+                  "position_number": "110311900000",
+                  "level": 3,
+                  "item_definition": "Adi ve kaplıca (kızıl) buğdaydan",
+                  "id": 175865438419820,
+                  "parent_id": 175865438419818
+                }
+              ]
+            },
+            {
+              "position_number": "110313",
+              "level": 2,
+              "item_definition": "Mısırdan:",
+              "id": 175865438419821,
+              "parent_id": 175865438419817,
+              "children": [
+                {
+                  "position_number": "110313100000",
+                  "level": 3,
+                  "item_definition": "Yağ oranı ağırlık itibariyle % 1,5'i geçmeyenler",
+                  "id": 175865438419822,
+                  "parent_id": 175865438419821
+                },
+                {
+                  "position_number": "110313900000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865438419823,
+                  "parent_id": 175865438419821
+                }
+              ]
+            },
+            {
+              "position_number": "110319",
+              "level": 2,
+              "item_definition": "Diğer hububattan:",
+              "id": 175865438419824,
+              "parent_id": 175865438419817,
+              "children": [
+                {
+                  "position_number": "110319200000",
+                  "level": 3,
+                  "item_definition": "Çavdar veya arpadan",
+                  "id": 175865438419825,
+                  "parent_id": 175865438419824
+                },
+                {
+                  "position_number": "110319400000",
+                  "level": 3,
+                  "item_definition": "Yulaftan",
+                  "id": 175865438419826,
+                  "parent_id": 175865438419824
+                },
+                {
+                  "position_number": "110319500000",
+                  "level": 3,
+                  "item_definition": "Pirinçten",
+                  "id": 175865438419827,
+                  "parent_id": 175865438419824
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865438419828,
+                  "parent_id": 175865438419824,
+                  "children": [
+                    {
+                      "position_number": "110319900013",
+                      "level": 4,
+                      "item_definition": "Mahluttan",
+                      "id": 175865438419829,
+                      "parent_id": 175865438419828
+                    },
+                    {
+                      "position_number": "110319900019",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 175865438419830,
+                      "parent_id": 175865438419828
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "110320",
+          "level": 1,
+          "item_definition": "Pelletler:",
+          "id": 175865438419831,
+          "parent_id": 175865438419816,
+          "children": [
+            {
+              "position_number": "110320250000",
+              "level": 2,
+              "item_definition": "Çavdar veya arpadan",
+              "id": 175865438419832,
+              "parent_id": 175865438419831
+            },
+            {
+              "position_number": "110320300000",
+              "level": 2,
+              "item_definition": "Yulaftan",
+              "id": 175865438419833,
+              "parent_id": 175865438419831
+            },
+            {
+              "position_number": "110320400000",
+              "level": 2,
+              "item_definition": "Mısırdan",
+              "id": 175865438419834,
+              "parent_id": 175865438419831
+            },
+            {
+              "position_number": "110320500000",
+              "level": 2,
+              "item_definition": "Pirinçten",
+              "id": 175865438419835,
+              "parent_id": 175865438419831
+            },
+            {
+              "position_number": "110320600000",
+              "level": 2,
+              "item_definition": "Buğdaydan",
+              "id": 175865438419836,
+              "parent_id": 175865438419831
+            },
+            {
+              "position_number": "110320900000",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865438419837,
+              "parent_id": 175865438419831
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "1104",
+      "level": 0,
+      "item_definition": "Diğer şekilde işlenmiş hububat taneleri (örneğin; kabuğu çıkarılmış, yassılaştırılmış, flokon halinde, yuvarlatılmış, dilimlenmiş, iri parçalar halinde ufalanmış) ( 10.06 pozisyonunda yer alan pirinç hariç); hububat embriyonları (bütün halde, yassılastırılmış, flokon halinde veya öğütülmüş):",
+      "id": 175865438419838,
+      "parent_id": 11000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Yassılaştırılmış veya flokon halindeki taneler:",
+          "id": 175865438419839,
+          "parent_id": 175865438419838,
+          "children": [
+            {
+              "position_number": "110412",
+              "level": 2,
+              "item_definition": "Yulaf:",
+              "id": 175865438419840,
+              "parent_id": 175865438419839,
+              "children": [
+                {
+                  "position_number": "110412100000",
+                  "level": 3,
+                  "item_definition": "Yassılaştırılmış taneler",
+                  "id": 175865438419841,
+                  "parent_id": 175865438419840
+                },
+                {
+                  "position_number": "110412900000",
+                  "level": 3,
+                  "item_definition": "Flokon halindeki taneler",
+                  "id": 175865438419842,
+                  "parent_id": 175865438419840
+                }
+              ]
+            },
+            {
+              "position_number": "110419",
+              "level": 2,
+              "item_definition": "Diğer hububat:",
+              "id": 175865438419843,
+              "parent_id": 175865438419839,
+              "children": [
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Buğday",
+                  "id": 175865438419844,
+                  "parent_id": 175865438419843,
+                  "children": [
+                    {
+                      "position_number": "110419100011",
+                      "level": 4,
+                      "item_definition": "Yassılaştırılmış taneler",
+                      "id": 175865438419845,
+                      "parent_id": 175865438419844
+                    },
+                    {
+                      "position_number": "110419100012",
+                      "level": 4,
+                      "item_definition": "Flokon halindeki taneler",
+                      "id": 175865438419846,
+                      "parent_id": 175865438419844
+                    }
+                  ]
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Çavdar",
+                  "id": 175865438419847,
+                  "parent_id": 175865438419843,
+                  "children": [
+                    {
+                      "position_number": "110419300011",
+                      "level": 4,
+                      "item_definition": "Yassılaştırılmış taneler",
+                      "id": 175865438419848,
+                      "parent_id": 175865438419847
+                    },
+                    {
+                      "position_number": "110419300012",
+                      "level": 4,
+                      "item_definition": "Flokon halindeki taneler",
+                      "id": 175865438419849,
+                      "parent_id": 175865438419847
+                    }
+                  ]
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Mısır",
+                  "id": 175865438419850,
+                  "parent_id": 175865438419843,
+                  "children": [
+                    {
+                      "position_number": "110419500011",
+                      "level": 4,
+                      "item_definition": "Yassılaştırılmış taneler",
+                      "id": 175865438419851,
+                      "parent_id": 175865438419850
+                    },
+                    {
+                      "position_number": "110419500012",
+                      "level": 4,
+                      "item_definition": "Flokon halindeki taneler",
+                      "id": 175865438419852,
+                      "parent_id": 175865438419850
+                    }
+                  ]
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Arpa",
+                  "id": 175865438419853,
+                  "parent_id": 175865438419843,
+                  "children": [
+                    {
+                      "position_number": "110419610000",
+                      "level": 4,
+                      "item_definition": "Yassılaştırılmış taneler",
+                      "id": 175865438419854,
+                      "parent_id": 175865438419853
+                    },
+                    {
+                      "position_number": "110419690000",
+                      "level": 4,
+                      "item_definition": "Flokon halindeki taneler",
+                      "id": 175865438419855,
+                      "parent_id": 175865438419853
+                    }
+                  ]
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri:",
+                  "id": 175865438419856,
+                  "parent_id": 175865438419843,
+                  "children": [
+                    {
+                      "position_number": "110419910000",
+                      "level": 4,
+                      "item_definition": "Flokon halindeki pirinç",
+                      "id": 175865438419857,
+                      "parent_id": 175865438419856
+                    },
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 175865438419858,
+                      "parent_id": 175865438419856,
+                      "children": [
+                        {
+                          "position_number": "110419990011",
+                          "level": 5,
+                          "item_definition": "Diğer hububattan yassılastırılmış taneIer",
+                          "id": 175865438419859,
+                          "parent_id": 175865438419858
+                        },
+                        {
+                          "position_number": "110419990012",
+                          "level": 5,
+                          "item_definition": "Diğer hububattan flokon halindeki taneler",
+                          "id": 175865438419860,
+                          "parent_id": 175865438419858
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Diğer işlenmiş taneler (örneğin; kabuğu çıkarılmış, yuvarlatılmış, dilimlenmiş veya iri parçalar halinde ufalanmış) :",
+          "id": 175865438419861,
+          "parent_id": 175865438419838,
+          "children": [
+            {
+              "position_number": "110422",
+              "level": 2,
+              "item_definition": "Yulaf taneleri:",
+              "id": 175865438419862,
+              "parent_id": 175865438419861,
+              "children": [
+                {
+                  "position_number": "110422400000",
+                  "level": 3,
+                  "item_definition": "Kabuğu veya kavuzu çıkarılmış, dilimlenmiş veya iri parçalar halinde ufalanmış olsun olmasın",
+                  "id": 175865438419863,
+                  "parent_id": 175865438419862
+                },
+                {
+                  "position_number": "110422500000",
+                  "level": 3,
+                  "item_definition": "Yuvarlatılmış",
+                  "id": 175865438419864,
+                  "parent_id": 175865438419862
+                },
+                {
+                  "position_number": "110422950000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865438419865,
+                  "parent_id": 175865438419862
+                }
+              ]
+            },
+            {
+              "position_number": "110423",
+              "level": 2,
+              "item_definition": "Mısır taneleri:",
+              "id": 175865438419866,
+              "parent_id": 175865438419861,
+              "children": [
+                {
+                  "position_number": "110423400000",
+                  "level": 3,
+                  "item_definition": "Kabuğu veya kavuzu çıkarılmış, dilimlenmiş veya iri parçalar halinde ufalanmış olsun olmasın; Yuvarlatılmış",
+                  "id": 175865438419867,
+                  "parent_id": 175865438419866
+                },
+                {
+                  "position_number": "110423980000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865438419868,
+                  "parent_id": 175865438419866
+                }
+              ]
+            },
+            {
+              "position_number": "110429",
+              "level": 2,
+              "item_definition": "Diğer hububat taneleri:",
+              "id": 175865438419869,
+              "parent_id": 175865438419861,
+              "children": [
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Arpa taneleri",
+                  "id": 175865438419870,
+                  "parent_id": 175865438419869,
+                  "children": [
+                    {
+                      "position_number": "110429040000",
+                      "level": 4,
+                      "item_definition": "Kabuğu veya kavuzu çıkarılmış, dilimlenmiş veya iri parçalar halinde ufalanmış olsun olmasın",
+                      "id": 175865438419871,
+                      "parent_id": 175865438419870
+                    },
+                    {
+                      "position_number": "110429050000",
+                      "level": 4,
+                      "item_definition": "Yuvarlatılmış",
+                      "id": 175865438419872,
+                      "parent_id": 175865438419870
+                    },
+                    {
+                      "position_number": "110429080000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 175865438419873,
+                      "parent_id": 175865438419870
+                    }
+                  ]
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865438419874,
+                  "parent_id": 175865438419869,
+                  "children": [
+                    {
+                      "position_number": "110429170000",
+                      "level": 4,
+                      "item_definition": "Kabuğu veya kavuzu çıkarılmış, dilimlenmiş veya iri parçalar halinde ufalanmış olsun olmasın",
+                      "id": 175865438419875,
+                      "parent_id": 175865438419874
+                    },
+                    {
+                      "position_number": "110429300000",
+                      "level": 4,
+                      "item_definition": "Yuvarlatılmış",
+                      "id": 175865438419876,
+                      "parent_id": 175865438419874
+                    },
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Sadece iri parçalar halinde ufalanmış:",
+                      "id": 175865438419877,
+                      "parent_id": 175865438419874,
+                      "children": [
+                        {
+                          "position_number": "110429510000",
+                          "level": 5,
+                          "item_definition": "Buğday",
+                          "id": 175865438419878,
+                          "parent_id": 175865438419877
+                        },
+                        {
+                          "position_number": "110429550000",
+                          "level": 5,
+                          "item_definition": "Çavdar",
+                          "id": 175865438419879,
+                          "parent_id": 175865438419877
+                        },
+                        {
+                          "position_number": "110429590000",
+                          "level": 5,
+                          "item_definition": "Diğerleri",
+                          "id": 175865438419880,
+                          "parent_id": 175865438419877
+                        }
+                      ]
+                    },
+                    {
+                      "position_number": null,
+                      "level": 4,
+                      "item_definition": "Diğerleri :",
+                      "id": 175865438419881,
+                      "parent_id": 175865438419874,
+                      "children": [
+                        {
+                          "position_number": "110429810000",
+                          "level": 5,
+                          "item_definition": "Buğdaydan",
+                          "id": 175865438419882,
+                          "parent_id": 175865438419881
+                        },
+                        {
+                          "position_number": "110429850000",
+                          "level": 5,
+                          "item_definition": "Çavdardan",
+                          "id": 175865438419883,
+                          "parent_id": 175865438419881
+                        },
+                        {
+                          "position_number": "110429890000",
+                          "level": 5,
+                          "item_definition": "Diğerleri",
+                          "id": 175865438419884,
+                          "parent_id": 175865438419881
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "110430",
+          "level": 1,
+          "item_definition": "Hububat embriyonları (bütün halde, yassılaştırılmış,flokon haline getirilmiş veya öğütülmüş):",
+          "id": 175865438419885,
+          "parent_id": 175865438419838,
+          "children": [
+            {
+              "position_number": "110430100000",
+              "level": 2,
+              "item_definition": "Buğday",
+              "id": 175865438419886,
+              "parent_id": 175865438419885
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğer hububat:",
+              "id": 175865438419887,
+              "parent_id": 175865438419885,
+              "children": [
+                {
+                  "position_number": "110430900011",
+                  "level": 3,
+                  "item_definition": "Mısır özü",
+                  "id": 175865438419888,
+                  "parent_id": 175865438419887
+                },
+                {
+                  "position_number": "110430900019",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 175865438419889,
+                  "parent_id": 175865438419887
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "1105",
+      "level": 0,
+      "item_definition": "Patates unu, ezmesi, tozları, flokonları, granülleri ve pelletleri",
+      "id": 175865438419890,
+      "parent_id": 11000,
+      "children": [
+        {
+          "position_number": "110510",
+          "level": 1,
+          "item_definition": "Patates unu,ezmesi ve tozları",
+          "id": 175865438419891,
+          "parent_id": 175865438419890,
+          "children": [
+            {
+              "position_number": "110510000011",
+              "level": 2,
+              "item_definition": "Patates unu",
+              "id": 175865438419892,
+              "parent_id": 175865438419891
+            },
+            {
+              "position_number": "110510000012",
+              "level": 2,
+              "item_definition": "Patates ezmesi ve tozları",
+              "id": 175865438419893,
+              "parent_id": 175865438419891
+            }
+          ]
+        },
+        {
+          "position_number": "110520000000",
+          "level": 1,
+          "item_definition": "Patates flokonları, granülleri ve pelletleri",
+          "id": 175865438419894,
+          "parent_id": 175865438419890
+        }
+      ]
+    },
+    {
+      "position_number": "1106",
+      "level": 0,
+      "item_definition": "07.13 Pozisyonuna giren kuru baklagillerin, 07.14 pozisyonuna giren sagunun ve köklerin veya yumruların un, kaba un ve tozları; 8. fasıla giren ürünlerin un, kaba un ve tozu:",
+      "id": 175865438419895,
+      "parent_id": 11000,
+      "children": [
+        {
+          "position_number": "110610000000",
+          "level": 1,
+          "item_definition": "07.13 Pozisyonuna giren kuru baklagillere ait olanlar",
+          "id": 175865438419896,
+          "parent_id": 175865438419895
+        },
+        {
+          "position_number": "110620",
+          "level": 1,
+          "item_definition": "07.14 Pozisyonuna giren saguya, köklere ve yumrulara ait olanlar:",
+          "id": 175865438419897,
+          "parent_id": 175865438419895,
+          "children": [
+            {
+              "position_number": "110620100000",
+              "level": 2,
+              "item_definition": "Başka maddeler katılmış (denature)",
+              "id": 175865438419898,
+              "parent_id": 175865438419897
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 175865438419899,
+              "parent_id": 175865438419897,
+              "children": [
+                {
+                  "position_number": "110620900011",
+                  "level": 3,
+                  "item_definition": "Salep",
+                  "id": 1758654384198100,
+                  "parent_id": 175865438419899
+                },
+                {
+                  "position_number": "110620900019",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758654384198101,
+                  "parent_id": 175865438419899
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "110630",
+          "level": 1,
+          "item_definition": "8. Fasıla giren ürünlere ait olanlar :",
+          "id": 1758654384198102,
+          "parent_id": 175865438419895,
+          "children": [
+            {
+              "position_number": "110630100000",
+              "level": 2,
+              "item_definition": "Muza ait olanlar",
+              "id": 1758654384198103,
+              "parent_id": 1758654384198102
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerlerine ait olanlar",
+              "id": 1758654384198104,
+              "parent_id": 1758654384198102,
+              "children": [
+                {
+                  "position_number": "110630900015",
+                  "level": 3,
+                  "item_definition": "Fındıktan olanlar",
+                  "id": 1758654384198105,
+                  "parent_id": 1758654384198104
+                },
+                {
+                  "position_number": "110630900019",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758654384198106,
+                  "parent_id": 1758654384198104
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "1107",
+      "level": 0,
+      "item_definition": "Malt (kavrulmuş olsun olmasın):",
+      "id": 1758654384198107,
+      "parent_id": 11000,
+      "children": [
+        {
+          "position_number": "110710",
+          "level": 1,
+          "item_definition": "Kavrulmamış:",
+          "id": 1758654384198108,
+          "parent_id": 1758654384198107,
+          "children": [
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Buğday maltı:",
+              "id": 1758654384198109,
+              "parent_id": 1758654384198108,
+              "children": [
+                {
+                  "position_number": "110710110000",
+                  "level": 3,
+                  "item_definition": "Un şeklinde olanlar",
+                  "id": 1758654384198110,
+                  "parent_id": 1758654384198109
+                },
+                {
+                  "position_number": "110710190000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758654384198111,
+                  "parent_id": 1758654384198109
+                }
+              ]
+            },
+            {
+              "position_number": null,
+              "level": 2,
+              "item_definition": "Diğerleri:",
+              "id": 1758654384198112,
+              "parent_id": 1758654384198108,
+              "children": [
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Un şeklinde olanlar",
+                  "id": 1758654384198113,
+                  "parent_id": 1758654384198112,
+                  "children": [
+                    {
+                      "position_number": "110710910011",
+                      "level": 4,
+                      "item_definition": "Arpadan olanlar",
+                      "id": 1758654384198114,
+                      "parent_id": 1758654384198113
+                    },
+                    {
+                      "position_number": "110710910019",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 1758654384198115,
+                      "parent_id": 1758654384198113
+                    }
+                  ]
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758654384198116,
+                  "parent_id": 1758654384198112,
+                  "children": [
+                    {
+                      "position_number": "110710990011",
+                      "level": 4,
+                      "item_definition": "Arpadan olanlar",
+                      "id": 1758654384198117,
+                      "parent_id": 1758654384198116
+                    },
+                    {
+                      "position_number": "110710990019",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 1758654384198118,
+                      "parent_id": 1758654384198116
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "110720",
+          "level": 1,
+          "item_definition": "Kavrulmuş",
+          "id": 1758654384198119,
+          "parent_id": 1758654384198107,
+          "children": [
+            {
+              "position_number": "110720000011",
+              "level": 2,
+              "item_definition": "Buğday",
+              "id": 1758654384198120,
+              "parent_id": 1758654384198119
+            },
+            {
+              "position_number": "110720000012",
+              "level": 2,
+              "item_definition": "Arpa",
+              "id": 1758654384198121,
+              "parent_id": 1758654384198119
+            },
+            {
+              "position_number": "110720000019",
+              "level": 2,
+              "item_definition": "Diğerleri",
+              "id": 1758654384198122,
+              "parent_id": 1758654384198119
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "position_number": "1108",
+      "level": 0,
+      "item_definition": "Nişastalar; inülin:",
+      "id": 1758654384198123,
+      "parent_id": 11000,
+      "children": [
+        {
+          "position_number": null,
+          "level": 1,
+          "item_definition": "Nişastalar:",
+          "id": 1758654384198124,
+          "parent_id": 1758654384198123,
+          "children": [
+            {
+              "position_number": "110811",
+              "level": 2,
+              "item_definition": "Buğday nişastası:",
+              "id": 1758654384198125,
+              "parent_id": 1758654384198124,
+              "children": [
+                {
+                  "position_number": "110811001000",
+                  "level": 3,
+                  "item_definition": "Torba içinde olanlar",
+                  "id": 1758654384198126,
+                  "parent_id": 1758654384198125
+                },
+                {
+                  "position_number": "110811009000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758654384198127,
+                  "parent_id": 1758654384198125
+                }
+              ]
+            },
+            {
+              "position_number": "110812",
+              "level": 2,
+              "item_definition": "Mısır nişastası:",
+              "id": 1758654384198128,
+              "parent_id": 1758654384198124,
+              "children": [
+                {
+                  "position_number": "110812001000",
+                  "level": 3,
+                  "item_definition": "Torba içinde olanlar",
+                  "id": 1758654384198129,
+                  "parent_id": 1758654384198128
+                },
+                {
+                  "position_number": "110812009000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758654384198130,
+                  "parent_id": 1758654384198128
+                }
+              ]
+            },
+            {
+              "position_number": "110813",
+              "level": 2,
+              "item_definition": "Patates nişastası:",
+              "id": 1758654384198131,
+              "parent_id": 1758654384198124,
+              "children": [
+                {
+                  "position_number": "110813001000",
+                  "level": 3,
+                  "item_definition": "Torba içinde olanlar",
+                  "id": 1758654384198132,
+                  "parent_id": 1758654384198131
+                },
+                {
+                  "position_number": "110813009000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758654384198133,
+                  "parent_id": 1758654384198131
+                }
+              ]
+            },
+            {
+              "position_number": "110814",
+              "level": 2,
+              "item_definition": "Manyok (cassava) nişastası:",
+              "id": 1758654384198134,
+              "parent_id": 1758654384198124,
+              "children": [
+                {
+                  "position_number": "110814001000",
+                  "level": 3,
+                  "item_definition": "Torba içinde olanlar",
+                  "id": 1758654384198135,
+                  "parent_id": 1758654384198134
+                },
+                {
+                  "position_number": "110814009000",
+                  "level": 3,
+                  "item_definition": "Diğerleri",
+                  "id": 1758654384198136,
+                  "parent_id": 1758654384198134
+                }
+              ]
+            },
+            {
+              "position_number": "110819",
+              "level": 2,
+              "item_definition": "Diğer nişastalar:",
+              "id": 1758654384198137,
+              "parent_id": 1758654384198124,
+              "children": [
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Pirinç nişastası:",
+                  "id": 1758654384198138,
+                  "parent_id": 1758654384198137,
+                  "children": [
+                    {
+                      "position_number": "110819101000",
+                      "level": 4,
+                      "item_definition": "Torba içinde olanlar",
+                      "id": 1758654384198139,
+                      "parent_id": 1758654384198138
+                    },
+                    {
+                      "position_number": "110819109000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 1758654384198140,
+                      "parent_id": 1758654384198138
+                    }
+                  ]
+                },
+                {
+                  "position_number": null,
+                  "level": 3,
+                  "item_definition": "Diğerleri:",
+                  "id": 1758654384198141,
+                  "parent_id": 1758654384198137,
+                  "children": [
+                    {
+                      "position_number": "110819901000",
+                      "level": 4,
+                      "item_definition": "Torba içinde olanlar",
+                      "id": 1758654384198142,
+                      "parent_id": 1758654384198141
+                    },
+                    {
+                      "position_number": "110819909000",
+                      "level": 4,
+                      "item_definition": "Diğerleri",
+                      "id": 1758654384198143,
+                      "parent_id": 1758654384198141
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "position_number": "110820000000",
+          "level": 1,
+          "item_definition": "İnülin",
+          "id": 1758654384198144,
+          "parent_id": 1758654384198123
+        }
+      ]
+    },
+    {
+      "position_number": "110900000000",
+      "level": 0,
+      "item_definition": "Buğday gluteni (kurutulmuş olsun olmasın)",
+      "id": 1758654384198145,
+      "parent_id": 11000
+    }
+  ]
+}
